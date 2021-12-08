@@ -1,0 +1,251 @@
+Code	SeniorCollector_nom	SeniorCollector_prenom	SeniorCollector	Code2
+AAF	Andriamanantena	Flavien Antonio	Andriamanantena, Flavien Antonio	NA
+AF	Andriatsiferana	Félix	Andriatsiferana, Félix	NA
+AFJ	Adamainty	Jean-Florent	Adamainty, Jean-Florent	NA
+AFW	Westerhaus	Andoni F.	Westerhaus, Andoni F.	NA
+AJL	Andriantiana	Jacky Lucien	Andriantiana, Jacky Lucien	NA
+ALA	Ambalabe	Shade House	Ambalabe, Shade House	NA
+ALBO	Andriamaharoa	Hubert	Andriamaharoa, Hubert	NA
+ALD	Andriamahefarivo	Lalao	Andriamahefarivo, Lalao	NA
+ALH	Lehavana	Adolphe	Lehavana, Adolphe	NA
+ALR	Andriamiarisoa	Lala Roger	Andriamiarisoa, Lala Roger	NA
+AM	Andrianarisata	Michèle	Andrianarisata, Michèle	NA
+AMA	Atalahy	Anselme Marcel	Atalahy, Anselme Marcel	NA
+AMB	Ambatovy	Shade House	Ambatovy, Shade House	NA
+AMR	Ramahefaharivelo	Ando Malala	Ramahefaharivelo, Ando Malala	NA
+ANM	Andrianjafy	Naina Mamisoa	Andrianjafy, Naina Mamisoa	NA
+ANS	Andriamiadana	Stéphano	Andriamiadana, Stéphano	NA
+ANT	Antananarivo	Shade House	Antananarivo, Shade House	NA
+AP	Antilahimena	Patrice	Antilahimena, Patrice	NA
+ARF	Andriamparany	Rivolala Fanomezantsoa	Andriamparany, Rivolala Fanomezantsoa	NA
+ASH	Andriantsalohimisantatra	Andon'ny Avo Hermin Euléandrah	Andriantsalohimisantatra, Andon'ny Avo Hermin Euléandrah	NA
+ASR	Andriambololonera	Sylvie	Andriambololonera, Sylvie	NA
+ATH	Andriamihajarivo	Tefy Harison	Andriamihajarivo, Tefy Harison	NA
+ATJ	Andonahary	Tahinarivony Jacquis	Andonahary, Tahinarivony Jacquis	NA
+ATR	Rabefarihy	Andriantsoa Tahiry	Rabefarihy, Andriantsoa Tahiry	NA
+BD	Berry	Paul	Berry, Paul	NA
+BEN	Rakotonirina	Benja	Rakotonirina, Benja	NA
+BFL	Rakotozafy	Brice Funk Lee	Rakotozafy, Brice Funk Lee	NA
+BHL	Bemita	Harson Landry	Bemita, Harson Landry	NA
+BHV	Behevitra	Laurent	Behevitra, Laurent	NA
+BJT	Be	Jullet	Be, Jullet	NA
+BL	Lewis	Beverley	Lewis, Beverley	NA
+BM	Randriambololona	Michel Bien-Aimé	Randriambololona, Michel Bien-Aimé	NA
+CB	Birkinshaw	Christopher	Birkinshaw, Christopher Robert	NA
+CB	Birkinshaw	Christopher	Birkinshaw, Christopher	NA
+CCL	Claude	Christian	Claude, Christian	NA
+CHW	Hong Wa	Cynthia	Hong Wa, Cynthia	NA
+CKS	Skema	Cindy	Skema, Cindy	NA
+CLF	Frasier	Cynthia	Frasier, Cynthia	NA
+CR	Rakotovao	Charles	Rakotovao, Charles	NA
+D	Daly	Douglas	Daly, Douglas	NA
+DB	Baum	David	Baum, David	NA
+DRD	Andriamiarimanana	Donatien	Andriamiarimanana, Donatien	NA
+EME	Emeline	NA	Emeline	NA
+FAR	Rajaonary	Fano A.	Rajaonary, Fano A.	NA
+FERM	Ferm	Julia	Ferm, Julia	NA
+FLN	Faliniaina	Lucien	Faliniaina, Lucien	NA
+FMB	Randriantafika	Faly	Randriantafika, Faly	NA
+FRB	Faranirina	Lantoarisoa	Faranirina, Lantoarisoa	NA
+GES	Schatz	George	Schatz, George	NA
+GILLESPIE	Gillespie	Lynn	Gillespie, Lynn	NA
+GM	Mathieu	Guido	Mathieu, Guido	NA
+GM	Rahajasoa	Grace Monique	Rahajasoa, Grace Monique	NA
+GRV	Gervais	NA	Gervais	NA
+GTR	Guittou	Riri	Guittou, Riri	NA
+HNR	Andriamiarinoro	Honoré	Andriamiarinoro, Honoré	NA
+HRS	Ravaomanalina	Bako Harisoa	Ravaomanalina, Bako Harisoa	NA
+HS	Sauquet	Hervé	Sauquet, Hervé	NA
+HSC	Hery (?)	Soanary Claude	Hery (?), Soanary Claude	NA
+IB	Iambana	Bernard	Iambana, Bernard	NA
+IL	Luino	Iacopo	Luino, Iacopo	NA
+J	Raharilala	Jeannine	Raharilala, Jeannine	NA
+JA	Aridy	Jao	Aridy, Jao	NA
+JCB	Bradford	Jason C.	Bradford, Jason C.	NA
+JFR	Razafitsalama	Lalao Jeremi	Razafitsalama, Lalao Jeremi	RLJ
+JFR	Razafitsalama	Lalao Jeremi	Razafitsalama, Jérémie Lalao	NA
+JJM	Morawetz	Jeffery	Morawetz, Jeffery	NA
+JJW	Tombonirina	Jean Jacques Wira	Tombonirina, Jean Jacques Wira	NA
+JL	Mora	Jean-Luc	Mora, Jean-Luc	NA
+JM	Miller	Jim	Miller, Jim	NA
+JNI	Raharimampionona	Jeannie	Raharimampionona, Jeannie	NA
+JTA	Josso Tianarifidy	Angelos Stanislas	Josso Tianarifidy, Angelos Stanislas	NA
+KA	Kotozafy	Alphonse	Kotozafy, Alphonse	NA
+KAD	Karatra	Aimé Dochard	Karatra, Aimé Dochard	NA
+KAD	Karatra	Aimée Dochard	Karatra, Aimée Dochard	NA
+LAIVAO	Laivao	Michel Omer	Laivao, Michel Omer	NA
+LG	Gautier	Laurent Vincent	Gautier, Laurent Vincent	NA
+LG	Gautier	Laurent	Gautier, Laurent	NA
+LN	Lachezar	Nikolov	Lachezar, Nikolov	NA
+LPB	Leopold	Jean Berthieu	Leopold, Jean Berthieu	NA
+LR	Laha	Rolland	Laha, Rolland	NA
+LRK	Letsara	Rockiman	Letsara, Rockiman	NA
+LRZ	Ludovic	Reza	Ludovic, Reza	NA
+LV	Vary	Laura	Vary, Laura	NA
+MAE	Ratolojanahary	Maherisoa	Ratolojanahary, Maherisoa	NA
+MAR	Rabarimanarivo	Marina	Rabarimanarivo, Marina	NA
+MC	Callmander	Martin	Callmander, Martin	NA
+MCP	McPherson	Gordon	McPherson, Gordon	NA
+MER	Rahelivololona	Marie Elisette	Rahelivololona, Marie Elisette	NA
+MIC	Miandrimanana	Cyprien	Miandrimanana, Cyprien	NA
+MM	Moeller	Michael	Moeller, Michael	NA
+MNH	Manjakahery	Herisoa Nantena	Manjakahery, Herisoa Nantena	NA
+MNV	Manjato	Nadiah Vololomboahangy	Manjato, Nadiah Vololomboahangy	NA
+MR	Martial	NA	Martial	NA
+MZ	Zjhra	Michelle	Zjhra, Michelle	NA
+NAT	Ramanantenasoa	Nantenaina	Ramanantenasoa, Nantenaina	NA
+NH	Helme	Nick	Helme, Nick	NA
+NM	Messmer	Nathalie	Messmer, Nathalie	NA
+NMR	NA	NA	NA	NA
+NSR	Rasoanaivo	Niry	Rasoanaivo, Niry	NA
+NW	Wilding	Nicholas	Wilding, Nicholas	NA
+NZM	Nombanjanahary	Zoherinjina Minosoa	Nombanjanahary, Zoherinjina Minosoa	NA
+OA	Andrianantoanina	Olivier	Andrianantoanina, Olivier	NA
+OP	Odile	Poncy	Odile, Poncy	NA
+PBP	Phillipson	Peter B.	Phillipson, Peter B.	NA
+PDB	De Block	Petra	De Block, Petra	NA
+PJ	Rakotomalaza	Pierre Jules	Rakotomalaza, Pierre Jules	NA
+PPL	Lowry	Pete	Lowry, Pete	NA
+PR	Ranirison	Patrick	Ranirison, Patrick	NA
+R	Rabevohitra	Raymond	Rabevohitra, Raymond	NA
+RA	Randrianasolo	Armand	Randrianasolo, Armand	NA
+RAB	Rabearivony	Dimbilala Aina Nomenjanahary	Rabearivony, Dimbilala Aina Nomenjanahary	NA
+RAD	Rabehevitra	David	Rabehevitra, David	NA
+RAF	Rakotoarisoa	Fenonirina	Rakotoarisoa, Fenonirina	NA
+RAG	Rakotonirina	Arsène Giovanni	Rakotonirina, Arsène Giovanni	NA
+RAL	Ravelomalala	Lucia Stefanie	Ravelomalala, Lucia Stefanie	NA
+RAL	Ravelomalala	Lucia S.	Ravelomalala, Lucia S.	NA
+RAM	Razafimalala	Andrée Anne Marie	Razafimalala, Andrée Anne Marie	NA
+RAV	Ravaoherinavalona	Rota	Ravaoherinavalona, Rota	NA
+RB	Ramamonjiarisoa	Bakolimalala	Ramamonjiarisoa, Bakolimalala	NA
+RB	Randriamampionona	Bébéronn	Randriamampionona, Bébéronn	NA
+RBC	Razafindrazaka	Barthelemi	Razafindrazaka, Barthelemi	NA
+RBE	Bernard	Roger	Bernard, Roger	NA
+RBM	Ralaijaona	Benjamina	Ralaijaona, Benjamina	NA
+RBO	Rakotonindriana	Bruno	Rakotonindriana, Bruno	NA
+RBR	Ramandimbisoa	Brigitte	Ramandimbisoa, Brigitte	NA
+RBU	Bussmann	Rainer	Bussmann, Rainer	NA
+RCN	Rado Claudio	Nandrasana	Rado Claudio, Nandrasana	NA
+RCS	Randrianarivelo	Clairemont	Randrianarivelo, Clairemont	NA
+RD	Ravelonarivo	Désiré	Ravelonarivo, Désiré	NA
+RDG	Randriamahazomanana	Daniel George	Randriamahazomanana, Daniel George	NA
+RDN	Ravelomanantsoa	Daniel	Ravelomanantsoa, Daniel	NA
+RED	Ramisy	Edmond	Ramisy, Edmond	NA
+REH	Razanatsoa	Hélène	Razanatsoa, Hélène	NA
+RER	Raharijaona	Era Riana	Raharijaona, Era Riana	NA
+RF	Rasoavimbahoaka	Fanjanavalona	Rasoavimbahoaka, Fanjanavalona	NA
+RFA	Ratovoson	Fidisoa	Ratovoson, Fidisoa "Fidy"	NA
+RFA	Ratovoson	Fidisoa	Ratovoson, Fidisoa	NA
+RFM	Randriatsivery	Floria Monique	Randriatsivery, Floria Monique	NA
+RFM	Randriatsivery	Monique Fleuria	Randriatsivery, Monique Fleuria	NA
+RFN	Ramanitrinizaka	Fanilo	Ramanitrinizaka, Fanilo Malala	NA
+RFN	Ramanitrinizaka	Fanilo	Ramanitrinizaka, Fanilo	NA
+RFY	Razafindrakoto	Fanjambola Yolande	Razafindrakoto, Fanjambola Yolande	NA
+RHA	Archer	Robert H.	Archer, Robert H.	NA
+RHA	Rasolohery	Andriambolantsoa	Rasolohery, Andriambolantsoa	NA
+RHF	Razafimelison	Herivola Fenitriniela	Razafimelison, Herivola Fenitriniela	NA
+RHJ	Rasoazanany	Haingo Marie Judith	Rasoazanany, Haingo Marie Judith	NA
+RHM	Ramanambohitra	Herinambinina Navalona	Ramanambohitra, Navalona Herinambinina	NA
+RHM	Ramanambohitra	Herinambinina Navalona	Ramanambohitra, Herinambinina Navalona	NA
+RHN	Ravololonanahary	Hantanirina	Ravololonanahary, Hantanirina	NA
+RHS	Ranarivelo	Heritiana	Ranarivelo, Heritiana	NA
+RHS	Ratsaralaza	Herisitraka	Ratsaralaza, Herisitraka	NA
+RHT	Rasatatsihoarana	Thierry H.F.	Rasatatsihoarana, Thierry H.F.	NA
+RHV	Razafindraibe	Hanta	Razafindraibe, Hanta	NA
+RIR	Randrianaivo	Richard	Randrianaivo, Richard	NA
+RJ	Randrianasolo	Joma	Randrianasolo, Joma	NA
+RJ	Roilahy	Justin	Roilahy, Justin	NA
+RJA	Ramahenina	Joharintsoa Aina	Ramahenina, Joharintsoa Aina	NA
+RJB	Razafindrabe	Jean-Baptiste	Razafindrabe, Jean-Baptiste	NA
+RJH	Ramahefarison	Jacquis Harimbolasoa	Ramahefarison, Jacquis Harimbolasoa	NA
+RJL	Randriamanarivo	Juliette	Randriamanarivo, Juliette	NA
+RJO	Rabenantoandro	Johny	Rabenantoandro, Johny	NA
+RJQ	Razanatsoa	Jacqueline	Razanatsoa, Jacqueline	NA
+RJS	Rajaonary	Stanislas	Rajaonary, Stanislas	NA
+RJU	Rabe	Justin	Rabe, Justin	NA
+RKM	Rabe	Koloina Manohisoa	Rabe, Koloina Manohisoa	NA
+RKN	Rakotoarivelo	Nivo Hariniaina	Rakotoarivelo, Nivo Hariniaina	NA
+RKN	Rakotoarivelo	Nivo Hariniaina	Rakotoarivelo, Nivo H.	NA
+RL	Rakotomalala	Liva	Rakotomalala, Liva	NA
+RLC	Raholivelo	Liliane Christine	Raholivelo, Liliane Christine	NA
+RLI	Ralimanana	Hélène	Ralimanana, Hélène	NA
+RLL	Rakotondrafara	Andriamalala	Rakotondrafara, Andriamalala	NA
+RLM	Randrianjanaka	Lucien Marson	Randrianjanaka, Lucien Marson	NA
+RLP	Rasoamanana	Lalaina Patricia	Rasoamanana, Lalaina P.	NA
+RLP	Rasoamanana	Lalaina Patricia	Rasoamanana, Lalaina Patricia	NA
+RMF	Ramanakoto	Miora Falimiarana	Ramanakoto, Miora Falimiarana	NA
+RMF	Ramanakoto	Miora Falimiarana	Ramanakoto, Miora M.	same as Miora Falimiarana?
+RMH	Rasoafaranaivo	Margianne Hariline	Rasoafaranaivo, Margianne Hariline	NA
+RMN	Razafindraibe	Nambinintsoa Mendrika	Razafindraibe, Nambinintsoa Mendrika	NA
+RMO	Randrianjanahary	Miramasoandro Onitiana	Randrianjanahary, Miramasoandro Onitiana	NA
+RMS	Rasoanindriana	Mahenintsoa Harisandy	Rasoanindriana, Mahenintsoa Harisandy	NA
+RN	Réserves Naturelles de Madagascar	Réserves Naturelles de Madagascar	RESERVES NATURELLES, *	NA
+RN	Réserves Naturelles de Madagascar	Réserves Naturelles de Madagascar	Reserves Naturelles [collection series]	NA
+RNA	Razafimamonjy	Nivo Alisoa	Razafimamonjy, Nivo ALisoa	NA
+RNA	Razafimamonjy	Nivo Alisoa	Razafimamonjy, Nivo Alisoa	NA
+RNF	Rakotonasolo	Franck	Rakotonasolo, Franck	NA
+RNH	Rakotonirina	Nivohenintsoa	Rakotonirina, Nivohenintsoa	NA
+ROC	Randriambololomamonjy	Ornella Christine	Randriambololomamonjy, Ornella Christine	NA
+ROL	Rakotondrajaona	Roland	Rakotondrajaona, Roland	NA
+ROM	Rabarijaona	Narindra Romer	Rabarijaona, Narindra Romer	NA
+RON	Rafanomezantsoa	Odoris Norlin	Rafanomezantsoa, Odoris Norlin	NA
+ROR	Ranaivojaona	Rolland	Ranaivojaona, Rolland	NA
+ROZ	Randimbison	Maherizo	Randimbison, Maherizo	NA
+RPJ	Randria	Paul Joseph	Randria, Paul Joseph	NA
+RR	Rakoto	Raphael	Rakoto, Raphael	NA
+RRA	Rajoharison	Rivo	Rajoharison, Rivo	NA
+RRE	Randriamarosoa	Rémi	Randriamarosoa, Rémi	NA
+RRG	Ramison	Roger Georgensen	Ramison, Roger Georgensen	NA
+RRH	Ramananjanahary	Rondro	Ramananjanahary, Rondro	NA
+RRI	Rajemisa	Richard	Rajemisa, Richard	NA
+RRN	Ramanantsialonina	Ravo Nantenaina	Ramanantsialonina, Ravo Nantenaina	NA
+RS	Rapanarivo	Solo	Rapanarivo, Solo	NA
+RSE	Rakotoarisoa	Solofo Eric	Rakotoarisoa, Eric Solofo	NA
+RSE	Rakotoarisoa	Solofo Eric	Rakotoarisoa, Solofo Eric	NA
+RTF	Raveloson	Tolojanahary Felantsoa	Raveloson, Tolojanahary Felantsoa	NA
+RTH	Rakouth	Hasina Nomentsoa	Rakouth, Hasina Nomentsoa	NA
+RTN	Randriamiharisoa	Tolojanahary Nirina Maria	Randriamiharisoa, Tolojanahary Nirina Maria	NA
+RTN	Tolojanahary	Nirina	Tolojanahary, Nirina	NA
+RTV	Rivoharison	Tahiry Victoria	Rivoharison, Tahiry Victoria	NA
+RVF	Ravelonahina	Harimisa	Ravelonahina, Harimisa	NA
+RVM	Rasolofoniaina	Vonimirana Mbolatiana	Rasolofoniaina, Vonimirana Mbolatiana	NA
+RVN	Ravololomanana	Noromalala	Ravololomanana, Noromalala	NA
+RVO	Andrianasolo	Rivoniony	Andrianasolo, Rivoniony	NA
+RVT	Razafindrahaja	Vololotahina	Razafindrahaja, Vololotahina	NA
+RZA	Razanatsima	Aina	Razanatsima, Aina	NA
+RZC	Rakotonirina	Casmir	Rakotonirina, Casmir Zoly	NA
+RZC	Rakotonirina	Casmir	Rakotonirina, Casmir	NA
+RZD	Razafindramora	Dernah	Razafindramora, Dernah	NA
+RZK	Razakamalala	Richardson	Razakamalala, Richardson	NA
+RZK	Razakamalala	Richard	Razakamalala, Richard	NA
+SAF	Andrianarivelo	Sandratra Aina Fanantenana	Andrianarivelo, Sandratra Aina Fanantenana	NA
+SAN	Sandratriniaina	Andrianasolo Ninah	Sandratriniaina, Andrianasolo Ninah	NA
+SB	Buerki	Sven	Buerki, Sven	NA
+SBF	Federman	Sarah Beck	Federman, Sarah Beck	NA
+SC	Crameri	Simon Flavio	Crameri, Simon Flavio	NA
+SF	Service Forestier de Madagascar	Service Forestier de Madagascar	Service Forestier de Madagascar	NA
+SF	Service Forestier de Madagascar	Service Forestier de Madagascar	Service forestier [collection series]	NA
+SF	Service Forestier de Madagascar	Service Forestier de Madagascar	SERVICE FORESTIER, *	NA
+SFR	Andrianarivelo	Soafara	Andrianarivelo, Soafara Niaina	NA
+SFR	Andrianarivelo	Soafara	Andrianarivelo, Soafara	NA
+SG	Razafimandimbison	Sylvain Georges	Razafimandimbison, Sylvain Georges	NA
+SH	Hassold	Sonja	Hassold, Sonja	HS
+SJ	Solo	Justin	Solo, Justin	NA
+SM	Malcomber	Simon	Malcomber, Simon	NA
+SNGF	Silo National des Graines Forestières	Silo National des Graines Forestières	SNGF	NA
+SRA	Syde	Rémi Anthony	Syde, Anthony Rémi	NA
+SRA	Syde	Rémi Anthony	Syde, Rémi Anthony	NA
+SSR	Randrianasolo	Sennen Solofo	Randrianasolo, Sennen Solofo	NA
+ST	Rakotonandrasana	Stephan	Rakotonandrasana, Stephan	NA
+SV	Verlynde	Simon	Verlynde, Simon	NA
+SW	Wohlhauser	Sébastian	Wohlhauser, Sébastian	NA
+SY	Eboroke	Sylvin	Eboroke, Sylvin	NA
+TAB	Randrianarivony	Tabita	Randrianarivony, Tabita	NA
+TAJ	Tahinarivony	Andonahary  Jacquis	Tahinarivony, Andonahary  Jacquis	NA
+TDD	Tahirinirainy	Dinasoa Donné	Tahirinirainy, Dinasoa Donné	NA
+TH	Haevermans	Thomas	Haevermans, Thomas	NA
+TOK	Ralainaorina	Toky Niaina	Ralainaorina, Toky Niaina	NA
+TS	Stevart	Tariq	Stevart, Tariq	NA
+TSS	Tsarasoa	Sitrakiniaina Sandy	Tsarasoa, Sitrakiniaina Sandy	NA
+WLA	Applequist	Wendy	Applequist, Wendy	NA
+ZR	Rogers	Zachary Scott	Rogers, Zachary Scott	NA
