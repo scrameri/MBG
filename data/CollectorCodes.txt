@@ -829,7 +829,7 @@ MAM	Mwangoka, Moses A.	Mwangoka	Moses A.	MAM	NA	2
 MNA	Mwangulango, Nathan A.	Mwangulango	Nathan A.	MNA	NA	2
 MLB	Mwasumbi, Leonard Beluke	Mwasumbi	Leonard Beluke	MLB	NA	2
 MGT	Mwiga, G. T.	Mwiga	G. T.	MGT	NA	2
-NMR	NA	NA	NA	NMR	NA	NA
+NMR	Rajaonarivelo, Njaranirina Mickael	Rajaonarivelo	Njaranirina Mickael	NMR	NA	NA
 NACW	Nachamba, W.	Nachamba	W.	NACW	NA	2
 NOC	Nascimento, O. C. do	Nascimento	O. C. do	NOC	NA	2
 NJO	Ndege, John Otieno	Ndege	John Otieno	NJO	NA	2
