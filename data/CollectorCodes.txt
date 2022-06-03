@@ -1,1462 +1,1465 @@
-Code	SeniorCollector	SeniorCollector_nom	SeniorCollector_prenom	Code2	Comment	Batch
-AAT	Abbott, A. T. D.	Abbott	A. T. D.	AAT	NA	1
-AJR	Abbott, John Richard	Abbott	John Richard	AJR	NA	2
-AT	Abbott, Tony	Abbott	Tony	AT	NA	NA
-ARD	Abdallah, Raphael D.	Abdallah	Raphael D.	ARD	NA	2
-AK	Abdul-Salim, Kobinah	Abdul-Salim	Kobinah	AK	NA	2
-AYS	Abeid, Yahya Shaaban	Abeid	Yahya Shaaban	AYS	NA	2
-AJP	Abraham, Jean Prosper	Abraham	Jean Prosper	AJP	NA	1
-A	Acevedo-Rodríguez, Pedro	Acevedo-Rodríguez	Pedro	A	NA	2
-ALG	Acosta Vargas, Luis Guillermo	Acosta Vargas	Luis Guillermo	ALG	NA	2
-AA	Adalardo de Oliveira, Alexandre	Adalardo de Oliveira	Alexandre	AA	NA	2
-AFJ	Adamainty, Jean-Florent	Adamainty	Jean-Florent	AFJ	NA	NA
-ACD	Adams, Charles Dennis	Adams	Charles Dennis	ACD	NA	2
-AKR	Afzelius, Karl Rudolf	Afzelius	Karl Rudolf	AKR	NA	1
-AGUA	Aguayo, Antonio	Aguayo	Antonio	AGUA	NA	2
-ARA	Aguilar Fernández, Reinaldo Alexis de Jesús	Aguilar Fernández	Reinaldo Alexis de Jesús	ARA	NA	2
-AMG	Águilar M., Gabriel	Águilar M.	Gabriel	AMG	NA	2
-ARM	Aguilar R., M.	Aguilar R.	M.	ARM	NA	2
-AAL	Aké Assi, Laurent	Aké Assi	Laurent	AAL	NA	1
-ABW	Albuquerque, Byron Wilson Pereira de	Albuquerque	Byron Wilson Pereira de	ABW	NA	2
-AL	Alencar, Lúcia	Alencar	Lúcia	AL	NA	2
-AAC	Alleizette, Aymar Charles d'	Alleizette	Aymar Charles d'	AAC	NA	1
-AC	Allen, Cyril	Allen	Cyril	AC	NA	2
-APH	Allen, Paul Hamilton	Allen	Paul Hamilton	APH	NA	2
-LA	Allorge, Lucile	Allorge	Lucile	LA	NA	1
-F	Almeda, Frank, Jr.	Almeda	Frank	F	NA	2
-AAS	Altamirano Azurduy, Saúl	Altamirano Azurduy	Saúl	AAS	NA	2
-AMI	Alvarado Flores, Miriam Icela	Alvarado Flores	Miriam Icela	AMI	NA	2
-AMD	Álvarez M., Demetrio	Álvarez M.	Demetrio	AMD	NA	2
-AAB	Alvarez, Aída B.	Alvarez	Aída B.	AAB	NA	2
-ALA	Ambalabe, Shade House	Ambalabe	Shade House	ALA	NA	NA
-AMB	Ambatovy, Shade House	Ambatovy	Shade House	AMB	NA	NA
-AMY	Ammann, Morgane Y.	Ammann	Morgane Y.	AMY	NA	1
-AAMA	Amorim, *	Amorim	NA	AAMA	NA	2
-AAMA	Amorim, André Márcio A.	Amorim	André Márcio A.	AAMA	NA	2
-AFM	Amsini, Fidèle M.	Amsini	Fidèle M.	AFM	NA	2
-AW	Anderson, W.	Anderson	W.	AW	NA	2
-AWB	Anderson, William (Bill) Russell	Anderson	William (Bill) Russell	AWB	NA	2
-ATJ	Andonahary, Tahinarivony Jacquis	Andonahary	Tahinarivony Jacquis	ATJ	NA	NA
-ATJ	Tahinarivony, Andonahary Jacquis	Andonahary	Tahinarivony Jacquis	ATJ	NA	NA
-ALBO	Andriamaharoa, Hubert	Andriamaharoa	Hubert	ALBO	NA	NA
-AMM	Andriamahay, M.	Andriamahay	M.	AMM	NA	1
-ALD	Andriamahefarivo, Lalao	Andriamahefarivo	Lalao	ALD	NA	NA
-AAF	Andriamanantena, Flavien Antonio	Andriamanantena	Flavien Antonio	AAF	NA	NA
-ASR	Andriambololonera, Sylvie	Andriambololonera	Sylvie Renée	ASR	NA	NA
-ASR	Andriambololonera, Sylvie Renée	Andriambololonera	Sylvie Renée	ASR	NA	1
-ANS	Andriamiadana, Stéphano	Andriamiadana	Stéphano	ANS	NA	NA
-DRD	Andriamiarimanana, Donatien	Andriamiarimanana	Donatien	DRD	NA	NA
-HNR	Andriamiarinoro, Honoré	Andriamiarinoro	Honoré	HNR	NA	NA
-ALR	Andriamiarisoa, Lala Roger	Andriamiarisoa	Lala Roger	ALR	NA	NA
-ATH	Andriamihajarivo, Tefy Harison	Andriamihajarivo	Tefy Harison	ATH	NA	NA
-AD	Andriamiharimanana, Donatien	Andriamiharimanana	Donatien	AD	NA	1
-ARF	Andriamparany, Rivolala Fanomezantsoa	Andriamparany	Rivolala Fanomezantsoa	ARF	NA	NA
-AB	Andrianaivoravelona, B.	Andrianaivoravelona	B.	AB	NA	2
-OA	Andrianantoanina, Olivier	Andrianantoanina	Olivier	OA	NA	NA
-AM	Andrianarisata, Michèle	Andrianarisata	Michèle	AM	NA	NA
-SAF	Andrianarivelo, Sandratra Aina Fanantenana	Andrianarivelo	Sandratra Aina Fanantenana	SAF	NA	NA
-SFR	Andrianarivelo, Soafara	Andrianarivelo	Soafara Niaina	SFR	NA	NA
-SFR	Andrianarivelo, Soafara Niaina	Andrianarivelo	Soafara Niaina	SFR	NA	NA
-RVO	Andrianasolo, Rivoniony	Andrianasolo	Rivoniony	RVO	NA	NA
-HA	Andrianirina, Herson	Andrianirina	Herson	HA	NA	1
-ANM	Andrianjafy, Naina Mamisoa	Andrianjafy	Naina Mamisoa	ANM	NA	NA
-AJ	Andriantiana, Jacky	Andriantiana	Jacky	AJ	NA	2
-AJL	Andriantiana, Jacky Lucien	Andriantiana	Jacky Lucien	AJL	NA	NA
-ASH	Andriantsalohimisantatra, Andon'ny Avo Hermin Euléandrah	Andriantsalohimisantatra	Andon'ny Avo Hermin Euléandrah	ASH	NA	NA
-AF	Andriatsiferana, Félix	Andriatsiferana	Félix	AF	NA	NA
-NA	Anonymous	Anonymous	NA	NA	NA	2
-ANT	Antananarivo, Shade House	Antananarivo	Shade House	ANT	NA	NA
-AAP	Antezana Diaz, Ana Patricia	Antezana Diaz	Ana Patricia	AAP	NA	2
-AP	Antilahimena, Patrice	Antilahimena	Patrice	AP	NA	NA
-ATM	Antonio, Thomas M.	Antonio	Thomas M.	ATM	NA	2
-WLA	Applequist, Wendy	Applequist	Wendy	WLA	NA	NA
-AWL	Applequist, Wendy Linn	Applequist	Wendy Linn	AWL	NA	2
-M	Araquistain, Mauricio	Araquistain	Mauricio	M	NA	2
-AAM	Araujo Murakami, Alejandro	Araujo Murakami	Alejandro	AAM	NA	1
-ADS	Araujo, Dorothy Sue Dunn de	Araujo	Dorothy Sue Dunn de	ADS	NA	2
-ARMM	Arbo, María Mercedes	Arbo	María Mercedes	ARMM	NA	2
-ARH	Archer, Robert H.	Archer	Robert H.	ARH	NA	NA
-ATG	Arellano Torres, Gabriel	Arellano Torres	Gabriel	ATG	NA	2
-AJC	Arias G., Juan Carlos	Arias G.	Juan Carlos	AJC	NA	2
-JA	Aridy, Jao	Aridy	Jao	JA	NA	NA
-L	Aristeguieta, Leandro	Aristeguieta	Leandro	L	NA	2
-N	ARMAND, *	ARMAND	NA	N	NA	2
-AJT	Arnason, John Thor	Arnason	John Thor	AJT	NA	2
-ACJ	Aronson, James C.	Aronson	James C.	ACJ	NA	2
-ALC	Arroyo Padilla, Luzmila (Chiqui)	Arroyo Padilla	Luzmila (Chiqui)	ALC	NA	2
-ARVR	Arvigo, Rosita	Arvigo	Rosita	ARVR	NA	2
-AE	Asplund, Erik	Asplund	Erik	AE	NA	2
-ALJ	Asunción Leveau, José	Asunción Leveau	José	ALJ	NA	2
-AMA	Atalahy, Anselme	Atalahy	Anselme Marcel	AMA	NA	NA
-AMA	Atalahy, Anselme Marcel	Atalahy	Anselme Marcel	AMA	NA	NA
-ADE	Atha, Daniel E.	Atha	Daniel E.	ADE	NA	2
-ATIL	ATILAHIMENA, *	ATILAHIMENA	NA	ATIL	NA	2
-AX	Aubriot, Xavier	Aubriot	Xavier	AX	NA	2
-AME	Aulestia, Milton (Eduardo)	Aulestia	Milton (Eduardo)	AME	NA	2
-ADF	Austin, Daniel Frank	Austin	Daniel Frank	ADF	NA	2
-ALV	Averyanov, Leonid Vladimirovich	Averyanov	Leonid Vladimirovich	ALV	NA	2
-AFF	Axelrod, Franklin (Frank) S.	Axelrod	Franklin (Frank) S.	AFF	NA	2
-AYFF	Ayala Flores, Franklin	Ayala Flores	Franklin	AYFF	NA	2
-AGA	Aymard Corredor, Gerardo Antonio	Aymard Corredor	Gerardo Antonio	AGA	NA	2
-AYMA	AYMARD, *	AYMARD	NA	AYMA	NA	2
-BG	Bacab W., Gilberto	Bacab W.	Gilberto	BG	NA	2
-BFJ	Badré, Frederic Jean	Badré	Frederic Jean	BFJ	NA	2
-BN	BAHIA, *	BAHIA	NA	BN	NA	2
-BCC	Baker, Charles (Carl) Fuller	Baker	Charles (Carl) Fuller	BCC	NA	2
-BTJ	Baldwin, John Thomas	Baldwin	John Thomas	BTJ	NA	2
-BWL	Balée, W. L.	Balée	W. L.	BWL	NA	2
-BMJ	Balick, Michael Jeffrey	Balick	Michael Jeffrey	BMJ	NA	2
-BPR	Bally, Peter René Oscar	Bally	Peter René Oscar	BPR	NA	2
-BH	Balslev, Henrik	Balslev	Henrik	BH	NA	2
-BANM	Bang, Miguel	Bang	Miguel	BANM	NA	2
-BTZ	Bangun, Tjut Zul Fatisa	Bangun	Tjut Zul Fatisa	BTZ	NA	2
-BP	Barberá, Patricia	Barberá	Patricia	BP	NA	2
-BPJ	Barbour, Philip J.	Barbour	Philip J.	BPJ	NA	2
-BGW	Barclay, George W.	Barclay	George W.	BGW	NA	2
-BVM	Bardot-Vaucoulon, Martine	Bardot-Vaucoulon	Martine	BVM	NA	1
-BFD	Barlow, F. D.	Barlow	F. D.	BFD	NA	2
-BLC	Barnett, Lisa Ceryle	Barnett	Lisa Ceryle	BLC	NA	2
-BR	Baron, Richard	Baron	Richard	BR	NA	1
-HLD	Barreto, Henrique Lamahyer de Mello	Barreto	Henrique Lamahyer de Mello	HLD	NA	2
-BKA	Barringer, Kerry Alan	Barringer	Kerry Alan	BKA	NA	2
-FB	Barthelat, Fabien	Barthelat	Fabien	FB	NA	1
-BSF	Bascopé Sarué, Sergio Francisco	Bascopé Sarué	Sergio Francisco	BSF	NA	2
-BI	Basualdo, Isabel	Basualdo	Isabel	BI	NA	2
-P	Basurto, Pablo	Basurto	Pablo	P	NA	2
-BGL	Bates, George L.	Bates	George L.	BGL	NA	2
-DB	Baum, David	Baum	David	DB	NA	NA
-BDA	Baum, David Alastair	Baum	David Alastair	BDA	NA	2
-BKS	Bawa, Kamaljit Singh	Bawa	Kamaljit Singh	BKS	NA	2
-BJT	Be, Jullet	Be	Jullet	BJT	NA	NA
-BJR	Be, Jullet R.	Be	Jullet R.	BJR	NA	1
-BEAP	Beaujard, Philippe	Beaujard	Philippe	BEAP	NA	2
-BSG	Beck, Stephan G.	Beck	Stephan G.	BSG	NA	1
-BHV	Behevitra, Laurent	Behevitra	Laurent	BHV	NA	NA
-BRP	Belém, Romeu P.	Belém	Romeu P.	BRP	NA	2
-MJ	Belgrano, Manuel Joaquín	Belgrano	Manuel Joaquín	MJ	NA	2
-BAD	Bell, Deborah A.	Bell	Deborah A.	BAD	NA	2
-B	Bellefroid, Elke	Bellefroid	Elke	B	NA	4
-BE	Bello Carranza, Eric	Bello Carranza	Eric	BE	NA	2
-BHL	Bemita, Harson Landry	Bemita	Landry Harison	BHL	NA	NA
-BHL	Bemita, Landry Harison	Bemita	Landry Harison	BHL	NA	1
-BCK	Berg, Cornelis (Kees) Christiaan	Berg	Cornelis (Kees) Christiaan	BCK	NA	2
-BJ	Berhaut, Jean	Berhaut	Jean	BJ	NA	1
-BOB	Berlin, Overton Brent	Berlin	Overton Brent	BOB	NA	2
-RBE	Bernard, Roger	Bernard	Roger	RBE	NA	NA
-BAL	Bernardi, Alessandro Luciano	Bernardi	Alessandro Luciano	BAL	NA	1
-BAC	Bernier, Alphonse Charles Joseph	Bernier	Alphonse Charles Joseph	BAC	NA	1
-BD	Berry, Paul	Berry	Paul	BD	NA	NA
-BPE	Berry, Paul E.	Berry	Paul E.	BPE	NA	2
-BCL	Bertero, Carlo Luigi Giuseppe	Bertero	Carlo Luigi Giuseppe	BCL	NA	2
-BMC	Beza Mahafaly Collection Team	Beza Mahafaly Collection Team	NA	BMC	NA	2
-E	Bidault, Ehoarn	Bidault	Ehoarn	E	NA	2
-BGS	Bidgood, Gillian Sally	Bidgood	Gillian Sally	BGS	NA	2
-BF	Biganzoli, Fernando	Biganzoli	Fernando	BF	NA	2
-BILF	Billiet, Frieda	Billiet	Frieda	BILF	NA	2
-BMG	Bingham, Michael Graham	Bingham	Michael Graham	BMG	NA	2
-CB	Birkinshaw, Christopher	Birkinshaw	Christopher Robert	CB	NA	NA
-CB	Birkinshaw, Christopher Robert	Birkinshaw	Christopher Robert	CB	NA	NA
-BS	Blackmore, Stephen	Blackmore	Stephen	BS	NA	2
-BJS	Blanchet, Jacques Samuel	Blanchet	Jacques Samuel	BJS	NA	2
-BCA	Blanco, Carlos A.	Blanco	Carlos A.	BCA	NA	2
-BLAL	Blandón, Lenner	Blandón	Lenner	BLAL	NA	2
-BSA	Bodine, Sharon Ann	Bodine	Sharon Ann	BSA	NA	2
-BC	Bodner, Connie Cox	Bodner	Connie Cox	BC	NA	2
-BLH	Boivin, Louis Hyacinthe	Boivin	Louis Hyacinthe	BLH	NA	1
-WB	Bojer, Wenceslas (Wenzel)	Bojer	Wenceslas (Wenzel)	WB	NA	1
-BRF	Bolliger, Ralph F.	Bolliger	Ralph F.	BRF	NA	2
-BONJ	Bono, José	Bono	José	BONJ	NA	2
-BBM	Boom, Brian Morey	Boom	Brian Morey	BBM	NA	2
-BJM	Bosser, Jean Marie	Bosser	Jean Marie	BJM	NA	1
-BA	Boupoya, Archange	Boupoya	Archange	BA	NA	2
-BHE	Box, Harold Edmund	Box	Harold Edmund	BHE	NA	2
-BBL	Boyle, Bradley Lorne	Boyle	Bradley Lorne	BBL	NA	2
-JCB	Bradford, Jason C.	Bradford	Jason C.	JCB	NA	NA
-BJC	Bradford, Jason Christopher	Bradford	Jason Christopher	BJC	NA	2
-BAF	Bradley, Adam F.	Bradley	Adam F.	BAF	NA	2
-JMA	Braga, João Marcelo Alvarenga	Braga	João Marcelo Alvarenga	JMA	NA	2
-BSJ	Brandbyge, John S.	Brandbyge	John S.	BSJ	NA	2
-BDE	Breedlove, Dennis E.	Breedlove	Dennis E.	BDE	NA	2
-BAM	Brenes Mora, Alberto Manuel	Brenes Mora	Alberto Manuel	BAM	NA	2
-BFF	Breteler, Franciscus ("Frans") Jozef (Joseph)	Breteler	Franciscus ("Frans") Jozef (Joseph)	BFF	NA	2
-BSW	Brewer, Steven W.	Brewer	Steven W.	BSW	NA	2
-MB	Briggs, Marie	Briggs	Marie	MB	NA	1
-BNL	Britton, Nathaniel Lord	Britton	Nathaniel Lord	BNL	NA	2
-BWE	Broadway, Walter Elias	Broadway	Walter Elias	BWE	NA	2
-BNV	Brokaw, Nick V. L.	Brokaw	Nick V. L.	BNV	NA	2
-BRR	Brooks, Robert Richard	Brooks	Robert Richard	BRR	NA	2
-BJL	Brown, John L.	Brown	John L.	BJL	NA	2
-BJD	Bruijn, J. de	Bruijn	J. de	BJD	NA	2
-BDR	Brunner, David Russell	Brunner	David Russell	BDR	NA	2
-BUCM	Buckner, Margaret	Buckner	Margaret	BUCM	NA	2
-SB	Buerki, Sven	Buerki	Sven	SB	NA	NA
-BDG	Burch, Derek George	Burch	Derek George	BDG	NA	2
-VDB	Burgt, Xander van der	Burgt	Xander van der	VDB	NA	1
-BZ	Burivalova, Zuzana	Burivalova	Zuzana	BZ	NA	2
-BRJ	Burnham, Robyn Jeanette	Burnham	Robyn Jeanette	BRJ	NA	2
-BPC	Busey, Philip C.	Busey	Philip C.	BPC	NA	2
-BWC	Busse, Walter Carl Otto	Busse	Walter Carl Otto	BWC	NA	2
-RBU	Bussmann, Rainer	Bussmann	Rainer	RBU	NA	NA
-BRW	Bussmann, Rainer W.	Bussmann	Rainer W.	BRW	NA	2
-CJ	Caballero, *	Caballero	NA	CJ	NA	2
-CJ	Caballero, Judit	Caballero	Judit	CJ	NA	2
-CEF	Cabrera Cano, Edgar Francisco	Cabrera Cano	Edgar Francisco	CEF	NA	2
-CWH	Cabrera Condarco, Willy Héctor	Cabrera Condarco	Willy Héctor	CWH	NA	2
-CHG	Calatayud Hermosa, Gloria	Calatayud Hermosa	Gloria	CHG	NA	2
-CJG	Calderón Vindell, Juan G.	Calderón Vindell	Juan G.	CJG	NA	2
-CS	Calderón, Salvador	Calderón	Salvador	CS	NA	2
-CPR	Callejas Posada, Ricardo	Callejas Posada	Ricardo	CPR	NA	2
-MC	Callmander, Martin	Callmander	Martin Wilhelm	MC	NA	NA
-MC	Callmander, Martin Wilhelm	Callmander	Martin Wilhelm	MC	NA	NA
-CSJ	Calónico Soto, Jorge	Calónico Soto	Jorge	CSJ	NA	2
-CJI	Calzada, Juan Ismael	Calzada	Juan Ismael	CJI	NA	2
-CD	Campbell, David G.	Campbell	David G.	CD	NA	2
-PC	Campenon, Pierre	Campenon	Pierre	PC	NA	1
-CVV	Can, Vu Van	Can	Vu Van	CVV	NA	2
-CCC	Cano Cano, Carolina del Rosario	Cano Cano	Carolina del Rosario	CCC	NA	1
-CRP	Capuron, René Paul Raymond	Capuron	René Paul Raymond	CRP	NA	2
-CJP	Carauta, Jorge Pedro Pereira	Carauta	Jorge Pedro Pereira	CJP	NA	2
-CCG	Carballo Carvajal, Gerardo	Carballo Carvajal	Gerardo	CCG	NA	2
-CRA	Carballo, Rubén Alonso	Carballo	Rubén Alonso	CRA	NA	2
-CLD	Cárdenas López, Dairon	Cárdenas López	Dairon	CLD	NA	2
-C	Carlson, B.	Carlson	B.	C	NA	2
-CEB	Carlson, Elizabeth ("Betsy")	Carlson	Elizabeth ("Betsy")	CEB	NA	2
-G	Carnevali, Germán	Carnevali	Germán	G	NA	2
-CLG	Carrasquilla, Luis G.	Carrasquilla	Luis G.	CLG	NA	2
-CARR	CARRASQUILLO, *	CARRASQUILLO	NA	CARR	NA	2
-CL	Carrillo, Lorena	Carrillo	Lorena	CL	NA	2
-CA	Carvalho, *	Carvalho	NA	CA	NA	2
-CAM	Carvalho, André M. de	Carvalho	André M. de	CAM	NA	1
-CA	Carvalho, André Maurício Vieira de	Carvalho	André Maurício Vieira de	CA	NA	2
-CMF	Carvalho, Manuel Fidalgo de	Carvalho	Manuel Fidalgo de	CMF	NA	1
-CJJ	Castillo Mont, Juan José	Castillo Mont	Juan José	CJJ	NA	2
-CASA	Castillo, Andres	Castillo	Andres	CASA	NA	2
-S	Castillo, Aníbal	Castillo	Aníbal	S	NA	2
-CO	Castillo, O.	Castillo	O.	CO	NA	2
-CTN	Castro T., Nayda	Castro T.	Nayda	CTN	NA	2
-CM	Castro, Margarita	Castro	Margarita	CM	NA	2
-CBS	Castroviejo Bolíbar, Santiago	Castroviejo Bolíbar	Santiago	CBS	NA	2
-CLE	Cayola Pérez, Leslie Eugenia	Cayola Pérez	Leslie Eugenia	CLE	NA	2
-CAZG	Cazali, Gina	Cazali	Gina	CAZG	NA	2
-CTR	Cedillo Trigos, Refugio	Cedillo Trigos	Refugio	CTR	NA	2
-CLJ	Cerén Lopez, José Gabriel	Cerén Lopez	José Gabriel	CLJ	NA	2
-CCE	Cerón Martínez, Carlos Eduardo	Cerón Martínez	Carlos Eduardo	CCE	NA	2
-CAC	Cervi, Armando Carlos	Cervi	Armando Carlos	CAC	NA	2
-CVC	Chan V., C.	Chan V.	C.	CVC	NA	2
-CLA	Chapelier, Louis Armand	Chapelier	Louis Armand	CLA	NA	1
-CJD	Chapman, J. D.	Chapman	J. D.	CJD	NA	2
-CDP	Charles-Dominique, Pierre	Charles-Dominique	Pierre	CDP	NA	1
-MN	Chase, Mary  (née Merrill) Agnes	Chase	Mary  (née Merrill) Agnes	MN	NA	2
-FC	Chauvet, Françoise	Chauvet	Françoise	FC	NA	1
-CHAV	Chavarría	Chavarría	NA	CHAV	NA	2
-CRU	Chavarría García, Ramón Ulises Gerardo	Chavarría García	Ramón Ulises Gerardo	CRU	NA	2
-CMR	Cheek, Martin Roy	Cheek	Martin Roy	CMR	NA	1
-CHIS	Chidzinga, S.	Chidzinga	S.	CHIS	NA	2
-CHOJ	Choo, Johanna	Choo	Johanna	CHOJ	NA	2
-CAD	Choque Ajata, Daniel	Choque Ajata	Daniel	CAD	NA	1
-CC	Christian, Claude	Christian	Claude	CC	NA	1
-CNK	Chun, N. K.	Chun	N. K.	CNK	NA	1
-CH	Churchill, Hugh Waldemar	Churchill	Hugh Waldemar	CH	NA	2
-CHUS	Chuwa, Sebastian	Chuwa	Sebastian	CHUS	NA	2
-CCA	Cid Ferreira, Carlos Alberto	Cid Ferreira	Carlos Alberto	CCA	NA	2
-CHL	Clark, Howard L.	Clark	Howard L.	CHL	NA	2
-CJL	Clark, John Littner	Clark	John Littner	CJL	NA	2
-CCL	Claude, Christian	Claude	Christian	CCL	NA	NA
-CAF	Clewell, Andre Francis	Clewell	Andre Francis	CAF	NA	2
-JC	Cloisel, J.	Cloisel	J.	JC	NA	1
-CFG	Coe, Felix G.	Coe	Felix G.	CFG	NA	2
-CDJ	Coêlho, José de Parva	Coêlho	José de Parva	CDJ	NA	2
-COEL	Coelho, L.	Coelho	L.	COEL	NA	2
-CFL	Coêlho, Luiz Fernandez	Coêlho	Luiz Fernandez	CFL	NA	2
-CMA	Coelho, Marcus Alberto Nadruz	Coelho	Marcus Alberto Nadruz	CMA	NA	2
-CPA	Cogollo Pacheco, Álvaro	Cogollo Pacheco	Álvaro	CPA	NA	2
-UNKN	Collector Unknown, *	Unknown	Unknown	UNKN	NA	1
-COLG	Colonnello, Giuseppe	Colonnello	Giuseppe	COLG	NA	2
-COMR	Combs, Robert	Combs	Robert	COMR	NA	2
-CP	Commerson, Philibert	Commerson	Philibert	CP	NA	2
-CE	Contreras, Elias	Contreras	Elias	CE	NA	2
-CMM	Cornejo Mejia, Maritza	Cornejo Mejia	Maritza	CMM	NA	2
-CXF	Cornejo Sotomayor, Xavier Francisco	Cornejo Sotomayor	Xavier Francisco	CXF	NA	2
-CTG	Cornejo Tenorio, Guadalupe	Cornejo Tenorio	Guadalupe	CTG	NA	2
-CIM	Coronado González, Indiana M.	Coronado González	Indiana M.	CIM	NA	2
-CMD	Correa A., Mireya D.	Correa A.	Mireya D.	CMD	NA	2
-CDG	Cours-Darne, Gilbert	Cours-Darne	Gilbert	CDG	NA	1
-CCP	Cowan, Clark P.	Cowan	Clark P.	CCP	NA	2
-SC	Crameri, Simon	Crameri	Simon Flavio	SC	NA	NA
-SC	Crameri, Simon Flavio	Crameri	Simon Flavio	SC	NA	NA
-CCJ	Crane, Cathy J.	Crane	Cathy J.	CCJ	NA	2
-CF	Crawford, F.	Crawford	F.	CF	NA	1
-CGA	Cremers, Georges Alexis	Cremers	Georges Alexis	CGA	NA	2
-CTB	Croat, Thomas Bernard	Croat	Thomas Bernard	CTB	NA	1
-LJ	Cumana Campos, Luis José	Cumana Campos	Luis José	LJ	NA	2
-H	Cuming, Hugh	Cuming	Hugh	H	NA	2
-CHM	Curran, Hugh McCullum	Curran	Hugh McCullum	CHM	NA	2
-CFA	Custodio Filho, Alcebiades	Custodio Filho	Alcebiades	CFA	NA	2
-DWG	D'Arcy, William Gerald	D'Arcy	William Gerald	DWG	NA	2
-DCG	Dahlberg, Carl Gustav	Dahlberg	Carl Gustav	DCG	NA	2
-DN	DALE, *	DALE	NA	DN	NA	2
-DDC	Daly, Douglas	Daly	Douglas	DDC	NA	NA
-DDC	Daly, Douglas Charles de Burgh	Daly	Douglas Charles de Burgh	DDC	NA	2
-DTF	Daniel, Thomas Franklin	Daniel	Thomas Franklin	DTF	NA	1
-DPS	Daniels, Patrick S.	Daniels	Patrick S.	DPS	NA	1
-DSP	Darwin, Steven P.	Darwin	Steven P.	DSP	NA	2
-DG	Dauby, Gilles	Dauby	Gilles	DG	NA	2
-DAVG	Davidse, Gerrit	Davidse	Gerrit	DAVG	NA	2
-DC	Davidson, Christopher	Davidson	Christopher	DC	NA	2
-DAP	Davis, Aaron Paul	Davis	Aaron Paul	DAP	NA	1
-DWA	Dayton, William Adams	Dayton	William Adams	DWA	NA	2
-DBP	De Block, Petra	De Block	Petra	DBP	NA	NA
-DJS	de la Cruz, J. S.	de la Cruz	J. S.	DJS	NA	2
-DD	De la Quintana, Diego	De la Quintana	Diego	DD	NA	2
-DENE	de Néré	de Néré	NA	DENE	NA	2
-DJJ	de Wilde, Jan Jacobus Friedrich Egmond	de Wilde	Jan Jacobus Friedrich Egmond	DJJ	NA	2
-DMM	Debray,	Debray	Marcel M.	DMM	NA	4
-DMM	DEBRAY, *	Debray	Marcel M.	DMM	NA	1
-DMM	Debray, Marcel M.	Debray	Marcel M.	DMM	NA	2
-DR	Decary, Raymond	Decary	Raymond	DR	NA	1
-DS	Defler, Sara	Defler	Sara	DS	NA	2
-DEGR	Degen, Rosa	Degen	Rosa	DEGR	NA	2
-DNB	Deginani, Norma B.	Deginani	Norma B.	DNB	NA	2
-DF	Delascio Chitty, Francisco	Delascio Chitty	Francisco	DF	NA	2
-DL	Delgado, Luz	Delgado	Luz	DL	NA	2
-DELC	Delnatte, Cesar	Delnatte	Cesar	DELC	NA	2
-DJ	Déquaire, Jean-Maurice	Déquaire	Jean-Maurice	DJ	NA	2
-T	Deroin, Thierry	Deroin	Thierry	T	NA	2
-DBM	Descoings, Bernard M.	Descoings	Bernard M.	DBM	NA	1
-DMB	Descoings, Bernard Marie	Descoings	Bernard Marie	DMB	NA	2
-DESS	Dessein, Steven	Dessein	Steven	DESS	NA	2
-DSJ	DeWalt, Sarah J.	DeWalt	Sarah J.	DSJ	NA	2
-DSC	Díaz Santibáñez, Camilo	Díaz Santibáñez	Camilo	DSC	NA	2
-DAL	Díaz Z., Ana L.	Díaz Z.	Ana L.	DAL	NA	2
-DIAZ	Diaz, *	Diaz	NA	DIAZ	NA	2
-DW	Díaz, Wilmer A.	Díaz	Wilmer A.	DW	NA	2
-JJ	Dibata, J. J.	Dibata	J. J.	JJ	NA	2
-DIEL	Dieckman, Leonard	Dieckman	Leonard	DIEL	NA	2
-DA	Dik, Alberto	Dik	Alberto	DA	NA	2
-DINA	Dinard, André	Dinard	André	DINA	NA	2
-DIOF	Dionizia, F.	Dionizia	F.	DIOF	NA	2
-DM	do Céu Madureira, Maria	do Céu Madureira	Maria	DM	NA	2
-DCW	Dodge, Carroll William	Dodge	Carroll William	DCW	NA	2
-DCH	Dodson, Calaway Homer	Dodson	Calaway Homer	DCH	NA	2
-DOK	DOKOBE, *	Dokobe	Dokobe	DOK	NA	1
-DOK	Dokobe	Dokobe	Dokobe	DOK	NA	NA
-DPF	Domínguez Peña, Feliz	Domínguez Peña	Feliz	DPF	NA	2
-DONC	Donis, C.	Donis	C.	DONC	NA	2
-DOLJ	Dorantes López, Jesús	Dorantes López	Jesús	DOLJ	NA	2
-DLJ	Dorr, Laurence Joseph	Dorr	Laurence Joseph	DLJ	NA	1
-DOUC	Doumenge, Charles	Doumenge	Charles	DOUC	NA	2
-DRAK	DRAKE, *	DRAKE	NA	DRAK	NA	2
-DJF	Drège, Jean François (Johann Franz)	Drège	Jean François (Johann Franz)	DJF	NA	2
-DRL	Dressler, Robert Louis	Dressler	Robert Louis	DRL	NA	2
-DRB	Drummond, Robert Bailey	Drummond	Robert Bailey	DRB	NA	2
-DPB	Du Puy, Blaise P.	Du Puy	Blaise P.	DPB	NA	2
-PUY	Du Puy, David J.	Du Puy	David Jean	PUY	NA	1
-PUY	Du Puy, David Jean	Du Puy	David Jean	PUY	NA	1
-DPA	Duarte, Apparicio Pereira	Duarte	Apparicio Pereira	DPA	NA	2
-DEP	Duchassaing de Fontbressin, Édouard Placide	Duchassaing de Fontbressin	Édouard Placide	DEP	NA	2
-DAW	Ducke, Walter Adolpho	Ducke	Walter Adolpho	DAW	NA	2
-DJA	Duke, James Alan	Duke	James Alan	DJA	NA	2
-ND	Dumetz, Nicolas	Dumetz	Nicolas	ND	NA	1
-DDR	Duno de Stefano, Rodrigo	Duno de Stefano	Rodrigo	DDR	NA	2
-DGR	Durán García, Rafael	Durán García	Rafael	DGR	NA	2
-DPK	Dusén, Per Karl Hjalmar	Dusén	Per Karl Hjalmar	DPK	NA	2
-DJD	Dwyer, John Duncan	Dwyer	John Duncan	DJD	NA	2
-ES	Eboroke, Sylvain	Eboroke	Sylvain	ES	NA	2
-SY	Eboroke, Sylvin	Eboroke	Sylvin	SY	NA	NA
-EWJ	Eggeling, William Julius	Eggeling	William Julius	EWJ	NA	2
-EWA	Egler, Walter Alberto	Egler	Walter Alberto	EWA	NA	1
-EG	Eiten, George	Eiten	George	EG	NA	2
-EEL	Ekman, Erik Leonard	Ekman	Erik Leonard	EEL	NA	2
-EAD	Elmer, Adolph Daniel Edward	Elmer	Adolph Daniel Edward	EAD	NA	2
-EME	Emeline	Emeline	Emeline	EME	NA	NA
-EF	Eneme, F.	Eneme	F.	EF	NA	2
-EJ	Espina Z., Josefina	Espina Z.	Josefina	EJ	NA	2
-EM	Espinal, Mario	Espinal	Mario	EM	NA	2
-EJA	Espinosa-Jiménez, Josefa Anahí	Espinosa-Jiménez	Josefa Anahí	EJA	NA	2
-ERE	Espinoza Obando, Roberto Enrique	Espinoza Obando	Roberto Enrique	ERE	NA	2
-EAG	Estrada Chavarría, Armando Gerardo	Estrada Chavarría	Armando Gerardo	EAG	NA	2
-EN	Etkin, N.	Etkin	N.	EN	NA	2
-ETUM	Etuge, Martin	Etuge	Martin	ETUM	NA	2
-ERR	Evans, Randall (Randy) Joe	Evans	Randall (Randy) Joe	ERR	NA	2
-ECM	Evrard, Charles Marie	Evrard	Charles Marie	ECM	NA	2
-ECE	Ewango, Corneille E. N.	Ewango	Corneille E. N.	ECE	NA	2
-SBE	Exp., Sino-British	Sino-British Expedition	Sino-British Expedition	SBE	NA	4
-EP	Ezrom, P.	Ezrom	P.	EP	NA	2
-FSA	Fakih, S. A.	Fakih	S. A.	FSA	NA	2
-FLN	Faliniaina, Lucien	Faliniaina	Lucien	FLN	NA	NA
-FRB	Faranirina, Lantoarisoa	Faranirina	Lantoarisoa	FRB	NA	NA
-FJ	Farfán, Jim	Farfán	Jim	FJ	NA	2
-FARC	Farney, Cyl	Farney	Cyl	FARC	NA	2
-FHG	Faulkner, Helen G.	Faulkner	Helen G.	FHG	NA	2
-FAUB	Faust, B.	Faust	B.	FAUB	NA	2
-FJM	Fay, John Michael	Fay	John Michael	FJM	NA	2
-SBF	Federman, Sarah Beck	Federman	Sarah Beck	SBF	NA	NA
-FERM	Ferm, Julia	Ferm	Julia	FERM	NA	NA
-FFJ	Fernández Casas, Francisco Javier	Fernández Casas	Francisco Javier	FFJ	NA	2
-FNR	Fernández Nava, Rafael	Fernández Nava	Rafael	FNR	NA	2
-FA	Fernández, Ángel	Fernández	Ángel	FA	NA	2
-FL	Fernandez, L.	Fernandez	L.	FL	NA	2
-FESL	Festo, Lenin	Festo	Lenin	FESL	NA	2
-FCP	Feuillet, Christian Patrice Georges-André	Feuillet	Christian Patrice Georges-André	FCP	NA	2
-FIGC	Figueirado, C.	Figueirado	C.	FIGC	NA	2
-FM	Fleury, M.	Fleury	M.	FM	NA	2
-FEJ	Florence, E. Jacques Maria	Florence	E. Jacques Maria	FEJ	NA	2
-FN	Flores, Noris	Flores	Noris	FN	NA	2
-FLOR	FLORESTAL, *	FLORESTAL	NA	FLOR	NA	2
-FLJJ	Floret, J. J.	Floret	J. J.	FLJJ	NA	2
-FJJ	Floret, Jean-Jacques	Floret	Jean-Jacques	FJJ	NA	1
-FE	Forero, Enrique	Forero	Enrique	FE	NA	2
-FRH	Fortunato, Renée Hersilla	Fortunato	Renée Hersilla	FRH	NA	2
-FFR	Fosberg, Francis Raymond (Ray)	Fosberg	Francis Raymond (Ray)	FFR	NA	2
-FPF	Foster, Paul F.	Foster	Paul F.	FPF	NA	2
-FBR	Foster, Robin Bradford	Foster	Robin Bradford	FBR	NA	2
-FGW	Frankie, Gordon William	Frankie	Gordon William	FGW	NA	2
-CLF	Frasier, Cynthia	Frasier	Cynthia	CLF	NA	NA
-FEL	Freire Mayorga, Efraín Liborio	Freire Mayorga	Efraín Liborio	FEL	NA	2
-FER	Friedrichsthal, Emanuel Ritter von	Friedrichsthal	Emanuel Ritter von	FER	NA	2
-FRD	Fróes, Ricardo de Lemos	Fróes	Ricardo de Lemos	FRD	NA	2
-FCF	Frontier-Tanzania Coastal Forest Research Programme	Frontier-Tanzania Coastal Forest Research Programme	NA	FCF	NA	2
-FHP	Fuchs, Hans Peter	Fuchs	Hans Peter	FHP	NA	2
-FAF	Fuentes Claros, Alfredo Fernando	Fuentes Claros	Alfredo Fernando	FAF	NA	2
-FVV	Funk, Victoria (Vicki) Ann	Funk	Victoria (Vicki) Ann	FVV	NA	2
-CG	Gachet, Christien	Gachet	Christien	CG	NA	1
-GPC	Gadelha Neto, P. C.	Gadelha Neto	P. C.	GPC	NA	2
-GS	Gairola, Sumeet	Gairola	Sumeet	GS	NA	1
-GP	Galán, Pablp	Galán	Pablp	GP	NA	2
-GC	Galdames, Carmen	Galdames	Carmen	GC	NA	2
-GGA	Galeano Garcés, Gloria Amparo	Galeano Garcés	Gloria Amparo	GGA	NA	2
-GWL	Galiano, Washington L.	Galiano	Washington L.	GWL	NA	2
-GHC	Gallardo Hernández, Claudia	Gallardo Hernández	Claudia	GHC	NA	2
-GVG	Gamboa Romero, Villy Gerardo	Gamboa Romero	Villy Gerardo	GVG	NA	2
-GRG	García, Ricardo Guarionex	García	Ricardo Guarionex	GRG	NA	2
-GG	Garnett, George	Garnett	George	GG	NA	4
-GA	Garnier, Antonio	Garnier	Antonio	GA	NA	2
-GNC	Garwood, Nancy C.	Garwood	Nancy C.	GNC	NA	2
-GGF	Gaumer, George F.	Gaumer	George F.	GGF	NA	2
-LG	Gautier, Laurent	Gautier	Laurent Vincent	LG	NA	NA
-LG	Gautier, Laurent Vincent	Gautier	Laurent Vincent	LG	NA	NA
-GMF	Geay, Martin Francois	Geay	Martin Francois	GMF	NA	NA
-RG	Geesink, Robert	Geesink	Robert	RG	NA	1
-GPH	Gentle, Percy H.	Gentle	Percy H.	GPH	NA	2
-GAH	Gentry, Alwyn Howard	Gentry	Alwyn Howard	GAH	NA	1
-GRE	Gereau, Roy Emile	Gereau	Roy Emile	GRE	NA	1
-GRV	Gervais	Gervais	Gervais	GRV	NA	NA
-GILLESPIE	Gillespie, Lynn	Gillespie	Lynn	GILLESPIE	NA	NA
-GLJ	Gillespie, Lynn Judith	Gillespie	Lynn Judith	GLJ	NA	2
-GJB	Gillett, Jan Bevington	Gillett	Jan Bevington	GJB	NA	2
-GWT	Gillis, William Thomas	Gillis	William Thomas	GWT	NA	2
-GAF	Glaziou, Auguste François Marie	Glaziou	Auguste François Marie	GAF	NA	2
-GD	Gledhill, David	Gledhill	David	GD	NA	2
-GRK	Godfrey, Robert Kenneth	Godfrey	Robert Kenneth	GRK	NA	2
-GLA	Gomes, L. A.	Gomes	L. A.	GLA	NA	2
-GB	Gómez Chagala, Braulio	Gómez Chagala	Braulio	GB	NA	2
-GM	Gómez López, Martin	Gómez López	Martin	GM	NA	2
-G0MA	Gómez, Angela	Gómez	Angela	G0MA	NA	2
-GAL	González Arce, Luis Alonso	González Arce	Luis Alonso	GAL	NA	2
-GJC	González Ayala, Julio César	González Ayala	Julio César	GJC	NA	2
-GJA	González Ramírez, José Ángel	González Ramírez	José Ángel	GJA	NA	2
-GJ	González, Jorge	González	Jorge	GJ	NA	2
-GZA	Goodwin, Zoë Africa	Goodwin	Zoë Africa	GZA	NA	2
-GOJP	Goudot, Jules Prosper	Goudot	Jules Prosper	GOJP	NA	2
-GJP	Goudot, Justin P.	Goudot	Justin P.	GJP	NA	1
-GJG	Graham, James G.	Graham	James G.	GJG	NA	2
-GDD	Grande, D.A. de	Grande	D.A. de	GDD	NA	2
-GCA	Grández Rios, Cesár A.	Grández Rios	Cesár A.	GCA	NA	2
-AG	Grandidier, Alfred	Grandidier	Alfred	AG	NA	1
-GMH	Grayum, Michael Howard	Grayum	Michael Howard	GMH	NA	2
-GRAA	Graziani, Antoine	Graziani	Antoine	GRAA	NA	2
-GJM	Greenman, Jesse More	Greenman	Jesse More	GJM	NA	2
-GPJ	Greenway, Peter (Percy) James	Greenway	Peter (Percy) James	GPJ	NA	1
-GGR	Grether González, Rosaura	Grether González	Rosaura	GGR	NA	2
-HG	Grevé, H.	Grevé	H.	HG	NA	1
-GAJ	Grierson, Andrew John Charles	Grierson	Andrew John Charles	GAJ	NA	1
-GPA	Grijalva Pineda, Alfredo	Grijalva Pineda	Alfredo	GPA	NA	2
-GI	Groeninckx, Inge	Groeninckx	Inge	GI	NA	2
-GUAC	Guadamuz, Catalino	Guadamuz	Catalino	GUAC	NA	2
-GER	Guaglianone, Encarnación Rosa	Guaglianone	Encarnación Rosa	GER	NA	2
-GE	Gudiño Jara, Edgar	Gudiño Jara	Edgar	GE	NA	2
-GOO	Guerrero, Oscar Orlando	Guerrero	Oscar Orlando	GOO	NA	2
-GUIJ	Guillaumet, Jean-Louis	Guillaumet	Jean-Louis	GUIJ	NA	2
-GVR	Guillén Villarroel, René	Guillén Villarroel	René	GVR	NA	2
-U	Guillén, Jaime	Guillén	Jaime	U	NA	2
-GTR	Guittou, Riri	Guittou	Riri	GTR	NA	NA
-GL	Gurgel, Luiz	Gurgel	Luiz	GL	NA	2
-I	Gushilman, Iska	Gushilman	Iska	I	NA	2
-GUZM	Guzmán-Teare, Myra	Guzmán-Teare	Myra	GUZM	NA	2
-HO	Haba, O	Haba	O	HO	NA	2
-HWB	Haber, William (Bill) Allen	Haber	William (Bill) Allen	HWB	NA	2
-FH	Haerdi, Fritz	Haerdi	Fritz	FH	NA	1
-TH	Haevermans, Thomas	Haevermans	Thomas	TH	NA	NA
-HW	Hahn, William (Bill) James	Hahn	William (Bill) James	HW	NA	2
-HHH	Haines, Henry Haselfoot	Haines	Henry Haselfoot	HHH	NA	1
-HN	Hallé, Nicolas	Hallé	Nicolas	HN	NA	2
-W	Hamilton, William	Hamilton	William	W	NA	2
-HBE	Hammel, Barry Edward	Hammel	Barry Edward	HBE	NA	2
-O	Handro, Oswaldo	Handro	Oswaldo	O	NA	2
-HMM	Hanes, Margaret M.	Hanes	Margaret M.	HMM	NA	2
-HRM	Hanitrarivo, R. Mitia	Hanitrarivo	R. Mitia	HRM	NA	1
-HB	Hansen, Bertel	Hansen	Bertel	HB	NA	2
-HBF	Hansen, Bruce Frederick	Hansen	Bruce Frederick	HBF	NA	2
-DKH	Harder, Daniel Kenneth	Harder	Daniel Kenneth	DKH	NA	NA
-RM	Harley, Raymond Mervyn	Harley	Raymond Mervyn	RM	NA	2
-HWE	Harmon, William Edward	Harmon	William Edward	HWE	NA	2
-HBJ	Harris, Brian James	Harris	Brian James	HBJ	NA	2
-HDJ	Harris, David J.	Harris	David J.	HDJ	NA	2
-HWH	Harris, William H.	Harris	William H.	HWH	NA	2
-HTB	Hart, Terese Butler	Hart	Terese Butler	HTB	NA	2
-HGS	Hartshorn, Gary Spencer	Hartshorn	Gary Spencer	HGS	NA	2
-HE	Hassler, Émile	Hassler	Émile	HE	NA	2
-SH	Hassold, Sonja	Hassold	Sonja	SH	HS	NA
-GGH	Hatschbach, Gert Guenther	Hatschbach	Gert Guenther	GGH	NA	1
-GGH	Hatschbach, Guenther	Hatschbach	Gert Guenther	GGH	NA	4
-HOL	Haught, Oscar Lee	Haught	Oscar Lee	HOL	NA	2
-HDL	Hazlett, Donald Lavern	Hazlett	Donald Lavern	HDL	NA	2
-NH	Helme, Nick	Helme	Nick	NH	NA	NA
-HEMA	Hemp, Andreas	Hemp	Andreas	HEMA	NA	2
-HAJ	Henderson, Andrew James	Henderson	Andrew James	HAJ	NA	2
-HTW	Henkel, Terry W.	Henkel	Terry W.	HTW	NA	2
-HENA	Henry, Augustine	Henry	Augustine	HENA	NA	2
-HERB	HERB, *	Herbier du Jardin botanique de Tananarive	Herbier du Jardin botanique de Tananarive	HERB	NA	1
-HERB	HERB, Herb.Jard.Bot.Tan	Herbier du Jardin botanique de Tananarive	Herbier du Jardin botanique de Tananarive	HERB	NA	4
-HERB	Herb.Jard.Bot.Tan.	Herbier du Jardin botanique de Tananarive	Herbier du Jardin botanique de Tananarive	HERB	NA	1
-HERB	Herbier du Jardin botanique de Tananarive	Herbier du Jardin botanique de Tananarive	Herbier du Jardin botanique de Tananarive	HERB	NA	2
-ISCM	Herbier, Institut Scientifique, Madagascar	Institut Scientifique Madagascar	Institut Scientifique Madagascar	ISCM	NA	1
-ISCM	HERBIER, INSTITUT SCIENTIFIQUE, MADAGASCAR	Institut Scientifique Madagascar	Institut Scientifique Madagascar	ISCM	NA	2
-ISCM	Ist.Sci.Mad.	Institut Scientifique Madagascar	Institut Scientifique Madagascar	ISCM	NA	4
-ISCM	Institut Scientifique Madagascar	Institut Scientifique Madagascar	Institut Scientifique Madagascar	ISCM	NA	NA
-HEP	Heringer, Ezechias Paulo	Heringer	Ezechias Paulo	HEP	NA	2
-HM	Hernández Magaña, Rafael	Hernández Magaña	Rafael	HM	NA	2
-HGA	Herrera Chacón, Gerardo Antonio del Carmen	Herrera Chacón	Gerardo Antonio del Carmen	HGA	NA	2
-HH	Herrera, Heraclio	Herrera	Heraclio	HH	NA	2
-HSC	Hery (?), Soanary Claude	Hery (?)	Soanary Claude	HSC	NA	NA
-HHA	Hespenheide, Henry August,  III	Hespenheide	Henry August	HHA	NA	2
-HJM	Hildebrandt, Johannes Maria	Hildebrandt	Johannes Maria	HJM	NA	1
-HSR	Hill, Steven Richard	Hill	Steven Richard	HSR	NA	2
-HGB	Hinton, George Boole	Hinton	George Boole	HGB	NA	2
-HAS	Hitchcock, Albert Spear	Hitchcock	Albert Spear	HAS	NA	2
-AH	Hladik, Annette	Hladik	Annette	AH	NA	1
-HCM	Hladik, C. M.	Hladik	C. M.	HCM	NA	2
-HHW	Hodge, Walter Hendricks	Hodge	Walter Hendricks	HHW	NA	2
-HF	Hoehne, Frederico Carlos	Hoehne	Frederico Carlos	HF	NA	2
-HOFF	HOFFMAN, *	HOFFMAN	NA	HOFF	NA	2
-HOFB	Hoffman, B.	Hoffman	B.	HOFB	NA	2
-HP	Hoffmann, Petra	Hoffmann	Petra	HP	NA	2
-HRF	Hohenacker, Rudolph Friedrich	Hohenacker	Rudolph Friedrich	HRF	NA	2
-HLR	Holdridge, Leslie Rensselaer	Holdridge	Leslie Rensselaer	HLR	NA	2
-HBK	Holst, Bruce Kendall	Holst	Bruce Kendall	HBK	NA	2
-HAM	Homolle, Anne-Marie	Homolle	Anne-Marie	HAM	NA	1
-HAI	Honfi, A. I.	Honfi	A. I.	HAI	NA	2
-CHW	Hong Wa, Cynthia	Hong-Wa	Cynthia	CHW	NA	NA
-CHW	Hong-Wa, Cynthia	Hong-Wa	Cynthia	CHW	NA	1
-HWS	Hoover, Walter Scott	Hoover	Walter Scott	HWS	NA	2
-HHE	Hornby, Henry Epton	Hornby	Henry Epton	HHE	NA	2
-HFN	HORTO FLORESTAL, *	HORTO FLORESTAL	NA	HFN	NA	2
-HPR	House, Paul Raymond	House	Paul Raymond	HPR	NA	2
-HFC	How, Foon-Chew	How	Foon-Chew	HFC	NA	1
-HI	Huamantupa Chuquimaco, Isau	Huamantupa Chuquimaco	Isau	HI	NA	2
-HUAN	HUANG, *	HUANG	NA	HUAN	NA	2
-HUBO	Huber, Otto	Huber	Otto	HUBO	NA	2
-HMJ	Huft, Michael John	Huft	Michael John	HMJ	NA	2
-HJH	Humbert, Jean-Henri	Humbert	Jean-Henri	HJH	NA	1
-HL	Humblot, Léon	Humblot	Léon	HL	NA	2
-HURF	Hurtado, Fernando	Hurtado	Fernando	HURF	NA	2
-HJS	Huston, Jon S.	Huston	Jon S.	HJS	NA	2
-IB	Iambana, Bernard	Iambana	Bernard	IB	NA	NA
-IA	Ibáñez García, Alicia	Ibáñez García	Alicia	IA	NA	2
-IG	Ibarra Manríquez, Guillermo	Ibarra Manríquez	Guillermo	IG	NA	2
-IDAA	Idárraga-Piedrahita, Álvaro	Idárraga-Piedrahita	Álvaro	IDAA	NA	2
-ID	Ikabanga, Davy	Ikabanga	Davy	ID	NA	2
-IS	Iremonger, Susan	Iremonger	Susan	IS	NA	2
-IHS	Irwin, Howard Samuel	Irwin	Howard Samuel	IHS	NA	2
-ITAB	Itaipú Binacional	Itaipú Binacional	NA	ITAB	NA	2
-JH	Jacquemin, H.	Jacquemin	H.	JH	NA	2
-JMJ	Jansen-Jacobs, Marion Josephine	Jansen-Jacobs	Marion Josephine	JMJ	NA	2
-JD	Jansen, David	Jansen	David	JD	NA	2
-JDH	Janzen, Daniel Hunt	Janzen	Daniel Hunt	JDH	NA	2
-JN	Jaramillo, Nestor	Jaramillo	Nestor	JN	NA	2
-JARA	Jardim, Antony	Jardim	Antony	JARA	NA	2
-JARJ	Jardim, J.	Jardim	J.	JARJ	NA	2
-JJG	Jardim, Jomar Gomes	Jardim	Jomar Gomes	JJG	NA	2
-JBT	Jardin Botanique Tananarive	Jardin Botanique Tananarive	Jardin Botanique Tananarive	JBT	NA	1
-JB	Jestrow, Brett	Jestrow	Brett	JB	NA	4
-JJQ	Jiménez Madrigal, José Quírico del Rosario	Jiménez Madrigal	José Quírico del Rosario	JJQ	NA	2
-JCD	Johnson, Clarence Dan	Johnson	Clarence Dan	JCD	NA	2
-JIM	Johnston, Ivan Murray	Johnston	Ivan Murray	JIM	NA	2
-JCL	Jones, Casey L.	Jones	Casey L.	JCL	NA	2
-JRL	Jones, Ronald Lee	Jones	Ronald Lee	JRL	NA	2
-CCHJ	Jongkind, Carel Christiaan Hugo	Jongkind	Carel Christiaan Hugo	CCHJ	NA	NA
-JG	Jönsson, Gösta	Jönsson	Gösta	JG	NA	2
-JPP	Jörgensen, Peter (Pedro)	Jörgensen	Peter (Pedro)	JPP	NA	2
-JTA	Josso Tianarifidy, Angelos Stanislas	Josso Tianarifidy	Angelos Stanislas	JTA	NA	NA
-JAT	Josso, Angelos Tianarifidy Stanislas	Josso	Angelos Tianarifidy Stanislas	JAT	NA	1
-JOUV	JOUVIN, *	JOUVIN	NA	JOUV	NA	2
-JGG	Juárez García, Gonzalo	Juárez García	Gonzalo	JGG	NA	2
-K	Kappler, August	Kappler	August	K	NA	2
-KAD	Karatra, Aimé Dochard	Karatra	Aimé Dochard	KAD	NA	NA
-KAD	Karatra, Aimée Dochard	Karatra	Aimé Dochard	KAD	NA	NA
-KWA	Kaudern, Walter Alexander	Kaudern	Walter Alexander	KWA	NA	1
-KML	Kawasaki, Maria Lucia	Kawasaki	Maria Lucia	KML	NA	2
-KR	Kayap, Rubio	Kayap	Rubio	KR	NA	2
-KCJ	Kayombo, Canisius J.	Kayombo	Canisius J.	KCJ	NA	2
-KH	Kennedy, Helen	Kennedy	Helen	KH	NA	2
-MK	Keraudren, Monique	Keraudren	Monique	MK	NA	1
-KC	Kernan, Christopher	Kernan	Christopher	KC	NA	2
-KHAR	Khan, Ronaq	Khan	Ronaq	KHAR	NA	2
-PK	Khant, Po	Khant	Po	PK	NA	4
-KOA	Kibure, O. A.	Kibure	O. A.	KOA	NA	2
-KCT	Kidua, Charles T.	Kidua	Charles T.	KCT	NA	2
-KTJ	Killeen, Timothy J.	Killeen	Timothy J.	KTJ	NA	2
-KWJ	Kindeketa, William J.	Kindeketa	William J.	KWJ	NA	2
-KW	Kings, W.	Kings	W.	KW	NA	2
-KJ	Kirkbride, Jr., Joseph Harold	Kirkbride	Jr.	KJ	NA	2
-KT	Klaine, Theophile Joseph	Klaine	Theophile Joseph	KT	NA	2
-KJL	Klein, Jan Lukas	Klein	Jan Lukas	KJL	NA	2
-KBB	Klitgaard, Bente Bang	Klitgaard	Bente Bang	KBB	NA	2
-KG	Klug, Guillermo	Klug	Guillermo	KG	NA	2
-KNAC	Knab-Vispo, Claudia	Knab-Vispo	Claudia	KNAC	NA	2
-KSD	Knapp, Sandra Diane	Knapp	Sandra Diane	KSD	NA	2
-KN	KOCZICKI, *	KOCZICKI	NA	KN	NA	2
-BK	Koechlin, Bernard	Koechlin	Bernard	BK	NA	1
-KK	Koïvogui, Kolou	Koïvogui	Kolou	KK	NA	2
-KA	Kotozafy, Alphonse	Kotozafy	Alphonse	KA	NA	NA
-KCK	Kotschy, Carl (Karl) Georg Theodor	Kotschy	Carl (Karl) Georg Theodor	KCK	NA	2
-KRD	Kral, Robert D.	Kral	Robert D.	KRD	NA	2
-KAC	Krapovickas, Antonio Christopher	Krapovickas	Antonio Christopher	KAC	NA	2
-KCF	Krauss, Christian Ferdinand Friedrich von	Krauss	Christian Ferdinand Friedrich von	KCF	NA	2
-CK	Kremen, Claire	Kremen	Claire	CK	NA	1
-KHR	Kriebel Haehner, Ricardo	Kriebel Haehner	Ricardo	KHR	NA	2
-KBA	Krukoff, Boris Alexander	Krukoff	Boris Alexander	KBA	NA	2
-KP	Kuchar, Peter	Kuchar	Peter	KP	NA	2
-KUHL	KUHLMANN, *	KUHLMANN	NA	KUHL	NA	2
-KJG	Kuhlmann, João Geraldo	Kuhlmann	João Geraldo	KJG	NA	2
-KM	Kuhlmann, Moysés	Kuhlmann	Moysés	KM	NA	2
-KUHN	Kuhn, *	Kuhn	NA	KUHN	NA	2
-KUMR	Kummrow, R.	Kummrow	R.	KUMR	NA	2
-KYS	Kuniyoshi, Y. Saito	Kuniyoshi	Y. Saito	KYS	NA	2
-KKC	Kuntze, Carl (Karl) Ernst (Eduard) Otto	Kuntze	Carl (Karl) Ernst (Eduard) Otto	KKC	NA	2
-LIF	la Croix, Isobyl Florence	la Croix	Isobyl Florence	LIF	NA	2
-JNL	Labat, Jean-Noël	Labat	Jean-Noël	JNL	NA	NA
-LJH	Lace, John Henry	Lace	John Henry	LJH	NA	1
-LO	Lachenaud, Olivier	Lachenaud	Olivier	LO	NA	2
-LU	Lachner, Ute	Lachner	Ute	LU	NA	2
-LAGA	Laguna, Angela	Laguna	Angela	LAGA	NA	2
-LR	Laha, Rolland	Laha	Rolland	LR	NA	NA
-LAIVAO	Laivao, Michel Omer	Laivao	Michel Omer	LAIVAO	NA	NA
-LGS	Laizer, Gabriel Simon	Laizer	Gabriel Simon	LGS	NA	2
-LHJ	Lam, Herman Johannes	Lam	Herman Johannes	LHJ	NA	2
-LLR	Landrum, Leslie Roger	Landrum	Leslie Roger	LLR	NA	2
-LF	Lantoarisoa, Faranirina	Lantoarisoa	Faranirina	LF	NA	2
-KL	Larsen, Kai	Larsen	Kai	KL	NA	1
-LRL	Lazor, Robert L.	Lazor	Robert L.	LRL	NA	2
-LGM	Le Testu, Georges Marie Patrice Charles	Le Testu	Georges Marie Patrice Charles	LGM	NA	2
-LJD	Leandri, Jacques Désiré	Leandri	Jacques Désiré	LJD	NA	1
-LAJ	Leeuwenberg, Anthonius Josephus Maria	Leeuwenberg	Anthonius Josephus Maria	LAJ	NA	1
-ALH	Lehavana, Adolphe	Lehavana	Adolphe	ALH	NA	NA
-LEJJ	Lejoly, Jean	Lejoly	Jean	LEJJ	NA	2
-LGN	Leliyo, Godson N.	Leliyo	Godson N.	LGN	NA	2
-LRW	Lent, Roy William	Lent	Roy William	LRW	NA	2
-LDL	Lentz, David L.	Lentz	David L.	LDL	NA	2
-LHA	León, Henry A.	León	Henry A.	LHA	NA	2
-LEC	Leonard, *	Leonard	NA	LEC	NA	2
-LEC	Leonard, Emery Clarence	Leonard	Emery Clarence	LEC	NA	2
-LPB	Leopold, Jean Berthieu	Leopold	Jean Berthieu	LPB	NA	NA
-JBL	Léopold, Jean Berthieu	Léopold	Jean Berthieu	JBL	NA	NA
-LEA	Lépiz Villalobos, Eduardo Antonio	Lépiz Villalobos	Eduardo Antonio	LEA	NA	2
-LERJ	Leroy, Jean-François	Leroy	Jean-François	LERJ	NA	2
-LRK	Letsara, Rockiman	Letsara	Rokiman	LRK	NA	NA
-LRK	Letsara, Rokiman	Letsara	Rokiman	LRK	NA	1
-LEWJ	Lewalle, José	Lewalle	José	LEWJ	NA	2
-BL	Lewis, Beverley	Lewis	Beverley	BL	NA	NA
-LBA	Lewis, Beverley Ann	Lewis	Beverley Ann	LBA	NA	2
-LGP	Lewis, Gwilym Peter	Lewis	Gwilym Peter	LGP	NA	1
-LAM	Lewis, Marko Alexander	Lewis	Marko Alexander	LAM	NA	2
-LWH	Lewis, Walter Hepworth	Lewis	Walter Hepworth	LWH	NA	2
-LDI	Lezama, Diana I.	Lezama	Diana I.	LDI	NA	2
-LH	Li, Heng	Li	Heng	LH	NA	2
-LIRL	Liesner, Ronald Lee	Liesner	Ronald Lee	LIRL	NA	2
-LHC	Lima, *	Lima	NA	LHC	NA	2
-LHC	Lima, Haroldo Cavalcante de	Lima	Haroldo Cavalcante de	LHC	NA	2
-LJL	Linares, José Ledis	Linares	José Ledis	LJL	NA	2
-LII	Linneo Foronda, Ivan I.	Linneo Foronda	Ivan I.	LII	NA	2
-LAH	Liogier, Alain Henri	Liogier	Alain Henri	LAH	NA	2
-LEM	Lira C., Erika M.	Lira C.	Erika M.	LEM	NA	2
-LISS	Lisowski, Stanisław	Lisowski	Stanisław	LISS	NA	2
-LEL	Little, Elbert Luther	Little	Elbert Luther	LEL	NA	2
-LE	Lleras, Eduardo	Lleras	Eduardo	LE	NA	2
-LPK	Lôc, Phan Kê	Lôc	Phan Kê	LPK	NA	2
-LLG	Lohmann, Lúcia Garcez	Lohmann	Lúcia Garcez	LLG	NA	2
-LOPE	Lopes, *	Lopes	NA	LOPE	NA	2
-LCA	López Cruz, Angelita	López Cruz	Angelita	LCA	NA	2
-LOP	Lopez, Axel	Lopez	Axel	LOP	NA	4
-LOHA	Lot Helguera, Antonio	Lot Helguera	Antonio	LOHA	NA	2
-LM	Louvel, Modeste	Louvel	Modeste (François Clément)	LM	NA	1
-LM	Louvel, Modeste (François Clément)	Louvel	Modeste (François Clément)	LM	NA	1
-LJC	Lovett, Jonathan Crainidge	Lovett	Jonathan Crainidge	LJC	NA	2
-PPL	Lowry, Pete	Lowry	Porter Prescott II	PPL	NA	NA
-PPL	Lowry, Porter Prescott	Lowry	Porter Prescott II	PPL	NA	NA
-PPL	Lowry, Porter Prescott II	Lowry	Porter Prescott II	PPL	NA	NA
-PPL	Lowry, Porter Prescott,  II	Lowry	Porter Prescott II	PPL	NA	1
-LMA	Luckow, Melissa Ann	Luckow	Melissa Ann	LMA	NA	1
-LRZ	Ludovic, Reza	Ludovic	Reza	LRZ	NA	NA
-LL	Lugas, L.	Lugas	L.	LL	NA	4
-LSH	Lugo Sánchez, Hólguer	Lugo Sánchez	Hólguer	LSH	NA	2
-IL	Luino, Iacopo	Luino	Iacopo	IL	NA	NA
-LPA	Luke, Patricia A.	Luke	Patricia A.	LPA	NA	2
-LWR	Luke, William Richard Quentin	Luke	William Richard Quentin	LWR	NA	2
-LCL	Lundell, Cyrus Longworth	Lundell	Cyrus Longworth	LCL	NA	2
-LB	Luschnath, Bernhard	Luschnath	Bernhard	LB	NA	2
-MBR	M'Boungou, R.	M'Boungou	R.	MBR	NA	2
-MPP	Maas, Paulus (Paul) Johannes Maria	Maas	Paulus (Paul) Johannes Maria	MPP	NA	2
-MAAG	Maass, Gustavo	Maass	Gustavo	MAAG	NA	2
-MJM	MacDougal, John Mochrie	MacDougal	John Mochrie	MJM	NA	2
-MA	Macedo, Amaro	Macedo	Amaro	MA	NA	2
-MMJ	Macía, Manuel J.	Macía	Manuel J.	MMJ	NA	2
-MQD	MacQueen, Duncan J.	MacQueen	Duncan J.	MQD	NA	1
-MMR	Madiomanana, Mintina Roberta Cathy	Madiomanana	Mintina Roberta Cathy	MMR	NA	2
-ME	Madrid N., Estela	Madrid N.	Estela	ME	NA	2
-MMA	Magaña A., M. A.	Magaña A.	M. A.	MMA	NA	2
-MFC	Magogo, Frank Charles	Magogo	Frank Charles	MFC	NA	2
-MAGB	Maguire, Bassett	Maguire	Bassett	MAGB	NA	2
-MAHR	Mahroji, Roji	Mahroji	Roji	MAHR	NA	2
-MAIA	MAIA, *	MAIA	NA	MAIA	NA	2
-SM	Malcomber, Simon	Malcomber	Simon T.	SM	NA	NA
-MST	Malcomber, Simon T.	Malcomber	Simon T.	MST	NA	1
-MCB	Maldonado Goyzueta, Carla Brenda	Maldonado Goyzueta	Carla Brenda	MCB	NA	2
-MF	Mamani M., Fabiana	Mamani M.	Fabiana	MF	NA	2
-MHN	MANJAKAHERY	Manjakahery	Herisoa Nantena	MHN	NA	4
-MHN	MANJAKAHERY, *	Manjakahery	Herisoa Nantena	MHN	NA	2
-MHN	Manjakahery, Herisoa N.	Manjakahery	Herisoa Nantena	MHN	NA	1
-MHN	Manjakahery, Herisoa Nantena	Manjakahery	Herisoa Nantena	MHN	NA	NA
-MNV	Manjato, Nadiah Vololomboahangy	Manjato	Nadiah Vololomboahangy	MNV	NA	NA
-MVD	Mansano, Vidal de Freitas	Mansano	Vidal de Freitas	MVD	NA	2
-MOG	Marín Ojeda, Griselda	Marín Ojeda	Griselda	MOG	NA	2
-MARC	Markstrom, Cecilia	Markstrom	Cecilia	MARC	NA	2
-MARJ	Márquez, Juan	Márquez	Juan	MARJ	NA	2
-MCR	Marroquin Castro, R.	Marroquin Castro	R.	MCR	NA	2
-MRA	Marshall, Andrew R.	Marshall	Andrew R.	MRA	NA	2
-MR	Martial	Martial	Martial	MR	NA	NA
-MARG	Martinelli, Gustavo	Martinelli	Gustavo	MARG	NA	2
-MCG	Martínez Calderón, Guadalupe	Martínez Calderón	Guadalupe	MCG	NA	2
-MMM	Martínez Meléndez, Manuel	Martínez Meléndez	Manuel	MMM	NA	2
-MRC	Martínez Ramírez, Cipriano	Martínez Ramírez	Cipriano	MRC	NA	2
-MSE	Martínez Salas, Esteban Manuel	Martínez Salas	Esteban Manuel	MSE	NA	1
-MKL	Martínez Sequeira, Kattia Lorena	Martínez Sequeira	Kattia Lorena	MKL	NA	2
-MRJ	Martínez, José Rómulo	Martínez	José Rómulo	MRJ	NA	2
-MVM	Martínez, Victor Manuel	Martínez	Victor Manuel	MVM	NA	2
-MCK	Martius, Carl (Karl) Friedrich Philipp von	Martius	Carl (Karl) Friedrich Philipp von	MCK	NA	2
-MO	Marulanda, Orlando	Marulanda	Orlando	MO	NA	2
-MV	Maruñak, Victor	Maruñak	Victor	MV	NA	2
-MASC	Mas, Cyrille	Mas	Cyrille	MASC	NA	2
-ML	Masinkery, Laihandroy	Masinkery	Laihandroy	ML	NA	1
-MASG	Massawe, Genevieve	Massawe	Genevieve	MASG	NA	2
-MATE	MATECHI, *	MATECHI	NA	MATE	NA	2
-MG	Mathieu, Guido	Mathieu	Guido	MG	NA	NA
-ETAM	Matuda, Eizi	Matuda	Eizi	ETAM	NA	2
-OM	Maurin, Olivier	Maurin	Olivier	OM	NA	1
-MAWF	Mawi, F.	Mawi	F.	MAWF	NA	2
-MWR	Maxon, William Ralph	Maxon	William Ralph	MWR	NA	2
-MJF	Maxwell, James F.	Maxwell	James F.	MJF	NA	2
-MAYJ	Mayombo, Joseph	Mayombo	Joseph	MAYJ	NA	2
-MFM	Mbago, Frank M.	Mbago	Frank M.	MFM	NA	2
-MGV	Mbilinyi, G. V.	Mbilinyi	G. V.	MGV	NA	2
-MEI	Mboya, Emanuel I.	Mboya	Emanuel I.	MEI	NA	2
-MTS	McDaniel, Sidney Thomas	McDaniel	Sidney Thomas	MTS	NA	2
-MTD	McDowell, Timothy Don	McDowell	Timothy Don	MTD	NA	2
-MHL	McMillen, H. L.	McMillen	H. L.	MHL	NA	2
-MCP	McPherson, Gordon	McPherson	Gordon	MCP	NA	NA
-GMP	McPherson, Gordon D.	McPherson	Gordon D.	GMP	NA	NA
-MCVR	McVaugh, Rogers	McVaugh	Rogers	MCVR	NA	2
-MJA	Meave, Jorge Arturo	Meave	Jorge Arturo	MJA	NA	2
-MEDM	Medina, Miguel	Medina	Miguel	MEDM	NA	2
-MKE	Medley, Kimberley E.	Medley	Kimberley E.	MKE	NA	2
-MW	Meijer, Willem	Meijer	Willem	MW	NA	2
-MJE	Meireles, José Eduardo	Meireles	José Eduardo	MJE	NA	2
-MEJA	Mejía, A.	Mejía	A.	MEJA	NA	2
-MEMM	Mejía, Milcíades Manuel	Mejía	Milcíades Manuel	MEMM	NA	2
-MCJ	Meller, Charles James	Meller	Charles James	MCJ	NA	2
-MNJ	Melo, Néstor J.	Melo	Néstor J.	MNJ	NA	2
-MGA	Méndez Girón, Alonso	Méndez Girón	Alonso	MGA	NA	2
-MENE	Meneces, Elias	Meneces	Elias	MENE	NA	2
-MLF	Menéndez L., F.	Menéndez L.	F.	MLF	NA	2
-MEJ	Menjívar Cruz, Jenny Elizabeth	Menjívar Cruz	Jenny Elizabeth	MEJ	NA	2
-MMC	Merello, Mary Christine	Merello	Mary Christine	MMC	NA	2
-MESN	Messmer, N.	Messmer	N.	MESN	NA	2
-NM	Messmer, Nathalie	Messmer	Nathalie	NM	NA	NA
-MESK	Messner, Kurt	Messner	Kurt	MESK	NA	2
-METP	Metele, Peter	Metele	Peter	METP	NA	2
-MYE	Mexia, Ynés Enriquetta Julietta	Mexia	Ynés Enriquetta Julietta	MYE	NA	2
-MEYG	Meyer, G.	Meyer	G.	MEYG	NA	2
-MDM	Meyers, David M.	Meyers	David M.	MDM	NA	1
-MBE	Mhoro, Boniface E.	Mhoro	Boniface E.	MBE	NA	2
-MIC	Miandrimanana, Cyprien	Miandrimanana	Cyprien	MIC	NA	NA
-MDJ	Middleton, David John	Middleton	David John	MDJ	NA	1
-MJS	Miller, James (Jim) Spencer	Miller	James (Jim) Spencer	MJS	NA	1
-JM	Miller, Jim	Miller	Jim	JM	NA	NA
-MTB	Miranda Gonzáles, Tatiana Bladenka	Miranda Gonzáles	Tatiana Bladenka	MTB	NA	2
-MBN	Missouri Botanical Garden, *	Missouri Botanical Garden	NA	MBN	NA	2
-MAJ	Mlangwa, John Amani	Mlangwa	John Amani	MAJ	NA	2
-MH	Mnendendo, Hamidu	Mnendendo	Hamidu	MH	NA	2
-MOCA	Mocquerys, Albert	Mocquerys	Albert	MOCA	NA	2
-MM	Moeller, Michael	Moeller	Michael	MM	NA	NA
-MRJA	Molina Rosito, José Antonio	Molina Rosito	José Antonio	MRJA	NA	2
-MOLN	Mollel, Neduvoto	Mollel	Neduvoto	MOLN	NA	2
-MJR	Monja, José Rakotomahafaly	Monja	José Rakotomahafaly	MJR	NA	1
-MAK	Monro, Alexandre Kenneth	Monro	Alexandre Kenneth	MAK	NA	2
-MOMA	Monteagudo Mendoza, Abel	Monteagudo Mendoza	Abel	MOMA	NA	2
-MSJ	Monterrosa Salomón, Jorge Alberto	Monterrosa Salomón	Jorge Alberto	MSJ	NA	2
-JE	Montes, José E.	Montes	José E.	JE	NA	2
-JL	Mora, Jean-Luc	Mora	Jean-Luc	JL	NA	NA
-MPL	Moraes, Pedro Luís Rodrigues de	Moraes	Pedro Luís Rodrigues de	MPL	NA	2
-MCJE	Morales Can, Julio Enrique	Morales Can	Julio Enrique	MCJE	NA	2
-MQJ	Morales Quirós, Juan Francisco	Morales Quirós	Juan Francisco	MQJ	NA	2
-PM	Morat, Philippe	Morat	Philippe	PM	NA	1
-JJM	Morawetz, Jeffery	Morawetz	Jeffery	JJM	NA	NA
-MPI	Moreno Casasola, Patricia I.	Moreno Casasola	Patricia I.	MPI	NA	2
-MOPP	Moreno, Pedro Pablo	Moreno	Pedro Pablo	MOPP	NA	2
-MSA	Mori, Scott Alan	Mori	Scott Alan	MSA	NA	2
-MGN	Morillo, Gilberto N.	Morillo	Gilberto N.	MGN	NA	2
-MON	Morrone, Osvaldo N.	Morrone	Osvaldo N.	MON	NA	2
-MJK	Morton, John Kenneth	Morton	John Kenneth	MJK	NA	2
-MOCB	Mostacedo C., Bonifacio	Mostacedo C.	Bonifacio	MOCB	NA	2
-MOMJ	Mouandza Mbembo, Jean-Claude	Mouandza Mbembo	Jean-Claude	MOMJ	NA	2
-MOUA	Moungazi, Augustin	Moungazi	Augustin	MOUA	NA	2
-MAL	Moya Huanca, Araceli Laura	Moya Huanca	Araceli Laura	MAL	NA	2
-MLA	Mroginski, L. A.	Mroginski	L. A.	MLA	NA	2
-MTUR	MTURI, *	MTURI	NA	MTUR	NA	2
-MME	Múlgura, María Ema	Múlgura	María Ema	MME	NA	2
-MJC	Murillo Aldana, José Carmelo	Murillo Aldana	José Carmelo	MJC	NA	2
-MAM	Mwangoka, Moses A.	Mwangoka	Moses A.	MAM	NA	2
-MNA	Mwangulango, Nathan A.	Mwangulango	Nathan A.	MNA	NA	2
-MLB	Mwasumbi, Leonard Beluke	Mwasumbi	Leonard Beluke	MLB	NA	2
-MGT	Mwiga, G. T.	Mwiga	G. T.	MGT	NA	2
-NMR	Rajaonarivelo, Njaranirina Mickael	Rajaonarivelo	Njaranirina Mickael	NMR	NA	NA
-NACW	Nachamba, W.	Nachamba	W.	NACW	NA	2
-NOC	Nascimento, O. C. do	Nascimento	O. C. do	NOC	NA	2
-NJO	Ndege, John Otieno	Ndege	John Otieno	NJO	NA	2
-NMH	Nee, Michael H.	Nee	Michael H.	NMH	NA	2
-NDA	Neill, David Alan	Neill	David Alan	NDA	NA	2
-NFI	Nek, F. Ivan van	Nek	F. Ivan van	NFI	NA	1
-NCH	Nelson, Cyril Hardy	Nelson	Cyril Hardy	NCH	NA	2
-NEB	Nelson, E. Bruce	Nelson	E. Bruce	NEB	NA	2
-NEC	Ngagnia, Eddy Clerc	Ngagnia	Eddy Clerc	NEC	NA	2
-NGUD	Nguema, Diosdado	Nguema	Diosdado	NGUD	NA	2
-NTH	Nguyên, Tiên Hiêp	Nguyên	Tiên Hiêp	NTH	NA	2
-NRN	Niangadouma, Raoul N.	Niangadouma	Raoul N.	NRN	NA	2
-NMF	Nicoll, Marion F.	Nicoll	Marion F.	NMF	NA	1
-NDH	Nicolson, Dan Henry	Nicolson	Dan Henry	NDH	NA	2
-NB	Nieto Ariza, Beatriz	Nieto Ariza	Beatriz	NB	NA	2
-LN	Nikolov, Lachezar	Nikolov	Lachezar	LN	NA	1
-NBT	Nimba Botanical Team	Nimba Botanical Team	NA	NBT	NA	2
-NE	Njau, E.	Njau	E.	NE	NA	2
-NA	Noblick, Larry	Noblick	Larry	NA	NA	4
-NN	NOBREGA, *	NOBREGA	NA	NN	NA	2
-NZM	Nombanjanahary, Zoherinjina Minosoa	Nombanjanahary	Zoherinjina Minosoa	NZM	NA	NA
-NORR	NORRIS, *	NORRIS	NA	NORR	NA	2
-NLA	Novelo Retana, Luis Alejandro	Novelo Retana	Luis Alejandro	NLA	NA	2
-NRD	Noyes, Richard [Rick] David	Noyes	Richard [Rick] David	NRD	NA	1
-NSN	Núñez S., Santiago	Núñez S.	Santiago	NSN	NA	1
-NP	Núñez Vargas, Percy	Núñez Vargas	Percy	NP	NA	2
-NLP	Nusbaumer, Louis Paul Gustave Alvin	Nusbaumer	Louis Paul Gustave Alvin	NLP	NA	1
-NYAM	Nyange, M.	Nyange	M.	NYAM	NA	2
-OCCP	Occhioni, Pedro	Occhioni	Pedro	OCCP	NA	2
-OAS	Oersted, Anders Sandøe	Oersted	Anders Sandøe	OAS	NA	2
-OKTA	OKTAN	OKTAN	NA	OKTA	NA	2
-ORA	Oldeman, Roelof Arend Albert	Oldeman	Roelof Arend Albert	ORA	NA	2
-OR	Oliveira, Rosa	Oliveira	Rosa	OR	NA	2
-OB	Øllgaard, Benjamin	Øllgaard	Benjamin	OB	NA	2
-RO	Omlor, Ralf	Omlor	Ralf	RO	NA	1
-OGE	Onjalalaina, Guy E.	Onjalalaina	Guy E.	OGE	NA	1
-OPA	Opler, Paul Alexander	Opler	Paul Alexander	OPA	NA	2
-OCR	Orcutt, Charles Russell	Orcutt	Charles Russell	OCR	NA	2
-OMT	Ordonez, M. T.	Ordonez	M. T.	OMT	NA	2
-ON	Ortega, *	Ortega	NA	ON	NA	2
-OF	Ortiz, Felícito	Ortiz	Felícito	OF	NA	2
-ORT	Ortíz, Rolando Tún	Ortíz	Rolando Tún	ORT	NA	2
-OJI	Otero Jañez, José Idilio	Otero Jañez	José Idilio	OJI	NA	2
-OD	OVERDORFF, *	OVERDORFF	NA	OD	NA	2
-OD	Overdorff, D.	Overdorff	D.	OD	NA	2
-PMR	Pace, Marcelo Rodrigo	Pace	Marcelo Rodrigo	PMR	NA	1
-PWA	Palacios Cuenca, Walter Armando	Palacios Cuenca	Walter Armando	PWA	NA	2
-PE	Palmer, Edward	Palmer	Edward	PE	NA	2
-PNY	Paniagua Zambrana, Narel Yaroslava	Paniagua Zambrana	Narel Yaroslava	PNY	NA	2
-PS	Pap, S.	Pap	S.	PS	NA	2
-PGA	Parada-Gutierrez, Germaine Alexander	Parada-Gutierrez	Germaine Alexander	PGA	NA	2
-PN	Paredes, *	Paredes	NA	PN	NA	2
-PI	Parmentier, Ingrid	Parmentier	Ingrid	PI	NA	2
-PO	Pascal, O.	Pascal	O.	PO	NA	2
-PG	Paz y Miño C., Guillermo	Paz y Miño C.	Guillermo	PG	NA	2
-PTM	Pedersen, Troels Myndel	Pedersen	Troels Myndel	PTM	NA	2
-PB	Peguero, Brígido	Peguero	Brígido	PB	NA	2
-PAL	Peixoto, Ariane Luna	Peixoto	Ariane Luna	PAL	NA	2
-JP	Peltier, Jacqueline	Peltier	Jacqueline	JP	NA	1
-MP	Peltier, Maurice	Peltier	Maurice	MP	NA	1
-PERJ	Perea, Juan	Perea	Juan	PERJ	NA	2
-PERE	Pereira, *	Pereira	NA	PERE	NA	2
-PBA	Pereira, B. A. S.	Pereira	B. A. S.	PBA	NA	2
-EREP	Pereira, Edmundo	Pereira	Edmundo	EREP	NA	2
-PL	Pérez de Molas, Lidia	Pérez de Molas	Lidia	PL	NA	2
-PERM	Pérez, M.	Pérez	M.	PERM	NA	2
-PME	Pérez, Mervin E.	Pérez	Mervin E.	PME	NA	2
-PERR	Pérez, R.	Pérez	R.	PERR	NA	2
-HPB	Perrier de la Bâthie, Joseph Marie Henry Alfred	Perrier de la Bâthie	Joseph Marie Henry Alfred	HPB	NA	1
-PERA	Perry, Alan	Perry	Alan	PERA	NA	2
-PAC	Persaud, A. C.	Persaud	A. C.	PAC	NA	2
-PA	Pervillé, Auguste	Pervillé	Auguste	PA	NA	1
-PAG	Peter, Gustav Albert	Peter	Gustav Albert	PAG	NA	2
-PPM	Peterson, Paul M.	Peterson	Paul M.	PPM	NA	2
-PBE	Pettersson, Börge Erik	Pettersson	Börge Erik	PBE	NA	2
-POL	Phillips, Oliver L.	Phillips	Oliver L.	POL	NA	2
-PBP	Phillipson, Peter B.	Phillipson	Peter B.	PBP	NA	NA
-PICC	Pichon, C.	Pichon	C.	PICC	NA	2
-PDB	Pickel, D. Bento	Pickel	D. Bento	PDB	NA	2
-PINA	PINATE, *	PINATE	NA	PINA	NA	2
-PJJ	Pipoly, John James,  III	Pipoly	John James	PJJ	NA	2
-PJR	Pirani, José Rubens	Pirani	José Rubens	PJR	NA	2
-PDA	Pires da Silveira, A. L.	Pires da Silveira	A. L.	PDA	NA	2
-PNC	Pitman, Nigel C. A.	Pitman	Nigel C. A.	PNC	NA	2
-PHE	Pittier, Henri (Enrique, Henry) François	Pittier	Henri (Enrique	PHE	NA	2
-PTC	Plowman, Timothy Charles	Plowman	Timothy Charles	PTC	NA	2
-PGM	Plunkett, Gregory Michael	Plunkett	Gregory Michael	PGM	NA	2
-PJB	Pohl, Johann Baptist Emanuel	Pohl	Johann Baptist Emanuel	PJB	NA	2
-PP	Poilecot, Pierre	Poilecot	Pierre	PP	NA	1
-PRM	Polhill, Roger Marcus	Polhill	Roger Marcus	PRM	NA	2
-PCL	Pollard, Charles Louis	Pollard	Charles Louis	PCL	NA	2
-PAS	Poma Chura, Abraham Salomon	Poma Chura	Abraham Salomon	PAS	NA	2
-OP	Poncy, Odile	Poncy	Odile	OP	NA	NA
-PJM	Poole, Jackie M.	Poole	Jackie M.	PJM	NA	2
-POUS	Poulain, Simon	Poulain	Simon	POUS	NA	2
-PLJ	Poveda Álvarez, Luis Jorge	Poveda Álvarez	Luis Jorge	PLJ	NA	2
-PGI	Prance, Ghillean (Iain) Tolmie	Prance	Ghillean (Iain) Tolmie	PGI	NA	2
-PD	Price, D.	Price	D.	PD	NA	2
-PRIA	Prieto, Adriana	Prieto	Adriana	PRIA	NA	2
-PCG	Pringle, Cyrus Guernsey	Pringle	Cyrus Guernsey	PCG	NA	2
-PROJ	Procter, John	Procter	John	PROJ	NA	2
-PGR	Proctor, *	Proctor	NA	PGR	NA	2
-PGR	Proctor, George Richardson	Proctor	George Richardson	PGR	NA	2
-PJF	Pruski, John Francis	Pruski	John Francis	PJF	NA	2
-PDE	Puleston, Dennis E.	Puleston	Dennis E.	PDE	NA	2
-PAA	Pulle, August Adriaan	Pulle	August Adriaan	PAA	NA	2
-PCK	Purpus, Carl (Karl) Albert	Purpus	Carl (Karl) Albert	PCK	NA	2
-QHJ	Quero Rico, Hermilo Jorge Ramón	Quero Rico	Hermilo Jorge Ramón	QHJ	NA	2
-QFJ	Quesada Quesada, Francisco Javier	Quesada Quesada	Francisco Javier	QFJ	NA	2
-QFA	Quesada Quesada, Freddy Antonio	Quesada Quesada	Freddy Antonio	QFA	NA	2
-QRC	Quevedo Sopepí, Roberto Carlos	Quevedo Sopepí	Roberto Carlos	QRC	NA	2
-QJB	Quezada Bonilla, José Benito	Quezada Bonilla	José Benito	QJB	NA	2
-QLM	Quiñones, Luz Mila	Quiñones	Luz Mila	QLM	NA	2
-QJM	Quisbert Quispe, Javier Martín	Quisbert Quispe	Javier Martín	QJM	NA	2
-ROM	Rabarijaona, Narindra Romer	Rabarijaona	Narindra Romer	ROM	NA	NA
-RABR	Rabarijaona, Romer	Rabarijaona	Romer	RABR	NA	2
-MAR	Rabarimanarivo, Marina	Rabarimanarivo	Marina	MAR	NA	NA
-RML	Rabarivola, Linah M.	Rabarivola	Linah M.	RML	NA	1
-RJU	Rabe, Justin	Rabe	Justin	RJU	NA	NA
-RDA	Rabearivony, Dimbilala Aina	Rabearivony	Dimbilala Aina Nomenjanahary	RDA	NA	1
-RAB	Rabearivony, Dimbilala Aina Nomenjanahary	Rabearivony	Dimbilala Aina Nomenjanahary	RAB	NA	NA
-RTA	Rabefarihy, Andriantsoa Tahiry	Rabefarihy	Andriantsoa Tahiry	RTA	NA	NA
-RTA	Rabefarihy, Tahiry A.	Rabefarihy	Tahiry A.	RTA	NA	1
-RAD	Rabehevitra, David	Rabehevitra	David	RAD	NA	NA
-RKM	Rabekoloina, Manohisoa	Rabekoloina	Manohisoa	RKM	NA	NA
-RBV	Rabelo, Benedito V.	Rabelo	Benedito V.	RBV	NA	2
-RJO	RABENANTOANDRO, *	RABENANTOANDRO	Johny	RJO	NA	2
-RJO	Rabenantoandro, Johny	Rabenantoandro	Johny	RJO	NA	NA
-RNR	Rabesandratana, Rachel N.	Rabesandratana	Rachel N.	RNR	NA	2
-R	RABEVOHITRA	Rabevohitra	Raymond	R	NA	4
-R	RABEVOHITRA, *	RABEVOHITRA	Raymond	R	NA	2
-R	Rabevohitra, Raymond	Rabevohitra	Raymond	R	NA	NA
-RCN	Rado Claudio, Nandrasana	Rado Claudio	Nandrasana	RCN	NA	NA
-RNJ	Rafanomezantsoa, Norlin Jean Odoris	Rafanomezantsoa	Norlin Jean Odoris	RNJ	NA	2
-RON	Rafanomezantsoa, Odoris Norlin	Rafanomezantsoa	Odoris Norlin	RON	NA	NA
-RGM	RAHAJASOA, *	RAHAJASOA	Grâce Monique	RGM	NA	2
-RGM	Rahajasoa, Grace Monique	Rahajasoa	Grâce Monique	RGM	NA	NA
-RGM	Rahajasoa, Grâce Monique	Rahajasoa	Grâce Monique	RGM	NA	1
-RAHJ	Rahantamalala, Josette	Rahantamalala	Josette	RAHJ	NA	2
-RER	Raharijaona, Era Riana	Raharijaona	Era Riana	RER	NA	NA
-J	Raharilala, Jeannine	Raharilala	Jeannine	J	NA	NA
-FR	Raharimalala, Fidèle	Raharimalala	Fidèle	FR	NA	1
-RV	Raharimalala, V.	Raharimalala	V.	RV	NA	2
-JNI	Raharimampionona, Jeannie	Raharimampionona	Jeannie	JNI	NA	NA
-MER	Rahelivololona, Marie Elisette	Rahelivololona	Marie Elisette	MER	NA	NA
-RLC	Raholivelo, Liliane Christine	Raholivelo	Liliane Christine	RLC	NA	NA
-FAR	Rajaonary, Fano A.	Rajaonary	Fano A.	FAR	NA	NA
-RJS	Rajaonary, Stanislas	Rajaonary	Stanislas	RJS	NA	NA
-RVL	Rajaovelona, Landy	Rajaovelona	Landy	RVL	NA	1
-RRI	Rajemisa, Richard	Rajemisa	Richard	RRI	NA	NA
-RAJR	Rajoharison, R.	Rajoharison	R.	RAJR	NA	2
-RRA	Rajoharison, Rivo	Rajoharison	Rivo	RRA	NA	NA
-RR	Rakoto, Raphael	Rakoto	Raphael	RR	NA	NA
-RSE	Rakotoarisoa, Eric Solofo	Rakotoarisoa	Solofo Eric	RSE	NA	NA
-RAF	Rakotoarisoa, Fenonirina	Rakotoarisoa	Fenonirina	RAF	NA	NA
-RSE	Rakotoarisoa, Solofo Eric	Rakotoarisoa	Solofo Eric	RSE	NA	NA
-RKN	Rakotoarivelo, Nivo H.	Rakotoarivelo	Nivo Hariniaina	RKN	NA	NA
-RKN	Rakotoarivelo, Nivo Hariniaina	Rakotoarivelo	Nivo Hariniaina	RKN	NA	NA
-RL	Rakotomalala, Liva	Rakotomalala	Liva	RL	NA	NA
-PJ	Rakotomalaza, Pierre Jules	Rakotomalaza	Pierre Jules "Coca"	PJ	NA	NA
-PJ	Rakotomalaza, Pierre Jules "Coca"	Rakotomalaza	Pierre Jules "Coca"	PJ	NA	1
-ST	RAKOTONANDRASANA	Rakotonandrasana	Stéphan	ST	NA	4
-ST	RAKOTONANDRASANA, *	Rakotonandrasana	Stéphan	ST	NA	2
-ST	Rakotonandrasana, Stephan	Rakotonandrasana	Stéphan	ST	NA	NA
-ST	Rakotonandrasana, Stéphan	Rakotonandrasana	Stéphan	ST	NA	1
-RNF	Rakotonasolo, Franck	Rakotonasolo	Franck	RNF	NA	NA
-RLL	Rakotondrafara, Andriamalala	Rakotondrafara	Andriamalala	RLL	NA	NA
-ROL	Rakotondrajaona, Roland	Rakotondrajaona	Roland	ROL	NA	NA
-RLG	Rakotondranony, L. G.	Rakotondranony	L. G.	RLG	NA	1
-OKAR	RAKOTONIAINA, *	RAKOTONIAINA	NA	OKAR	NA	2
-RBO	Rakotonindriana, Bruno	Rakotonindriana	Bruno	RBO	NA	NA
-RAG	Rakotonirina, Arsène Giovanni	Rakotonirina	Arsène Giovanni	RAG	NA	NA
-BEN	Rakotonirina, Benja	Rakotonirina	Benja	BEN	NA	NA
-RZC	Rakotonirina, Casmir	Rakotonirina	Casmir Zoly	RZC	NA	NA
-RZC	Rakotonirina, Casmir Zoly	Rakotonirina	Casmir Zoly	RZC	NA	NA
-RNH	Rakotonirina, Nivohenintsoa	Rakotonirina	Nivohenintsoa	RNH	NA	NA
-RP	Rakotonirina, Paul	Rakotonirina	Paul	RP	NA	1
-CR	Rakotovao, Charles	Rakotovao	Charles	CR	NA	NA
-RAR	Rakotozafy, Armand	Rakotozafy	Armand	RAR	NA	1
-BFL	Rakotozafy, B. F. L.	Rakotozafy	Brice Funk Lee	BFL	NA	1
-BFL	Rakotozafy, Brice Funk Lee	Rakotozafy	Brice Funk Lee	BFL	NA	NA
-RTH	Rakouth, Hasina Nomentsoa	Rakouth	Hasina Nomentsoa	RTH	NA	NA
-RBM	Ralaijaona, Benjamina	Ralaijaona	Benjamina	RBM	NA	NA
-TOK	Ralainaorina, Toky Niaina	Ralainaorina	Toky Niaina	TOK	NA	NA
-RLI	Ralimanana, Hélène	Ralimanana	Hélène	RLI	NA	NA
-AMR	Ramahefaharivelo, Ando Malala	Ramahefaharivelo	Ando Malala	AMR	NA	NA
-RJH	Ramahefarison, Jacquis Harimbolasoa	Ramahefarison	Jacquis Harimbolasoa	RJH	NA	NA
-RJA	Ramahenina, Joharintsoa Aina	Ramahenina	Joharintsoa Aina	RJA	NA	NA
-RB	Ramamonjiarisoa, Bakolimalala	Ramamonjiarisoa	Bakolimalala	RB	NA	NA
-RAMH	Ramamonjisoa, H.	Ramamonjisoa	H.	RAMH	NA	2
-RTP	Ramamoorthy, Thennilapuram Parasuraman	Ramamoorthy	Thennilapuram Parasuraman	RTP	NA	2
-RMF	Ramanakoto, Miora Falimiarana	Ramanakoto	Miora Falimiarana	RMF	NA	NA
-RMF	Ramanakoto, Miora M.	Ramanakoto	Miora Falimiarana	RMF	same as Miora Falimiarana?	NA
-RHM	Ramanambohitra, Herinambinina Navalona	Ramanambohitra	Herinambinina Navalona	RHM	NA	NA
-RHM	Ramanambohitra, Navalona Herinambinina	Ramanambohitra	Herinambinina Navalona	RHM	NA	NA
-RRH	Ramananjanahary, Rondro	Ramananjanahary	Rondro Hanitrinitiana	RRH	NA	NA
-RRH	Ramananjanahary, Rondro Hanitrinitiana	Ramananjanahary	Rondro Hanitrinitiana	RRH	NA	1
-NAT	Ramanantenasoa, Nantenaina	Ramanantenasoa	Nantenaina	NAT	NA	NA
-RRN	Ramanantsialonina, Ravo Nantenaina	Ramanantsialonina	Ravo Nantenaina	RRN	NA	NA
-RSD	Ramandimbimanana, S. D.	Ramandimbimanana	S. D.	RSD	NA	2
-RBR	Ramandimbisoa, Brigitte	Ramandimbisoa	Brigitte	RBR	NA	NA
-RFN	Ramanitrinizaka, Fanilo Malala	Ramanitrinizaka	Fanilo	RFN	NA	NA
-RFN	Ramanitrinizaka, Fanilo	Ramanitrinizaka	Fanilo	RFN	NA	NA
-RAMB	Rambo, Balduino	Rambo	Balduino	RAMB	NA	2
-RCP	Ramírez C., P.	Ramírez C.	P.	RCP	NA	2
-RCR	Ramírez Catauga, Ramón	Ramírez Catauga	Ramón	RCR	NA	2
-RVH	Ramírez Villalobos, Víctor Hugo	Ramírez Villalobos	Víctor Hugo	RVH	NA	2
-RRG	Ramison, Roger Georgensen	Ramison	Roger Georgensen	RRG	NA	NA
-RED	Ramisy, Edmond	Ramisy	Edmond	RED	NA	NA
-RAML	Ramon, Laurence	Ramon	Laurence	RAML	NA	2
-LRA	Ranaivoarisoa, L.	Ranaivoarisoa	L.	LRA	NA	1
-RANA	RANAIVOJAONA, *	RANAIVOJAONA	NA	RANA	NA	2
-ROR	Ranaivojaona, Rolland	Ranaivojaona	Rolland	ROR	NA	NA
-RNT	Ranaivoson, N. T.	Ranaivoson	N. T.	RNT	NA	2
-HR	Ranarivelo, Heritiana	Ranarivelo	Heritiana	HR	changed from RHS	NA
-RT	Ranarivelo, Tianjanahary	Ranarivelo	Tianjanahary	RT	NA	2
-RCH	Randimbiarison, C. H.	Randimbiarison	C. H.	RCH	NA	2
-ROZ	Randimbison, Maherizo	Randimbison	Maherizo	ROZ	NA	NA
-RPJ	Randria, Paul Joseph	Randria	Paul Joseph	RPJ	NA	NA
-RDG	Randriamahazomanana, Daniel George	Randriamahazomanana	Daniel George	RDG	NA	NA
-RBB	Randriamampionona, Bébéronn	Randriamampionona	Bébéronn	RBB	NA	NA
-ANAR	Randriamanantena, A.	Randriamanantena	A.	ANAR	NA	2
-RJL	Randriamanarivo, Juliette	Randriamanarivo	Juliette	RJL	NA	NA
-RRE	Randriamarosoa, Rémi	Randriamarosoa	Rémi	RRE	NA	NA
-RANT	Randriamboavonjy, Tianjanahary	Randriamboavonjy	Tianjanahary	RANT	NA	2
-ROC	Randriambololomamonjy, Ornella C.	Randriambololomamonjy	Ornella Christine	ROC	NA	1
-ROC	Randriambololomamonjy, Ornella Christine	Randriambololomamonjy	Ornella Christine	ROC	NA	NA
-BM	Randriambololona, Michel Bien-Aimé	Randriambololona	Michel Bien-Aimé	BM	NA	NA
-TNM	Randriamiharisoa, Tolojanahary Nirina M.	Randriamiharisoa	Tolojanahary Nirina M.	TNM	NA	2
-RTN	Randriamiharisoa, Tolojanahary Nirina Maria	Randriamiharisoa	Tolojanahary Nirina Maria	RTN	NA	NA
-RIR	Randrianaivo, Richard	Randrianaivo	Richard	RIR	NA	NA
-RCS	Randrianarivelo, Clairemont	Randrianarivelo	Clairemont	RCS	NA	NA
-TAB	Randrianarivony, Tabita	Randrianarivony	Tabita	TAB	NA	NA
-RA	Randrianasolo, Armand	Randrianasolo	Armand	RA	NA	NA
-RJ	Randrianasolo, Joma	Randrianasolo	Joma	RJ	NA	NA
-SSR	Randrianasolo, Sennen Solofo	Randrianasolo	Sennen Solofo	SSR	NA	NA
-RMO	Randrianjanahary, Miramasoandro Onitiana	Randrianjanahary	Miramasoandro Onitiana	RMO	NA	NA
-RLM	Randrianjanaka, Lucien Marson	Randrianjanaka	Lucien Marson	RLM	NA	NA
-FMB	Randriantafika, Faly	Randriantafika	Faly	FMB	NA	NA
-RANF	Randriatafika, Faly	Randriatafika	Faly	RANF	NA	2
-RANJ	Randriatahina, James	Randriatahina	James	RANJ	NA	2
-RFM	Randriatsivery, Floria Monique	Randriatsivery	Monique Fleuria	RFM	NA	NA
-RFM	Randriatsivery, Monique Fleuria	Randriatsivery	Monique Fleuria	RFM	NA	NA
-PR	Ranirison, Patrick	Ranirison	Patrick	PR	NA	NA
-RS	Rapanarivo, Solo	Rapanarivo	Solo H.	RS	NA	NA
-RS	Rapanarivo, Solo H.	Rapanarivo	Solo H.	RS	NA	1
-RSH	Rapanarivo, Solo Hery J.V.	Rapanarivo	Solo Hery J.V.	RSH	NA	2
-RAST	Rasatatsihoarana, Thierry	Rasatatsihoarana	Thierry	RAST	NA	2
-RHT	Rasatatsihoarana, Thierry H.F.	Rasatatsihoarana	Thierry H.F.	RHT	NA	NA
-RMH	Rasoafaranaivo, Margianne H.	Rasoafaranaivo	Margianne Hariline	RMH	NA	1
-RMH	Rasoafaranaivo, Margianne Hariline	Rasoafaranaivo	Margianne Hariline	RMH	NA	NA
-RLP	Rasoamanana, Lalaina P.	Rasoamanana	Lalaina Patricia	RLP	NA	NA
-RLP	Rasoamanana, Lalaina Patricia	Rasoamanana	Lalaina Patricia	RLP	NA	NA
-RASN	Rasoanaivo, N.S.	Rasoanaivo	N.S.	RASN	NA	2
-NSR	Rasoanaivo, Niry	Rasoanaivo	Niry	NSR	NA	NA
-HMR	Rasoanindriana, Harisandy Mahenintsoa	Rasoanindriana	Harisandy Mahenintsoa	HMR	NA	1
-RMS	Rasoanindriana, Mahenintsoa Harisandy	Rasoanindriana	Mahenintsoa Harisandy	RMS	NA	NA
-RF	Rasoavimbahoaka, Fanjanavalona	Rasoavimbahoaka	Fanjanavalona	RF	NA	NA
-RFF	Rasoavimbahoaka, Fanjanavalona "Fanja"	Rasoavimbahoaka	Fanjanavalona "Fanja"	RFF	NA	2
-RHJ	Rasoazanany, Haingo Marie Judith	Rasoazanany	Haingo Marie Judith	RHJ	NA	NA
-RVM	Rasolofoniaina, Vonimirana Mbolatiana	Rasolofoniaina	Vonimirana Mbolatiana	RVM	NA	NA
-RHA	Rasolohery, Andriambolantsoa	Rasolohery	Andriambolantsoa	RHA	NA	NA
-MAE	Ratolojanahary, Maherisoa	Ratolojanahary	Maherisoa	MAE	NA	NA
-RATG	Ratovonirina, Gaetan	Ratovonirina	Gaetan	RATG	NA	2
-RFA	Ratovoson, Fidisoa	Ratovoson	Fidisoa "Fidy"	RFA	NA	NA
-RFA	Ratovoson, Fidisoa "Fidy"	Ratovoson	Fidisoa "Fidy"	RFA	NA	NA
-RHS	Ratsaralaza, Herisitraka	Ratsaralaza	Herisitraka	RHS	NA	NA
-RAJ	Ratter, James Alexander	Ratter	James Alexander	RAJ	NA	2
-WR	Rauh, Werner	Rauh	Werner	WR	NA	1
-RCC	Raunkiaer, Christen Christiansen	Raunkiaer	Christen Christiansen	RCC	NA	2
-RAV	Ravaoherinavalona, Rota	Ravaoherinavalona	Rota	RAV	NA	NA
-HRS	Ravaomanalina, Bako Harisoa	Ravaomanalina	Bako Harisoa	HRS	NA	NA
-HRS	Ravaomanalina, Harisoa	Ravaomanalina	Bako Harisoa	HRS	NA	NA
-RAL	Ravelomalala, Lucia	Ravelomalala	Lucia Stefanie	RAL	NA	4
-RAL	Ravelomalala, Lucia S.	Ravelomalala	Lucia Stefanie	RAL	NA	NA
-RAL	Ravelomalala, Lucia Stefanie	Ravelomalala	Lucia Stefanie	RAL	NA	NA
-RDN	Ravelomanantsoa, D.	Ravelomanantsoa	D.	RDN	NA	2
-RDN	Ravelomanantsoa, Daniel	Ravelomanantsoa	Daniel	RDN	NA	NA
-RVF	Ravelonahina, Harimisa	Ravelonahina	Harimisa	RVF	NA	NA
-RD	Ravelonarivo, Désiré	Ravelonarivo	Désiré	RD	NA	NA
-RTF	Raveloson, Tolojanahary Felantsoa	Raveloson	Tolojanahary Felantsoa	RTF	NA	NA
-RVN	Ravololomanana, Noromalala	Ravololomanana	Noromalala	RVN	NA	NA
-RHN	Ravololonanahary, Hantanirina	Ravololonanahary	Hantanirina	RHN	NA	NA
-RAM	Razafimalala, Andrée Anne Marie	Razafimalala	Andrée Anne Marie	RAM	NA	NA
-RNA	Razafimamonjy, Nivo ALisoa	Razafimamonjy	Nivo Alisoa	RNA	NA	NA
-RNA	Razafimamonjy, Nivo Alisoa	Razafimamonjy	Nivo Alisoa	RNA	NA	NA
-SG	Razafimandimbison, Sylvain Georges	Razafimandimbison	Sylvain Georges	SG	NA	NA
-RH	Razafimandimby, H.	Razafimandimby	H.	RH	NA	1
-RHF	Razafimelison, Herivola Fenitriniela	Razafimelison	Herivola Fenitriniela	RHF	NA	NA
-RJB	Razafindrabe, Jean-Baptiste	Razafindrabe	Jean-Baptiste	RJB	NA	NA
-RVT	Razafindrahaja, Vololotahina	Razafindrahaja	Vololotahina	RVT	NA	NA
-RHV	Razafindraibe, Hanta	Razafindraibe	Hanta	RHV	NA	NA
-RNM	Razafindraibe, Mendrika Nambinintsoa	Razafindraibe	Mendrika Nambinintsoa	RNM	NA	2
-RMN	Razafindraibe, Nambinintsoa Mendrika	Razafindraibe	Nambinintsoa Mendrika	RMN	NA	NA
-RFY	Razafindrakoto, Fanjambola Yolande	Razafindrakoto	Fanjambola Yolande	RFY	NA	NA
-RYF	Razafindrakoto, Yolanda Fanjambola	Razafindrakoto	Yolanda Fanjambola	RYF	NA	1
-RZD	Razafindramora, Dernah	Razafindramora	Dernah	RZD	NA	NA
-ROH	Razafindratsima, Onja H.	Razafindratsima	Onja H.	ROH	NA	2
-RBC	Razafindrazaka, Barthelemi	Razafindrazaka	Barthelemi	RBC	NA	NA
-AR	Razafintsalama, Annick	Razafintsalama	Annick	AR	NA	1
-JFR	Razafitsalama, Jérémie Lalao	Razafitsalama	Lalao Jeremi	JFR	changed from RLJ	NA
-JFR	Razafitsalama, Lalao Jeremi	Razafitsalama	Lalao Jeremi	JFR	changed from RLJ	NA
-RZK	Razakamalala, Richard	Razakamalala	Richardson	RZK	NA	NA
-RZK	Razakamalala, Richardson	Razakamalala	Richardson	RZK	NA	NA
-HMAR	Razanajatovo, Mialy Harindra	Razanajatovo	Mialy Harindra	HMAR	NA	2
-RZA	Razanatsima, Aina	Razanatsima	Aina	RZA	NA	NA
-REH	Razanatsoa, Hélène	Razanatsoa	Hélène	REH	NA	NA
-RJQ	Razanatsoa, Jacqueline	Razanatsoa	Jacqueline	RJQ	NA	NA
-RK	Redden, Karen M.	Redden	Karen M.	RK	NA	2
-GR	Reeves, Gail	Reeves	Gail	GR	NA	1
-RMJ	Reitsma, J. M.	Reitsma	J. M.	RMJ	NA	2
-RPR	Reitz, Pe. Raulino	Reitz	Pe. Raulino	RPR	NA	2
-RMA	Renderos, Miguel A.	Renderos	Miguel A.	RMA	NA	2
-RE	Rentería Arriaga, Enrique	Rentería Arriaga	Enrique	RE	NA	2
-RSA	Renvoize, Stephen Andrew	Renvoize	Stephen Andrew	RSA	NA	2
-RN	RESERVE NATURELLE, *	Réserves Naturelles Madagascar	Réserves Naturelles Madagascar	RN	NA	1
-RN	Reserves Naturelles [collection series]	Réserves Naturelles Madagascar	Réserves Naturelles Madagascar	RN	NA	NA
-RN	Réserves Naturelles Madagascar	Réserves Naturelles Madagascar	Réserves Naturelles Madagascar	RN	NA	NA
-RN	RESERVES NATURELLES, *	Réserves Naturelles Madagascar	Réserves Naturelles Madagascar	RN	NA	NA
-RCJ	Revilla Cardenas, Juan	Revilla Cardenas	Juan	RCJ	NA	2
-RMD	Reyes Enríquez, María de los Ángeles	Reyes Enríquez	María de los Ángeles	RMD	NA	2
-REYA	Reyes-García, Alberto	Reyes-García	Alberto	REYA	NA	2
-RCA	Reynel Rodríguez, Carlos Augusto	Reynel Rodríguez	Carlos Augusto	RCA	NA	2
-ROS	Ribas, Osmar dos Santos	Ribas	Osmar dos Santos	ROS	NA	1
-RC	Richard, (Jean Michel) Claude	Richard	Jean Michel Claude	RC	NA	1
-RJM	Richard, Jean Michel Claude	Richard	Jean Michel Claude	RJM	NA	1
-RCE	Ridsdale, Colin Ernest	Ridsdale	Colin Ernest	RCE	NA	1
-RIEL	Riedel, Ludwig	Riedel	Ludwig	RIEL	NA	2
-RYM	Rimachi Y., Manuel	Rimachi Y.	Manuel	RYM	NA	2
-RNP	Ritter, Nur P.	Ritter	Nur P.	RNP	NA	2
-RIVR	Rivero, Raúl	Rivero	Raúl	RIVR	NA	2
-RTV	Rivoharison, Tahiry Victoria	Rivoharison	Tahiry Victoria	RTV	NA	NA
-RCT	Rizzini, Carlos Toledo	Rizzini	Carlos Toledo	RCT	NA	2
-RJV	Roberson, Jean Victor	Roberson	Jean Victor	RJV	NA	1
-RAS	Robertson (Chambers), Sylvia Ann	Robertson (Chambers)	Sylvia Ann	RAS	NA	2
-RKR	Robertson, Kenneth R.	Robertson	Kenneth R.	RKR	NA	2
-RRD	Robles González, Rafael de Jesús Ramón	Robles González	Rafael de Jesús Ramón	RRD	NA	2
-ROCH	Rocha, *	Rocha	NA	ROCH	NA	2
-RODA	RODAL, *	RODAL	NA	RODA	NA	2
-RWA	Rodrigues, William Antônio	Rodrigues	William Antônio	RWA	NA	2
-RDD	Rodríguez Delcid, Dagoberto	Rodríguez Delcid	Dagoberto	RDD	NA	2
-RGA	Rodríguez González, Alexánder Francisco	Rodríguez González	Alexánder Francisco	RGA	NA	2
-RODR	RODRÍGUEZ, *	RODRÍGUEZ	NA	RODR	NA	2
-ZR	Rogers, Zachary Scott	Rogers	Zachary Scott	ZR	NA	NA
-JR	Roilahy, Justin	Roilahy	Justin	JR	changed from RJ	NA
-RGR	Rojas Gonzáles, Rocío del Pilar	Rojas Gonzáles	Rocío del Pilar	RGR	NA	2
-ROJT	Rojas, Teodoro	Rojas	Teodoro	ROJT	NA	2
-RFJ	Roldán, Francisco Javier	Roldán	Francisco Javier	RFJ	NA	2
-ROCR	Romero Castañeda, Rafael	Romero Castañeda	Rafael	ROCR	NA	2
-ROGA	Romero-González, Gustavo Adolfo	Romero-González	Gustavo Adolfo	ROGA	NA	2
-RAN	Rosa, Nelson A.	Rosa	Nelson A.	RAN	NA	2
-ROJM	Rosales, José Manuel	Rosales	José Manuel	ROJM	NA	2
-ROSJ	Rosales, Judith	Rosales	Judith	ROSJ	NA	2
-RSC	Rosário, Carlos Silva	Rosário	Carlos Silva	RSC	NA	2
-FRV	Rouxeville, F	Rouxeville	F	FRV	NA	1
-RUBH	Rubio, Hiram	Rubio	Hiram	RUBH	NA	2
-RLA	Rudas Lleras, Agustin	Rudas Lleras	Agustin	RLA	NA	2
-RRM	Rueda, Ricardo M.	Rueda	Ricardo M.	RRM	NA	2
-RZ	Rulangaranga, Z. K.	Rulangaranga	Z. K.	RZ	NA	2
-RHH	Rusby, Henry Hurd	Rusby	Henry Hurd	RHH	NA	2
-RPK	Rwaburindore, Protase Kasenene	Rwaburindore	Protase Kasenene	RPK	NA	2
-RZEJ	Rzedowski, Jerzy	Rzedowski	Jerzy	RZEJ	NA	2
-SCH	S.C., Hiremath,	Hiremath	S. C.	SCH	NA	4
-SP	Saboureau, P.	Saboureau	P.	SP	NA	2
-SACM	Sachs Museum	Sachs Museum	NA	SACM	NA	2
-SMN	Sainge, Moses Nsanyi	Sainge	Moses Nsanyi	SMN	NA	2
-SN	SAJY, *	SAJY	NA	SN	NA	2
-SCJ	Saldanha, Cecil John	Saldanha	Cecil John	SCJ	NA	1
-SPM	Saldias Paz, Mario	Saldias Paz	Mario	SPM	NA	2
-SALJ	Salick, Jan	Salick	Jan	SALJ	NA	2
-SA	Sallu, Albert Ntemi	Sallu	Albert Ntemi	SA	NA	2
-SALP	Salzmann, Philipp	Salzmann	Philipp	SALP	NA	2
-SL	Sánchez Acebo, Lupita	Sánchez Acebo	Lupita	SL	NA	2
-SDA	Sánchez S., Darío A.	Sánchez S.	Darío A.	SDA	NA	2
-SANM	Sánchez, M.	Sánchez	M.	SANM	NA	2
-SAC	Sanders, Andrew C.	Sanders	Andrew C.	SAC	NA	2
-SJC	Sandino, Juan Carlos	Sandino	Juan Carlos	SJC	NA	2
-SEA	Sandoval, Eliberto A.	Sandoval	Eliberto A.	SEA	NA	2
-SAN	Sandratriniaina, Andrianasolo Ninah	Sandratriniaina	Andrianasolo Ninah	SAN	NA	NA
-SAN	Sandratriniaina, Ninah	Sandratriniaina	Andrianasolo Ninah	SAN	NA	4
-SGM	Sangu, G. M.	Sangu	G. M.	SGM	NA	2
-SPT	Sano, Paulo Takeo	Sano	Paulo Takeo	SPT	NA	2
-SE	Sanoja, Elio	Sanoja	Elio	SE	NA	2
-SSC	Sant'Ana, Sérgio Cardoso de	Sant'Ana	Sérgio Cardoso de	SSC	NA	2
-SGD	Santos, G. dos	Santos	G. dos	SGD	NA	2
-SRR	Santos, R. Reis dos	Santos	R. Reis dos	SRR	NA	2
-SFH	Sargent, Francis Hahn	Sargent	Francis Hahn	SFH	NA	2
-SRP	Sauleda, Ruben Primitivo	Sauleda	Ruben Primitivo	SRP	NA	2
-SJG	Saunders, Janice G.	Saunders	Janice G.	SJG	NA	2
-HS	Sauquet, Hervé	Sauquet	Hervé	HS	NA	NA
-MS	Scharmann, Mathias	Scharmann	Mathias	MS	NA	NA
-GES	Schatz, George	Schatz	George Edward	GES	NA	NA
-GES	Schatz, George E.	Schatz	George Edward	GES	NA	NA
-GES	Schatz, George Edward	Schatz	George Edward	GES	NA	NA
-SWP	Schimper, Wilhelm Philipp	Schimper	Wilhelm Philipp	SWP	NA	2
-SCA	Schinini Cacace, Aurelio	Schinini Cacace	Aurelio	SCA	NA	2
-SWA	Schipp, William Augustus	Schipp	William Augustus	SWA	NA	2
-SHE	Schlieben, Hans-Joachim Eberhard	Schlieben	Hans-Joachim Eberhard	SHE	NA	2
-SRJ	Schmalzel, Robert J.	Schmalzel	Robert J.	SRJ	NA	2
-SHH	Schmidt, Heidi Helga	Schmidt	Heidi Helga	SHH	NA	2
-SR	Schnell, Raymond Albert Alfred	Schnell	Raymond Albert Alfred	SR	NA	2
-SBD	Schrire, Brian David	Schrire	Brian David	SBD	NA	1
-SGP	Schultz, G. P.	Schultz	G. P.	SGP	NA	2
-SVJ	Schunke Vigo, José	Schunke Vigo	José	SVJ	NA	2
-SGF	Scott Elliot, George Francis	Scott Elliot	George Francis	SGF	NA	1
-SEIR	Seidel, Renate	Seidel	Renate	SEIR	NA	2
-SDS	Seigler, David Standley	Seigler	David Standley	SDS	NA	1
-SELF	Sellow, Friedrich	Sellow	Friedrich	SELF	NA	2
-SERA	Sermeño, A.	Sermeño	A.	SERA	NA	2
-SF	Service forestier [collection series]	Service Forestier Madagascar	Service Forestier Madagascar	SF	NA	NA
-SF	Service Forestier de Madagascar	Service Forestier Madagascar	Service Forestier Madagascar	SF	NA	NA
-SF	Service Forestier de Madagascar (Capuron)	Service Forestier Madagascar (Capuron)	Service Forestier Madagascar (Capuron)	SF	NA	1
-SF	Service Forestier Madagascar	Service Forestier Madagascar	Service Forestier Madagascar	SF	NA	NA
-SF	Service Forestier Madagascar (Capuron)	Service Forestier Madagascar (Capuron)	Service Forestier Madagascar (Capuron)	SF	NA	NA
-SF	Service Forestier Madagascar (Kiener)	Service Forestier Madagascar (Kiener)	Service Forestier Madagascar (Kiener)	SF	NA	4
-SF	SERVICE FORESTIER, *	Service Forestier Madagascar	Service Forestier Madagascar	SF	NA	NA
-SF	Service Forestier, Kiener	Service Forestier Madagascar (Kiener)	Service Forestier Madagascar (Kiener)	SF	NA	1
-SEL	Sette Silva, Edeleusa L.	Sette Silva	Edeleusa L.	SEL	NA	2
-SEWB	Sewall, Brent	Sewall	Brent	SEWB	NA	2
-SFC	Seymour, Frank Conkling	Seymour	Frank Conkling	SFC	NA	2
-AS	Seyrig, André	Seyrig	André	AS	NA	1
-SJA	Shafer, John Adolph	Shafer	John Adolph	SJA	NA	2
-SWC	Shannon, William Cummings	Shannon	William Cummings	SWC	NA	2
-SOE	Shattuck, Otis E.	Shattuck	Otis E.	SOE	NA	2
-SPG	SHCP, general project collector	SHCP	general project collector	SPG	NA	2
-SFW	Sieber, Franz(e) Wilhelm	Sieber	Franz(e) Wilhelm	SFW	NA	2
-SIEA	Sieder, Anton	Sieder	Anton	SIEA	NA	2
-SNGF	Silo National des Graines Forestières	Silo National des Graines Forestières	Silo National des Graines Forestières	SNGF	NA	NA
-SILV	Silva, *	Silva	NA	SILV	NA	2
-SAS	Silva, A. S.	Silva	A. S.	SAS	NA	2
-SAJ	Silva, J. A.	Silva	J. A.	SAJ	NA	2
-SJM	Silva, J. M.	Silva	J. M.	SJM	NA	2
-SMF	Silva, Manoela F. F. da	Silva	Manoela F. F. da	SMF	NA	2
-SNT	Silva, Nilo T.	Silva	Nilo T.	SNT	NA	2
-SOD	Silveira Mello, Octavio da	Silveira Mello	Octavio da	SOD	NA	2
-SIMP	Simá, Paulino	Simá	Paulino	SIMP	NA	2
-SIMB	Simmen, B.	Simmen	B.	SIMB	NA	2
-SMA	Sinaca Colín, Miguel Angel	Sinaca Colín	Miguel Angel	SMA	NA	2
-SPE	Sintenis, Paul Ernst Emil	Sintenis	Paul Ernst Emil	SPE	NA	2
-CKS	Skema, Cindy	Skema	Cindy	CKS	NA	NA
-SFA	Skutch, Alexander Frank	Skutch	Alexander Frank	SFA	NA	2
-SMAC	Smith, Albert Charles	Smith	Albert Charles	SMAC	NA	2
-SDN	Smith, David Nelson	Smith	David Nelson	SDN	NA	2
-SMHH	Smith, Herbert Huntingdon	Smith	Herbert Huntingdon	SMHH	NA	2
-SLB	Smith, Lyman Bradford	Smith	Lyman Bradford	SLB	NA	2
-SNGF	SNGF	Silo National des Graines Forestières	Silo National des Graines Forestières	SNGF	NA	NA
-SJD	Snowden, Joseph Davenport	Snowden	Joseph Davenport	SJD	NA	1
-SS	Soah, Shabani	Soah	Shabani	SS	NA	2
-SOAN	SOANARY, *	SOANARY	NA	SOAN	NA	2
-SGL	Sobel, Gail L.	Sobel	Gail L.	SGL	NA	2
-SOBR	SOBRINHO, *	SOBRINHO	NA	SOBR	NA	2
-SCE	Solano Camacho, Eloy	Solano Camacho	Eloy	SCE	NA	2
-SDF	Solano Peralta, Daniel Francisco	Solano Peralta	Daniel Francisco	SDF	NA	2
-SMJ	Solís Magallanes, J. Arturo	Solís Magallanes	J. Arturo	SMJ	NA	2
-SJ	Solo, Justin	Solo	Justin	SJ	NA	NA
-SOLJ	Solomon, James	Solomon	James	SOLJ	NA	2
-SONB	Sonké, Bonaventure	Sonké	Bonaventure	SONB	NA	2
-SRN	Soria Rey, Nélida	Soria Rey	Nélida	SRN	NA	2
-SNJ	Soto Núñez, José Carmen	Soto Núñez	José Carmen	SNJ	NA	2
-SOTA	Soto, Ademar	Soto	Ademar	SOTA	NA	2
-SSM	Sousa Sánchez, Mario	Sousa Sánchez	Mario	SSM	NA	2
-SVC	Souza, Vinicius Castro	Souza	Vinicius Castro	SVC	NA	2
-SD	Soza, Danilo	Soza	Danilo	SD	NA	2
-SDD	Spellman, David (Dave) Leonard	Spellman	David (Dave) Leonard	SDD	NA	2
-SPRR	Spruce, Richard	Spruce	Richard	SPRR	NA	2
-SPC	Standley, Paul Carpenter	Standley	Paul Carpenter	SPC	NA	2
-SDE	Starry, D. E.	Starry	D. E.	SDE	NA	2
-SGJ	Steinbach G., José	Steinbach G.	José	SGJ	NA	2
-STEB	Stergios, Basil	Stergios	Basil	STEB	NA	2
-TS	Stevart, Tariq	Stevart	Tariq	TS	NA	NA
-STET	Stévart, Tariq	Stévart	Tariq	STET	NA	2
-SWD	Stevens, Warren Douglas	Stevens	Warren Douglas	SWD	NA	1
-SPR	Stevenson Diaz, Pablo Roberto	Stevenson Diaz	Pablo Roberto	SPR	NA	2
-SDW	Stevenson, Dennis William	Stevenson	Dennis William	SDW	NA	2
-SNS	Stevenson, Neil S.	Stevenson	Neil S.	SNS	NA	2
-SCW	Steward, William C.	Steward	William C.	SCW	NA	2
-STJA	Steyermark, Julian Alfred	Steyermark	Julian Alfred	STJA	NA	2
-SRF	Stier, Frances Rhoda	Stier	Frances Rhoda	SRF	NA	2
-STIE	Stijfhoorn, Eirik	Stijfhoorn	Eirik	STIE	NA	2
-SWR	Stimson, William R.	Stimson	William R.	SWR	NA	2
-SED	Stone, Donald Eugene	Stone	Donald Eugene	SED	NA	2
-SJR	Stone, John Richard	Stone	John Richard	SJR	NA	2
-SJS	Strijk, J. S.	Strijk	J. S.	SJS	NA	2
-SLC	Stutz de Ortega, Lilian C.	Stutz de Ortega	Lilian C.	SLC	NA	2
-SME	Suclli Montañés, Efraín	Suclli Montañés	Efraín	SME	NA	2
-SDB	SUCRE, *	SUCRE	NA	SDB	NA	2
-SDB	Sucre, Benjamin Dimitri	Sucre	Benjamin Dimitri	SDB	NA	2
-SGA	Sullivan, Gene A.	Sullivan	Gene A.	SGA	NA	2
-LS	Sussman, Linda	Sussman	Linda	LS	NA	1
-JS	Sutherland, John	Sutherland	John	JS	NA	1
-SPW	Sweeney, Patrick W.	Sweeney	Patrick W.	SPW	NA	2
-US	Swenson, Ulf	Swenson	Ulf	US	NA	1
-SRA	Syde, Anthony Rémi	Syde	Rémi Anthony	SRA	NA	NA
-SRA	Syde, Rémi Anthony	Syde	Rémi Anthony	SRA	NA	NA
-TMZ	Tahina, Nomenjanahary Zo	Tahina	Nomenjanahary Zo	TMZ	NA	1
-TAJ	Tahinarivony, A. J.	Tahinarivony	Andonahary Jacquis	TAJ	NA	1
-TAJ	Tahinarivony, Andonahary Jacquis	Tahinarivony	Andonahary Jacquis	TAJ	NA	NA
-TDD	Tahirinirainy, Dinasoa Donné	Tahirinirainy	Dinasoa Donné	TDD	NA	NA
-TF	Tamayo, Francisco	Tamayo	Francisco	TF	NA	2
-TN	TANNER, *	TANNER	NA	TN	NA	2
-TJL	Tapia Muñoz, José Luis	Tapia Muñoz	José Luis	TJL	NA	2
-TCM	Taylor, Charlotte M.	Taylor	Charlotte M.	TCM	NA	1
-TLO	Teixeira, Luíz O. Adão	Teixeira	Luíz O. Adão	TLO	NA	2
-TELE	TELES, *	TELES	NA	TELE	NA	2
-TO	Téllez Valdés, Oswaldo	Téllez Valdés	Oswaldo	TO	NA	2
-TP	Tenorio L., Pedro	Tenorio L.	Pedro	TP	NA	2
-TJW	Terborgh, John Whittle	Terborgh	John Whittle	TJW	NA	2
-TG	Tessmann, Günther	Tessmann	Günther	TG	NA	2
-TEXN	Texier, Nicolas	Texier	Nicolas	TEXN	NA	2
-HTT	Thi Tran, Hoa	Thi Tran	Hoa	HTT	NA	NA
-HTT	Thi, Hoa	Thi Tran	Hoa	HTT	NA	4
-THOM	Thomas, *	Thomas	NA	THOM	NA	2
-TDW	Thomas, Duncan W.	Thomas	Duncan W.	TDW	NA	2
-TWW	Thomas, William Wayt	Thomas	William Wayt	TWW	NA	2
-TLA	Thouars, Louis-Marie Aubert du Petit-	Thouars	Louis-Marie Aubert du Petit-	TLA	NA	1
-ET	Thouvenot, E.	Thouvenot	E.	ET	NA	1
-MT	Thulin, Mats Ingmar	Thulin	Mats Ingmar	MT	NA	1
-TME	Timaná, Martín E.	Timaná	Martín E.	TME	NA	2
-TINH	Tinguy, Hugues	Tinguy	Hugues	TINH	NA	2
-TM	Toledo G., Marisol	Toledo G.	Marisol	TM	NA	2
-TOLE	Toledo, *	Toledo	NA	TOLE	NA	2
-JJW	Tombonirina, Jean Jacques Wira	Tombonirina	Jean Jacques Wira	JJW	NA	NA
-JJW	Tombonirina, Wira Jean Jacques	Tombonirina	Jean Jacques Wira	JJW	NA	1
-TAS	Ton, Alush Shilom	Ton	Alush Shilom	TAS	NA	2
-TJF	Tonduz, Jean François Adolphe (Adolfo)	Tonduz	Jean François Adolphe (Adolfo)	TJF	NA	2
-TR	Torres Colín, Rafael	Torres Colín	Rafael	TR	NA	2
-TVW	Torrez Flores, Vania Wendy	Torrez Flores	Vania Wendy	TVW	NA	2
-TJ	Tosh, James	Tosh	James	TJ	NA	2
-STB	Totozafy Be, S.	Totozafy Be	S.	STB	NA	1
-TL	Toussaint, L.	Toussaint	L.	TL	NA	2
-TAK	Townesmith, Andrew Keith	Townesmith	Andrew Keith	TAK	NA	2
-TRAM	Transect, MBG	Transect	MBG	TRAM	NA	2
-TRAG	Transects, Guinée	Transects	Guinée	TRAG	NA	2
-TA	Trevaskis, Alexander	Trevaskis	Alexander	TA	NA	2
-TSM	Trigui, Sonia M.	Trigui	Sonia M.	TSM	NA	2
-TR0L	Tróchez, Lizzette	Tróchez	Lizzette	TR0L	NA	2
-TB	Trujillo Figueroa, Baltasar	Trujillo Figueroa	Baltasar	TB	NA	2
-TSS	Tsarasoa, Sitrakiniaina Sandy	Tsarasoa	Sitrakiniaina Sandy	TSS	NA	NA
-TMC	Tschá, M. C.	Tschá	M. C.	TMC	NA	1
-TSUS	Tsugaru, Shunsuke	Tsugaru	Shunsuke	TSUS	NA	2
-DT	Turk, Dan	Turk	Dan	DT	NA	1
-TEL	Tyson, Edwin L.	Tyson	Edwin L.	TEL	NA	2
-UNKN	Unknown	Unknown	Unknown	UNKN	NA	1
-ULE	Urrego Giraldo, Ligia Estela	Urrego Giraldo	Ligia Estela	ULE	NA	2
-UE	Ursch, Eugène	Ursch	Eugène	UE	NA	1
-MU	Ursch, M	Ursch	M	MU	NA	1
-VL	Valenzuela Gamarra, Luis	Valenzuela Gamarra	Luis	VL	NA	2
-VTR	van Andel, Tinde R.	van Andel	Tinde R.	VTR	NA	2
-VHH	van der Werff, Hendrik (Henk) Hessel	van der Werff	Hendrik (Henk) Hessel	VHH	NA	2
-VRO	Vanni, Ricardo Oscar	Vanni	Ricardo Oscar	VRO	NA	2
-VEG	Varela Cordero, Eduard Gerardo	Varela Cordero	Eduard Gerardo	VEG	NA	2
-VIG	Vargas Caballero, Israel G.	Vargas Caballero	Israel G.	VIG	NA	2
-VJH	Vargas López, José Homero	Vargas López	José Homero	VJH	NA	2
-VE	Vargas N., Ernesto	Vargas N.	Ernesto	VE	NA	2
-VRL	Vargas Ramírez, Lourdes	Vargas Ramírez	Lourdes	VRL	NA	2
-VOR	Vargas Ramírez, Orlando Ricardo de los Ángeles	Vargas Ramírez	Orlando Ricardo de los Ángeles	VOR	NA	2
-VLD	Vargas Salazar, Luis Diego	Vargas Salazar	Luis Diego	VLD	NA	2
-LV	Vary, Laura	Vary	Laura	LV	NA	NA
-NV	Vasey, N.	Vasey	N.	NV	NA	1
-VR	Vásquez Martínez, Rodolfo	Vásquez Martínez	Rodolfo	VR	NA	2
-VM	Vatanparast, Mohammad	Vatanparast	Mohammad	VM	NA	2
-VN	VAZ, *	VAZ	NA	VN	NA	2
-VK	Velasco Gutiérrez, Kenia	Velasco Gutiérrez	Kenia	VK	NA	2
-VI	Velázquez, Ileana	Velázquez	Ileana	VI	NA	2
-VJG	Vélez Arango, Juan Gonzalo	Vélez Arango	Juan Gonzalo	VJG	NA	2
-VF	Ventura A., Francisco	Ventura A.	Francisco	VF	NA	2
-VVE	Ventura V., E.	Ventura V.	E.	VVE	NA	2
-SV	Verlynde, Simon	Verlynde	Simon	SV	NA	NA
-VJ	Vesco, J.	Vesco	J.	VJ	NA	2
-VA	Vicentini, Alberto	Vicentini	Alberto	VA	NA	2
-V	VICTORIO, *	VICTORIO	NA	V	NA	2
-VG	Vieira, G.	Vieira	G.	VG	NA	2
-VIGR	Viguier, René	Viguier	René	VIGR	NA	2
-VMR	Villacorta M., Raul	Villacorta M.	Raul	VMR	NA	2
-VILA	Villamil, A.	Villamil	A.	VILA	NA	2
-VHR	Villegas Huanca, Richard	Villegas Huanca	Richard	VHR	NA	2
-VJF	Villiers, Jean François	Villiers	Jean François	VJF	NA	1
-VPC	Vincelli, Paul C.	Vincelli	Paul C.	VPC	NA	2
-VAH	von Wedel, Alwyn Hasso (Harry)	von Wedel	Alwyn Hasso (Harry)	VAH	NA	2
-WJ	Wagemans, J.	Wagemans	J.	WJ	NA	2
-WALB	Wallnöfer, Bruno	Wallnöfer	Bruno	WALB	NA	2
-WGM	Walters, Gretchen Marie	Walters	Gretchen Marie	WGM	NA	1
-WYM	Wang, Yang-Ming	Wang	Yang-Ming	WYM	NA	4
-WY	Wang, Ying-ming	Wang	Ying-ming	WY	NA	2
-WRA	Wasum, Ronaldo Adelfo	Wasum	Ronaldo Adelfo	WRA	NA	2
-WEG	Waterlot, E. Georges	Waterlot	E. Georges	WEG	NA	1
-WGL	Webster, Grady Linder	Webster	Grady Linder	WGL	NA	2
-WEN	Wen	Wen	NA	WEN	NA	2
-WTT	Wendt, Thomas (Tom) Leighton	Wendt	Thomas (Tom) Leighton	WTT	NA	2
-AFW	Westerhaus, Andoni F.	Westerhaus	Andoni F.	AFW	NA	NA
-WLJ	White, Lee J. T.	White	Lee J. T.	WLJ	NA	2
-WC	Whitefoord, Caroline	Whitefoord	Caroline	WC	NA	2
-WRG	Wieland, Ronald G.	Wieland	Ronald G.	WRG	NA	2
-WJJ	Wieringa, Jan Johannes	Wieringa	Jan Johannes	WJJ	NA	2
-WW	Wilbert, Werner	Wilbert	Werner	WW	NA	2
-WRL	Wilbur, Robert Lynch	Wilbur	Robert Lynch	WRL	NA	2
-NW	Wilding, Nicholas	Wilding	Nicholas	NW	NA	NA
-WJR	Wiley, J. R.	Wiley	J. R.	WJR	NA	2
-WILC	Wilks, Chris	Wilks	Chris	WILC	NA	2
-WLO	Williams, Louis Otho (Otto)	Williams	Louis Otho (Otto)	WLO	NA	2
-WRO	Williams, Robert Orchard	Williams	Robert Orchard	WRO	NA	2
-WCL	Wilson, Charles L.	Wilson	Charles L.	WCL	NA	2
-SW	Wohlhauser, Sébastien	Wohlhauser	Sébastien	SW	NA	NA
-WRJ	Wood, John Richard Ironside	Wood	John Richard Ironside	WRJ	NA	2
-WRH	Woodworth, Robert Hugo	Woodworth	Robert Hugo	WRH	NA	2
-WRD	Worthington, Richard Dane	Worthington	Richard Dane	WRD	NA	2
-WF	Woytkowski, Felix	Woytkowski	Felix	WF	NA	2
-WCC	Wright, Charles (Carlos)	Wright	Charles (Carlos)	WCC	NA	2
-WSK	Wu, Su Kung	Wu	Su Kung	WSK	NA	2
-WRP	Wunderlin, Richard P.	Wunderlin	Richard P.	WRP	NA	2
-WUJJ	Wurdack, John Julius	Wurdack	John Julius	WUJJ	NA	2
-YM	Yánez, Manuel	Yánez	Manuel	YM	NA	2
-YKR	Young, Kenneth R.	Young	Kenneth R.	YKR	NA	2
-YTG	Yuncker, Truman George	Yuncker	Truman George	YTG	NA	2
-ZV	Zak, Vlastimil	Zak	Vlastimil	ZV	NA	2
-ZNA	Zamora Villalobos, Nelson Antonio	Zamora Villalobos	Nelson Antonio	ZNA	NA	2
-ZS	Zamudio Ruíz, Sergio	Zamudio Ruíz	Sergio	ZS	NA	2
-ZTA	Zanoni, Thomas A.	Zanoni	Thomas A.	ZTA	NA	2
-ZEM	Zardini, Elsa Matilde	Zardini	Elsa Matilde	ZEM	NA	2
-ZAR	Zarucchi, James Lee	Zarucchi	James Lee	ZAR	NA	1
-ZL	Zelaya, Lorena	Zelaya	Lorena	ZL	NA	2
-Z	Zent, Stanford	Zent	Stanford	Z	NA	2
-ZN	ZICKEL, *	ZICKEL	NA	ZN	NA	2
-ZNB	Zimba, Noah B.	Zimba	Noah B.	ZNB	NA	2
-ZML	Zjhra, Michelle	Zjhra	Michelle L.	ZML	NA	NA
-ZML	Zjhra, Michelle L.	Zjhra	Michelle L.	ZML	NA	1
-ZHZOO	Zoo, Zurich	Zoo	Zurich	ZHZOO	NA	NA
-ZJ	Zuleta, Jorge	Zuleta	Jorge	ZJ	NA	2
-ZFO	Zuloaga, Fernando Omar	Zuloaga	Fernando Omar	ZFO	NA	2
-ZRA	Zúñiga Villegas, Rodolfo Antonio	Zúñiga Villegas	Rodolfo Antonio	ZRA	NA	2
+Code	SeniorCollector	SeniorCollector_nom	SeniorCollector_prenom	Code2	Comment
+A	Acevedo-Rodríguez, Pedro	Acevedo-Rodríguez	Pedro	A	NA
+AA	Adalardo de Oliveira, Alexandre	Adalardo de Oliveira	Alexandre	AA	NA
+AAB	Alvarez, Aída B.	Alvarez	Aída B.	AAB	NA
+AAC	Alleizette, Aymar Charles d'	Alleizette	Aymar Charles d'	AAC	NA
+AAF	Andriamanantena, Flavien Antonio	Andriamanantena	Flavien Antonio	AAF	NA
+AAL	Aké Assi, Laurent	Aké Assi	Laurent	AAL	NA
+AAM	Araujo Murakami, Alejandro	Araujo Murakami	Alejandro	AAM	NA
+AAMA	Amorim, *	Amorim	André Márcio A.	AAMA	NA
+AAMA	Amorim, André Márcio A.	Amorim	André Márcio A.	AAMA	NA
+AAP	Antezana Diaz, Ana Patricia	Antezana Diaz	Ana Patricia	AAP	NA
+AAS	Altamirano Azurduy, Saúl	Altamirano Azurduy	Saúl	AAS	NA
+AAT	Abbott, A. T. D.	Abbott	A. T. D.	AAT	NA
+AB	Andrianaivoravelona, B.	Andrianaivoravelona	B.	AB	NA
+ABW	Albuquerque, Byron Wilson Pereira de	Albuquerque	Byron Wilson Pereira de	ABW	NA
+AC	Allen, Cyril	Allen	Cyril	AC	NA
+ACD	Adams, Charles Dennis	Adams	Charles Dennis	ACD	NA
+ACJ	Aronson, James C.	Aronson	James C.	ACJ	NA
+AD	Andriamiharimanana, Donatien	Andriamiharimanana	Donatien	AD	NA
+ADE	Atha, Daniel E.	Atha	Daniel E.	ADE	NA
+ADF	Austin, Daniel Frank	Austin	Daniel Frank	ADF	NA
+ADS	Araujo, Dorothy Sue Dunn de	Araujo	Dorothy Sue Dunn de	ADS	NA
+AE	Asplund, Erik	Asplund	Erik	AE	NA
+AF	Andriatsiferana, Félix	Andriatsiferana	Félix	AF	NA
+AFF	Axelrod, Franklin (Frank) S.	Axelrod	Franklin (Frank) S.	AFF	NA
+AFJ	Adamainty, Jean-Florent	Adamainty	Jean-Florent	AFJ	NA
+AFM	Amsini, Fidèle M.	Amsini	Fidèle M.	AFM	NA
+AFW	Westerhaus, Andoni F.	Westerhaus	Andoni F.	AFW	NA
+AG	Grandidier, Alfred	Grandidier	Alfred	AG	NA
+AGA	Aymard Corredor, Gerardo Antonio	Aymard Corredor	Gerardo Antonio	AGA	NA
+AGUA	Aguayo, Antonio	Aguayo	Antonio	AGUA	NA
+AH	Hladik, Annette	Hladik	Annette	AH	NA
+AJC	Arias G., Juan Carlos	Arias G.	Juan Carlos	AJC	NA
+AJL	Andriantiana, Jacky	Andriantiana	Jacky Lucien	AJL	NA
+AJL	Andriantiana, Jacky Lucien	Andriantiana	Jacky Lucien	AJL	NA
+AJP	Abraham, Jean Prosper	Abraham	Jean Prosper	AJP	NA
+AJR	Abbott, John Richard	Abbott	John Richard	AJR	NA
+AJT	Arnason, John Thor	Arnason	John Thor	AJT	NA
+AK	Abdul-Salim, Kobinah	Abdul-Salim	Kobinah	AK	NA
+AKR	Afzelius, Karl Rudolf	Afzelius	Karl Rudolf	AKR	NA
+AL	Alencar, Lúcia	Alencar	Lúcia	AL	NA
+ALA	Ambalabe, Shade House	Ambalabe	Shade House	ALA	NA
+ALBO	Andriamaharoa, Hubert	Andriamaharoa	Hubert	ALBO	NA
+ALC	Arroyo Padilla, Luzmila (Chiqui)	Arroyo Padilla	Luzmila (Chiqui)	ALC	NA
+ALD	Andriamahefarivo, Lalao	Andriamahefarivo	Lalao	ALD	NA
+ALG	Acosta Vargas, Luis Guillermo	Acosta Vargas	Luis Guillermo	ALG	NA
+ALH	Lehavana, Adolphe	Lehavana	Adolphe	ALH	NA
+ALJ	Asunción Leveau, José	Asunción Leveau	José	ALJ	NA
+ALR	Andriamiarisoa, Lala Roger	Andriamiarisoa	Lala Roger	ALR	NA
+ALV	Averyanov, Leonid Vladimirovich	Averyanov	Leonid Vladimirovich	ALV	NA
+AM	Andrianarisata, Michèle	Andrianarisata	Michèle	AM	NA
+AMA	Atalahy, Anselme	Atalahy	Anselme Marcel	AMA	NA
+AMA	Atalahy, Anselme Marcel	Atalahy	Anselme Marcel	AMA	NA
+AMB	Ambatovy, Shade House	Ambatovy	Shade House	AMB	NA
+AMD	Álvarez M., Demetrio	Álvarez M.	Demetrio	AMD	NA
+AME	Aulestia, Milton (Eduardo)	Aulestia	Milton (Eduardo)	AME	NA
+AMG	Águilar M., Gabriel	Águilar M.	Gabriel	AMG	NA
+AMI	Alvarado Flores, Miriam Icela	Alvarado Flores	Miriam Icela	AMI	NA
+AMM	Andriamahay, M.	Andriamahay	M.	AMM	NA
+AMR	Ramahefaharivelo, Ando Malala	Ramahefaharivelo	Ando Malala	AMR	NA
+AMY	Ammann, Morgane Y.	Ammann	Morgane Y.	AMY	NA
+ANAR	Randriamanantena, A.	Randriamanantena	A.	ANAR	NA
+ANM	Andrianjafy, Naina Mamisoa	Andrianjafy	Naina Mamisoa	ANM	NA
+ANS	Andriamiadana, Stéphano	Andriamiadana	Stéphano	ANS	NA
+ANT	Antananarivo, Shade House	Antananarivo	Shade House	ANT	NA
+AP	Antilahimena, Patrice	Antilahimena	Patrice	AP	NA
+APH	Allen, Paul Hamilton	Allen	Paul Hamilton	APH	NA
+AR	Razafintsalama, Annick	Razafintsalama	Annick	AR	NA
+ARA	Aguilar Fernández, Reinaldo Alexis de Jesús	Aguilar Fernández	Reinaldo Alexis de Jesús	ARA	NA
+ARD	Abdallah, Raphael D.	Abdallah	Raphael D.	ARD	NA
+ARF	Andriamparany, Rivolala Fanomezantsoa	Andriamparany	Rivolala Fanomezantsoa	ARF	NA
+ARH	Archer, Robert H.	Archer	Robert H.	ARH	NA
+ARM	Aguilar R., M.	Aguilar R.	M.	ARM	NA
+ARMM	Arbo, María Mercedes	Arbo	María Mercedes	ARMM	NA
+ARVR	Arvigo, Rosita	Arvigo	Rosita	ARVR	NA
+AS	Seyrig, André	Seyrig	André	AS	NA
+ASH	Andriantsalohimisantatra, Andon'ny Avo Hermin Euléandrah	Andriantsalohimisantatra	Andon'ny Avo Hermin Euléandrah	ASH	NA
+ASR	Andriambololonera, Sylvie	Andriambololonera	Sylvie Renée	ASR	NA
+ASR	Andriambololonera, Sylvie Renée	Andriambololonera	Sylvie Renée	ASR	NA
+AT	Abbott, Tony	Abbott	Tony	AT	NA
+ATG	Arellano Torres, Gabriel	Arellano Torres	Gabriel	ATG	NA
+ATH	Andriamihajarivo, Tefy Harison	Andriamihajarivo	Tefy Harison	ATH	NA
+ATIL	ATILAHIMENA, *	ATILAHIMENA	NA	ATIL	NA
+ATJ	Andonahary, Tahinarivony Jacquis	Andonahary	Tahinarivony Jacquis	ATJ	NA
+ATJ	Tahinarivony, Andonahary Jacquis	Andonahary	Tahinarivony Jacquis	ATJ	NA
+ATM	Antonio, Thomas M.	Antonio	Thomas M.	ATM	NA
+ATR	Rabefarihy, Andriantsoa Tahiry	Rabefarihy	Andriantsoa Tahiry	ATR	NA
+ATR	Rabefarihy, Tahiry A.	Rabefarihy	Andriantsoa Tahiry	ATR	NA
+AW	Anderson, W.	Anderson	W.	AW	NA
+AWB	Anderson, William (Bill) Russell	Anderson	William (Bill) Russell	AWB	NA
+AWL	Applequist, Wendy	Applequist	Wendy Linn	AWL	NA
+AWL	Applequist, Wendy Linn	Applequist	Wendy Linn	AWL	NA
+AX	Aubriot, Xavier	Aubriot	Xavier	AX	NA
+AYFF	Ayala Flores, Franklin	Ayala Flores	Franklin	AYFF	NA
+AYMA	AYMARD, *	AYMARD	NA	AYMA	NA
+AYS	Abeid, Yahya Shaaban	Abeid	Yahya Shaaban	AYS	NA
+B	Bellefroid, Elke	Bellefroid	Elke	B	NA
+BA	Boupoya, Archange	Boupoya	Archange	BA	NA
+BAC	Bernier, Alphonse Charles Joseph	Bernier	Alphonse Charles Joseph	BAC	NA
+BAD	Bell, Deborah A.	Bell	Deborah A.	BAD	NA
+BAF	Bradley, Adam F.	Bradley	Adam F.	BAF	NA
+BAL	Bernardi, Alessandro Luciano	Bernardi	Alessandro Luciano	BAL	NA
+BAM	Brenes Mora, Alberto Manuel	Brenes Mora	Alberto Manuel	BAM	NA
+BANM	Bang, Miguel	Bang	Miguel	BANM	NA
+BBL	Boyle, Bradley Lorne	Boyle	Bradley Lorne	BBL	NA
+BBM	Boom, Brian Morey	Boom	Brian Morey	BBM	NA
+BC	Bodner, Connie Cox	Bodner	Connie Cox	BC	NA
+BCA	Blanco, Carlos A.	Blanco	Carlos A.	BCA	NA
+BCC	Baker, Charles (Carl) Fuller	Baker	Charles (Carl) Fuller	BCC	NA
+BCK	Berg, Cornelis (Kees) Christiaan	Berg	Cornelis (Kees) Christiaan	BCK	NA
+BCL	Bertero, Carlo Luigi Giuseppe	Bertero	Carlo Luigi Giuseppe	BCL	NA
+BDE	Breedlove, Dennis E.	Breedlove	Dennis E.	BDE	NA
+BDG	Burch, Derek George	Burch	Derek George	BDG	NA
+BDR	Brunner, David Russell	Brunner	David Russell	BDR	NA
+BE	Bello Carranza, Eric	Bello Carranza	Eric	BE	NA
+BEAP	Beaujard, Philippe	Beaujard	Philippe	BEAP	NA
+BEN	Rakotonirina, Benja	Rakotonirina	Benja	BEN	NA
+BF	Biganzoli, Fernando	Biganzoli	Fernando	BF	NA
+BFD	Barlow, F. D.	Barlow	F. D.	BFD	NA
+BFF	Breteler, Franciscus ("Frans") Jozef (Joseph)	Breteler	Franciscus ("Frans") Jozef (Joseph)	BFF	NA
+BFJ	Badré, Frederic Jean	Badré	Frederic Jean	BFJ	NA
+BFL	Rakotozafy, B. F. L.	Rakotozafy	Brice Funk Lee	BFL	NA
+BFL	Rakotozafy, Brice Funk Lee	Rakotozafy	Brice Funk Lee	BFL	NA
+BG	Bacab W., Gilberto	Bacab W.	Gilberto	BG	NA
+BGL	Bates, George L.	Bates	George L.	BGL	NA
+BGS	Bidgood, Gillian Sally	Bidgood	Gillian Sally	BGS	NA
+BGW	Barclay, George W.	Barclay	George W.	BGW	NA
+BH	Balslev, Henrik	Balslev	Henrik	BH	NA
+BHE	Box, Harold Edmund	Box	Harold Edmund	BHE	NA
+BHL	Bemita, Harson Landry	Bemita	Landry Harison	BHL	NA
+BHL	Bemita, Landry Harison	Bemita	Landry Harison	BHL	NA
+BHV	Behevitra, Laurent	Behevitra	Laurent	BHV	NA
+BI	Basualdo, Isabel	Basualdo	Isabel	BI	NA
+BILF	Billiet, Frieda	Billiet	Frieda	BILF	NA
+BJ	Berhaut, Jean	Berhaut	Jean	BJ	NA
+BJC	Bradford, Jason C.	Bradford	Jason Christopher	BJC	NA
+BJC	Bradford, Jason Christopher	Bradford	Jason Christopher	BJC	NA
+BJD	Bruijn, J. de	Bruijn	J. de	BJD	NA
+BJL	Brown, John L.	Brown	John L.	BJL	NA
+BJM	Bosser, Jean Marie	Bosser	Jean Marie	BJM	NA
+BJS	Blanchet, Jacques Samuel	Blanchet	Jacques Samuel	BJS	NA
+BJT	Be, Jullet	Be	Jullet R.	BJT	NA
+BJT	Be, Jullet R.	Be	Jullet R.	BJT	NA
+BK	Koechlin, Bernard	Koechlin	Bernard	BK	NA
+BKA	Barringer, Kerry Alan	Barringer	Kerry Alan	BKA	NA
+BKS	Bawa, Kamaljit Singh	Bawa	Kamaljit Singh	BKS	NA
+BL	Lewis, Beverley	Lewis	Beverley Ann	BL	NA
+BL	Lewis, Beverley Ann	Lewis	Beverley Ann	BL	NA
+BLAL	Blandón, Lenner	Blandón	Lenner	BLAL	NA
+BLC	Barnett, Lisa Ceryle	Barnett	Lisa Ceryle	BLC	NA
+BLH	Boivin, Louis Hyacinthe	Boivin	Louis Hyacinthe	BLH	NA
+BM	Randriambololona, Michel Bien-Aimé	Randriambololona	Michel Bien-Aimé	BM	NA
+BMC	Beza Mahafaly Collection Team	Beza Mahafaly Collection Team	NA	BMC	NA
+BMG	Bingham, Michael Graham	Bingham	Michael Graham	BMG	NA
+BMJ	Balick, Michael Jeffrey	Balick	Michael Jeffrey	BMJ	NA
+BN	BAHIA, *	BAHIA	NA	BN	NA
+BNL	Britton, Nathaniel Lord	Britton	Nathaniel Lord	BNL	NA
+BNV	Brokaw, Nick V. L.	Brokaw	Nick V. L.	BNV	NA
+BOB	Berlin, Overton Brent	Berlin	Overton Brent	BOB	NA
+BONJ	Bono, José	Bono	José	BONJ	NA
+BP	Barberá, Patricia	Barberá	Patricia	BP	NA
+BPC	Busey, Philip C.	Busey	Philip C.	BPC	NA
+BPE	Berry, Paul	Berry	Paul E.	BPE	NA
+BPE	Berry, Paul E.	Berry	Paul E.	BPE	NA
+BPJ	Barbour, Philip J.	Barbour	Philip J.	BPJ	NA
+BPR	Bally, Peter René Oscar	Bally	Peter René Oscar	BPR	NA
+BR	Baron, Richard	Baron	Richard	BR	NA
+BRF	Bolliger, Ralph F.	Bolliger	Ralph F.	BRF	NA
+BRJ	Burnham, Robyn Jeanette	Burnham	Robyn Jeanette	BRJ	NA
+BRP	Belém, Romeu P.	Belém	Romeu P.	BRP	NA
+BRR	Brooks, Robert Richard	Brooks	Robert Richard	BRR	NA
+BRW	Bussmann, Rainer	Bussmann	Rainer W.	BRW	NA
+BRW	Bussmann, Rainer W.	Bussmann	Rainer W.	BRW	NA
+BS	Blackmore, Stephen	Blackmore	Stephen	BS	NA
+BSA	Bodine, Sharon Ann	Bodine	Sharon Ann	BSA	NA
+BSF	Bascopé Sarué, Sergio Francisco	Bascopé Sarué	Sergio Francisco	BSF	NA
+BSG	Beck, Stephan G.	Beck	Stephan G.	BSG	NA
+BSJ	Brandbyge, John S.	Brandbyge	John S.	BSJ	NA
+BSW	Brewer, Steven W.	Brewer	Steven W.	BSW	NA
+BTJ	Baldwin, John Thomas	Baldwin	John Thomas	BTJ	NA
+BTZ	Bangun, Tjut Zul Fatisa	Bangun	Tjut Zul Fatisa	BTZ	NA
+BUCM	Buckner, Margaret	Buckner	Margaret	BUCM	NA
+BVM	Bardot-Vaucoulon, Martine	Bardot-Vaucoulon	Martine	BVM	NA
+BWC	Busse, Walter Carl Otto	Busse	Walter Carl Otto	BWC	NA
+BWE	Broadway, Walter Elias	Broadway	Walter Elias	BWE	NA
+BWL	Balée, W. L.	Balée	W. L.	BWL	NA
+BZ	Burivalova, Zuzana	Burivalova	Zuzana	BZ	NA
+CA	Carvalho, *	Carvalho	NA	CA	NA
+CA	Carvalho, André Maurício Vieira de	Carvalho	André Maurício Vieira de	CA	NA
+CAC	Cervi, Armando Carlos	Cervi	Armando Carlos	CAC	NA
+CAD	Choque Ajata, Daniel	Choque Ajata	Daniel	CAD	NA
+CAF	Clewell, Andre Francis	Clewell	Andre Francis	CAF	NA
+CAM	Carvalho, André M. de	Carvalho	André M. de	CAM	NA
+CARR	CARRASQUILLO, *	CARRASQUILLO	NA	CARR	NA
+CASA	Castillo, Andres	Castillo	Andres	CASA	NA
+CAZG	Cazali, Gina	Cazali	Gina	CAZG	NA
+CB	Birkinshaw, Christopher	Birkinshaw	Christopher Robert	CB	NA
+CB	Birkinshaw, Christopher Robert	Birkinshaw	Christopher Robert	CB	NA
+CBS	Castroviejo Bolíbar, Santiago	Castroviejo Bolíbar	Santiago	CBS	NA
+CC	Christian, Claude	Christian	Claude	CC	NA
+CCA	Cid Ferreira, Carlos Alberto	Cid Ferreira	Carlos Alberto	CCA	NA
+CCC	Cano Cano, Carolina del Rosario	Cano Cano	Carolina del Rosario	CCC	NA
+CCE	Cerón Martínez, Carlos Eduardo	Cerón Martínez	Carlos Eduardo	CCE	NA
+CCG	Carballo Carvajal, Gerardo	Carballo Carvajal	Gerardo	CCG	NA
+CCHJ	Jongkind, Carel Christiaan Hugo	Jongkind	Carel Christiaan Hugo	CCHJ	NA
+CCJ	Crane, Cathy J.	Crane	Cathy J.	CCJ	NA
+CCL	Claude, Christian	Claude	Christian	CCL	NA
+CCP	Cowan, Clark P.	Cowan	Clark P.	CCP	NA
+CD	Campbell, David G.	Campbell	David G.	CD	NA
+CDG	Cours-Darne, Gilbert	Cours-Darne	Gilbert	CDG	NA
+CDJ	Coêlho, José de Parva	Coêlho	José de Parva	CDJ	NA
+CDP	Charles-Dominique, Pierre	Charles-Dominique	Pierre	CDP	NA
+CE	Contreras, Elias	Contreras	Elias	CE	NA
+CEB	Carlson, B.	Carlson	Elizabeth ("Betsy")	CEB	NA
+CEB	Carlson, Elizabeth ("Betsy")	Carlson	Elizabeth ("Betsy")	CEB	NA
+CEF	Cabrera Cano, Edgar Francisco	Cabrera Cano	Edgar Francisco	CEF	NA
+CF	Crawford, F.	Crawford	F.	CF	NA
+CFA	Custodio Filho, Alcebiades	Custodio Filho	Alcebiades	CFA	NA
+CFG	Coe, Felix G.	Coe	Felix G.	CFG	NA
+CFL	Coêlho, Luiz Fernandez	Coêlho	Luiz Fernandez	CFL	NA
+CG	Gachet, Christien	Gachet	Christien	CG	NA
+CGA	Cremers, Georges Alexis	Cremers	Georges Alexis	CGA	NA
+CH	Churchill, Hugh Waldemar	Churchill	Hugh Waldemar	CH	NA
+CHAV	Chavarría	Chavarría	NA	CHAV	NA
+CHG	Calatayud Hermosa, Gloria	Calatayud Hermosa	Gloria	CHG	NA
+CHIS	Chidzinga, S.	Chidzinga	S.	CHIS	NA
+CHL	Clark, Howard L.	Clark	Howard L.	CHL	NA
+CHM	Curran, Hugh McCullum	Curran	Hugh McCullum	CHM	NA
+CHOJ	Choo, Johanna	Choo	Johanna	CHOJ	NA
+CHUS	Chuwa, Sebastian	Chuwa	Sebastian	CHUS	NA
+CHW	Hong Wa, Cynthia	Hong-Wa	Cynthia	CHW	NA
+CHW	Hong-Wa, Cynthia	Hong-Wa	Cynthia	CHW	NA
+CIM	Coronado González, Indiana M.	Coronado González	Indiana M.	CIM	NA
+CJ	Caballero, *	Caballero	NA	CJ	NA
+CJ	Caballero, Judit	Caballero	Judit	CJ	NA
+CJD	Chapman, J. D.	Chapman	J. D.	CJD	NA
+CJG	Calderón Vindell, Juan G.	Calderón Vindell	Juan G.	CJG	NA
+CJI	Calzada, Juan Ismael	Calzada	Juan Ismael	CJI	NA
+CJJ	Castillo Mont, Juan José	Castillo Mont	Juan José	CJJ	NA
+CJL	Clark, John Littner	Clark	John Littner	CJL	NA
+CJP	Carauta, Jorge Pedro Pereira	Carauta	Jorge Pedro Pereira	CJP	NA
+CK	Kremen, Claire	Kremen	Claire	CK	NA
+CKS	Skema, Cindy	Skema	Cindy	CKS	NA
+CL	Carrillo, Lorena	Carrillo	Lorena	CL	NA
+CLA	Chapelier, Louis Armand	Chapelier	Louis Armand	CLA	NA
+CLD	Cárdenas López, Dairon	Cárdenas López	Dairon	CLD	NA
+CLE	Cayola Pérez, Leslie Eugenia	Cayola Pérez	Leslie Eugenia	CLE	NA
+CLF	Frasier, Cynthia	Frasier	Cynthia	CLF	NA
+CLG	Carrasquilla, Luis G.	Carrasquilla	Luis G.	CLG	NA
+CLJ	Cerén Lopez, José Gabriel	Cerén Lopez	José Gabriel	CLJ	NA
+CM	Castro, Margarita	Castro	Margarita	CM	NA
+CMA	Coelho, Marcus Alberto Nadruz	Coelho	Marcus Alberto Nadruz	CMA	NA
+CMD	Correa A., Mireya D.	Correa A.	Mireya D.	CMD	NA
+CMF	Carvalho, Manuel Fidalgo de	Carvalho	Manuel Fidalgo de	CMF	NA
+CMM	Cornejo Mejia, Maritza	Cornejo Mejia	Maritza	CMM	NA
+CMR	Cheek, Martin Roy	Cheek	Martin Roy	CMR	NA
+CNK	Chun, N. K.	Chun	N. K.	CNK	NA
+CO	Castillo, O.	Castillo	O.	CO	NA
+COEL	Coelho, L.	Coelho	L.	COEL	NA
+COLG	Colonnello, Giuseppe	Colonnello	Giuseppe	COLG	NA
+COMR	Combs, Robert	Combs	Robert	COMR	NA
+CP	Commerson, Philibert	Commerson	Philibert	CP	NA
+CPA	Cogollo Pacheco, Álvaro	Cogollo Pacheco	Álvaro	CPA	NA
+CPR	Callejas Posada, Ricardo	Callejas Posada	Ricardo	CPR	NA
+CR	Rakotovao, Charles	Rakotovao	Charles	CR	NA
+CRA	Carballo, Rubén Alonso	Carballo	Rubén Alonso	CRA	NA
+CRP	Capuron, René Paul Raymond	Capuron	René Paul Raymond	CRP	NA
+CRU	Chavarría García, Ramón Ulises Gerardo	Chavarría García	Ramón Ulises Gerardo	CRU	NA
+CS	Calderón, Salvador	Calderón	Salvador	CS	NA
+CSJ	Calónico Soto, Jorge	Calónico Soto	Jorge	CSJ	NA
+CTB	Croat, Thomas Bernard	Croat	Thomas Bernard	CTB	NA
+CTG	Cornejo Tenorio, Guadalupe	Cornejo Tenorio	Guadalupe	CTG	NA
+CTN	Castro T., Nayda	Castro T.	Nayda	CTN	NA
+CTR	Cedillo Trigos, Refugio	Cedillo Trigos	Refugio	CTR	NA
+CVC	Chan V., C.	Chan V.	C.	CVC	NA
+CVV	Can, Vu Van	Can	Vu Van	CVV	NA
+CWH	Cabrera Condarco, Willy Héctor	Cabrera Condarco	Willy Héctor	CWH	NA
+CXF	Cornejo Sotomayor, Xavier Francisco	Cornejo Sotomayor	Xavier Francisco	CXF	NA
+DA	Dik, Alberto	Dik	Alberto	DA	NA
+DAL	Díaz Z., Ana L.	Díaz Z.	Ana L.	DAL	NA
+DAP	Davis, Aaron Paul	Davis	Aaron Paul	DAP	NA
+DAVG	Davidse, Gerrit	Davidse	Gerrit	DAVG	NA
+DAW	Ducke, Walter Adolpho	Ducke	Walter Adolpho	DAW	NA
+DB	Baum, David	Baum	David Alastair	DB	NA
+DB	Baum, David Alastair	Baum	David Alastair	DB	NA
+DBM	Descoings, Bernard M.	Descoings	Bernard Marie	DBM	NA
+DBM	Descoings, Bernard Marie	Descoings	Bernard Marie	DBM	NA
+DBP	De Block, Petra	De Block	Petra	DBP	NA
+DC	Davidson, Christopher	Davidson	Christopher	DC	NA
+DCG	Dahlberg, Carl Gustav	Dahlberg	Carl Gustav	DCG	NA
+DCH	Dodson, Calaway Homer	Dodson	Calaway Homer	DCH	NA
+DCW	Dodge, Carroll William	Dodge	Carroll William	DCW	NA
+DD	De la Quintana, Diego	De la Quintana	Diego	DD	NA
+DDC	Daly, Douglas	Daly	Douglas Charles de Burgh	DDC	NA
+DDC	Daly, Douglas Charles de Burgh	Daly	Douglas Charles de Burgh	DDC	NA
+DDR	Duno de Stefano, Rodrigo	Duno de Stefano	Rodrigo	DDR	NA
+DEGR	Degen, Rosa	Degen	Rosa	DEGR	NA
+DELC	Delnatte, Cesar	Delnatte	Cesar	DELC	NA
+DENE	de Néré	de Néré	NA	DENE	NA
+DEP	Duchassaing de Fontbressin, Édouard Placide	Duchassaing de Fontbressin	Édouard Placide	DEP	NA
+DESS	Dessein, Steven	Dessein	Steven	DESS	NA
+DF	Delascio Chitty, Francisco	Delascio Chitty	Francisco	DF	NA
+DG	Dauby, Gilles	Dauby	Gilles	DG	NA
+DGR	Durán García, Rafael	Durán García	Rafael	DGR	NA
+DIAZ	Diaz, *	Diaz	NA	DIAZ	NA
+DIEL	Dieckman, Leonard	Dieckman	Leonard	DIEL	NA
+DINA	Dinard, André	Dinard	André	DINA	NA
+DIOF	Dionizia, F.	Dionizia	F.	DIOF	NA
+DJ	Déquaire, Jean-Maurice	Déquaire	Jean-Maurice	DJ	NA
+DJA	Duke, James Alan	Duke	James Alan	DJA	NA
+DJD	Dwyer, John Duncan	Dwyer	John Duncan	DJD	NA
+DJF	Drège, Jean François (Johann Franz)	Drège	Jean François (Johann Franz)	DJF	NA
+DJJ	de Wilde, Jan Jacobus Friedrich Egmond	de Wilde	Jan Jacobus Friedrich Egmond	DJJ	NA
+DJS	de la Cruz, J. S.	de la Cruz	J. S.	DJS	NA
+DKH	Harder, Daniel Kenneth	Harder	Daniel Kenneth	DKH	NA
+DL	Delgado, Luz	Delgado	Luz	DL	NA
+DLJ	Dorr, Laurence Joseph	Dorr	Laurence Joseph	DLJ	NA
+DM	do Céu Madureira, Maria	do Céu Madureira	Maria	DM	NA
+DMM	Debray,	Debray	Marcel M.	DMM	NA
+DMM	DEBRAY, *	Debray	Marcel M.	DMM	NA
+DMM	Debray, Marcel M.	Debray	Marcel M.	DMM	NA
+DN	DALE, *	Dale	NA	DN	NA
+DNB	Deginani, Norma B.	Deginani	Norma B.	DNB	NA
+DOK	DOKOBE, *	Dokobe	Dokobe	DOK	NA
+DOK	Dokobe	Dokobe	Dokobe	DOK	NA
+DOLJ	Dorantes López, Jesús	Dorantes López	Jesús	DOLJ	NA
+DONC	Donis, C.	Donis	C.	DONC	NA
+DOUC	Doumenge, Charles	Doumenge	Charles	DOUC	NA
+DPA	Duarte, Apparicio Pereira	Duarte	Apparicio Pereira	DPA	NA
+DPB	Du Puy, Blaise P.	Du Puy	Blaise P.	DPB	NA
+DPF	Domínguez Peña, Feliz	Domínguez Peña	Feliz	DPF	NA
+DPK	Dusén, Per Karl Hjalmar	Dusén	Per Karl Hjalmar	DPK	NA
+DPS	Daniels, Patrick S.	Daniels	Patrick S.	DPS	NA
+DR	Decary, Raymond	Decary	Raymond	DR	NA
+DRAK	DRAKE, *	Drake	NA	DRAK	NA
+DRB	Drummond, Robert Bailey	Drummond	Robert Bailey	DRB	NA
+DRD	Andriamiarimanana, Donatien	Andriamiarimanana	Donatien	DRD	NA
+DRL	Dressler, Robert Louis	Dressler	Robert Louis	DRL	NA
+DS	Defler, Sara	Defler	Sara	DS	NA
+DSC	Díaz Santibáñez, Camilo	Díaz Santibáñez	Camilo	DSC	NA
+DSJ	DeWalt, Sarah J.	DeWalt	Sarah J.	DSJ	NA
+DSP	Darwin, Steven P.	Darwin	Steven P.	DSP	NA
+DT	Turk, Dan	Turk	Dan	DT	NA
+DTF	Daniel, Thomas Franklin	Daniel	Thomas Franklin	DTF	NA
+DW	Díaz, Wilmer A.	Díaz	Wilmer A.	DW	NA
+DWA	Dayton, William Adams	Dayton	William Adams	DWA	NA
+DWG	D'Arcy, William Gerald	D'Arcy	William Gerald	DWG	NA
+E	Bidault, Ehoarn	Bidault	Ehoarn	E	NA
+EAD	Elmer, Adolph Daniel Edward	Elmer	Adolph Daniel Edward	EAD	NA
+EAG	Estrada Chavarría, Armando Gerardo	Estrada Chavarría	Armando Gerardo	EAG	NA
+ECE	Ewango, Corneille E. N.	Ewango	Corneille E. N.	ECE	NA
+ECM	Evrard, Charles Marie	Evrard	Charles Marie	ECM	NA
+EEL	Ekman, Erik Leonard	Ekman	Erik Leonard	EEL	NA
+EF	Eneme, F.	Eneme	F.	EF	NA
+EG	Eiten, George	Eiten	George	EG	NA
+EJ	Espina Z., Josefina	Espina Z.	Josefina	EJ	NA
+EJA	Espinosa-Jiménez, Josefa Anahí	Espinosa-Jiménez	Josefa Anahí	EJA	NA
+EM	Espinal, Mario	Espinal	Mario	EM	NA
+EME	Emeline	Emeline	Emeline	EME	NA
+EN	Etkin, N.	Etkin	N.	EN	NA
+EP	Ezrom, P.	Ezrom	P.	EP	NA
+ERE	Espinoza Obando, Roberto Enrique	Espinoza Obando	Roberto Enrique	ERE	NA
+EREP	Pereira, Edmundo	Pereira	Edmundo	EREP	NA
+ERR	Evans, Randall (Randy) Joe	Evans	Randall (Randy) Joe	ERR	NA
+ES	Eboroke, Sylvain	Eboroke	Sylvain	ES	NA
+ES	Eboroke, Sylvin	Eboroke	Sylvain	ES	NA
+ET	Thouvenot, E.	Thouvenot	E.	ET	NA
+ETAM	Matuda, Eizi	Matuda	Eizi	ETAM	NA
+ETUM	Etuge, Martin	Etuge	Martin	ETUM	NA
+EWA	Egler, Walter Alberto	Egler	Walter Alberto	EWA	NA
+EWJ	Eggeling, William Julius	Eggeling	William Julius	EWJ	NA
+F	Almeda, Frank, Jr.	Almeda	Frank	F	NA
+FA	Fernández, Ángel	Fernández	Ángel	FA	NA
+FAF	Fuentes Claros, Alfredo Fernando	Fuentes Claros	Alfredo Fernando	FAF	NA
+FAR	Rajaonary, Fano A.	Rajaonary	Fano A.	FAR	NA
+FARC	Farney, Cyl	Farney	Cyl	FARC	NA
+FAUB	Faust, B.	Faust	B.	FAUB	NA
+FB	Barthelat, Fabien	Barthelat	Fabien	FB	NA
+FBR	Foster, Robin Bradford	Foster	Robin Bradford	FBR	NA
+FC	Chauvet, Françoise	Chauvet	Françoise	FC	NA
+FCF	Frontier-Tanzania Coastal Forest Research Programme	Frontier-Tanzania Coastal Forest Research Programme	NA	FCF	NA
+FCP	Feuillet, Christian Patrice Georges-André	Feuillet	Christian Patrice Georges-André	FCP	NA
+FE	Forero, Enrique	Forero	Enrique	FE	NA
+FEJ	Florence, E. Jacques Maria	Florence	E. Jacques Maria	FEJ	NA
+FEL	Freire Mayorga, Efraín Liborio	Freire Mayorga	Efraín Liborio	FEL	NA
+FER	Friedrichsthal, Emanuel Ritter von	Friedrichsthal	Emanuel Ritter von	FER	NA
+FERM	Ferm, Julia	Ferm	Julia	FERM	NA
+FESL	Festo, Lenin	Festo	Lenin	FESL	NA
+FFJ	Fernández Casas, Francisco Javier	Fernández Casas	Francisco Javier	FFJ	NA
+FFR	Fosberg, Francis Raymond (Ray)	Fosberg	Francis Raymond (Ray)	FFR	NA
+FGW	Frankie, Gordon William	Frankie	Gordon William	FGW	NA
+FH	Haerdi, Fritz	Haerdi	Fritz	FH	NA
+FHG	Faulkner, Helen G.	Faulkner	Helen G.	FHG	NA
+FHP	Fuchs, Hans Peter	Fuchs	Hans Peter	FHP	NA
+FIGC	Figueirado, C.	Figueirado	C.	FIGC	NA
+FJ	Farfán, Jim	Farfán	Jim	FJ	NA
+FJJ	Floret, J. J.	Floret	Jean-Jacques	FJJ	NA
+FJJ	Floret, Jean-Jacques	Floret	Jean-Jacques	FJJ	NA
+FJM	Fay, John Michael	Fay	John Michael	FJM	NA
+FL	Fernandez, L.	Fernandez	L.	FL	NA
+FLN	Faliniaina, Lucien	Faliniaina	Lucien	FLN	NA
+FLOR	FLORESTAL, *	Florestal	NA	FLOR	NA
+FM	Fleury, M.	Fleury	M.	FM	NA
+FMB	Randriantafika, Faly	Randriantafika	Faly	FMB	NA
+FN	Flores, Noris	Flores	Noris	FN	NA
+FNR	Fernández Nava, Rafael	Fernández Nava	Rafael	FNR	NA
+FPF	Foster, Paul F.	Foster	Paul F.	FPF	NA
+FR	Raharimalala, Fidèle	Raharimalala	Fidèle	FR	NA
+FRB	Faranirina, Lantoarisoa	Faranirina	Lantoarisoa	FRB	NA
+FRD	Fróes, Ricardo de Lemos	Fróes	Ricardo de Lemos	FRD	NA
+FRH	Fortunato, Renée Hersilla	Fortunato	Renée Hersilla	FRH	NA
+FRT	Rakotoarivony, Manandraitsiory Fortunat	Rakotoarivony	Manandraitsiory Fortunat	FRT	NA
+FRV	Rouxeville, F	Rouxeville	F	FRV	NA
+FSA	Fakih, S. A.	Fakih	S. A.	FSA	NA
+FVV	Funk, Victoria (Vicki) Ann	Funk	Victoria (Vicki) Ann	FVV	NA
+G	Carnevali, Germán	Carnevali	Germán	G	NA
+G0MA	Gómez, Angela	Gómez	Angela	G0MA	NA
+GA	Garnier, Antonio	Garnier	Antonio	GA	NA
+GAF	Glaziou, Auguste François Marie	Glaziou	Auguste François Marie	GAF	NA
+GAH	Gentry, Alwyn Howard	Gentry	Alwyn Howard	GAH	NA
+GAJ	Grierson, Andrew John Charles	Grierson	Andrew John Charles	GAJ	NA
+GAL	González Arce, Luis Alonso	González Arce	Luis Alonso	GAL	NA
+GB	Gómez Chagala, Braulio	Gómez Chagala	Braulio	GB	NA
+GC	Galdames, Carmen	Galdames	Carmen	GC	NA
+GCA	Grández Rios, Cesár A.	Grández Rios	Cesár A.	GCA	NA
+GD	Gledhill, David	Gledhill	David	GD	NA
+GDD	Grande, D.A. de	Grande	D.A. de	GDD	NA
+GE	Gudiño Jara, Edgar	Gudiño Jara	Edgar	GE	NA
+GER	Guaglianone, Encarnación Rosa	Guaglianone	Encarnación Rosa	GER	NA
+GES	Schatz, George	Schatz	George Edward	GES	NA
+GES	Schatz, George E.	Schatz	George Edward	GES	NA
+GES	Schatz, George Edward	Schatz	George Edward	GES	NA
+GG	Garnett, George	Garnett	George	GG	NA
+GGA	Galeano Garcés, Gloria Amparo	Galeano Garcés	Gloria Amparo	GGA	NA
+GGF	Gaumer, George F.	Gaumer	George F.	GGF	NA
+GGH	Hatschbach, Gert Guenther	Hatschbach	Gert Guenther	GGH	NA
+GGH	Hatschbach, Guenther	Hatschbach	Gert Guenther	GGH	NA
+GGR	Grether González, Rosaura	Grether González	Rosaura	GGR	NA
+GHC	Gallardo Hernández, Claudia	Gallardo Hernández	Claudia	GHC	NA
+GI	Groeninckx, Inge	Groeninckx	Inge	GI	NA
+GILLESPIE	Gillespie, Lynn	Gillespie	Lynn	GILLESPIE	NA
+GJ	González, Jorge	González	Jorge	GJ	NA
+GJA	González Ramírez, José Ángel	González Ramírez	José Ángel	GJA	NA
+GJB	Gillett, Jan Bevington	Gillett	Jan Bevington	GJB	NA
+GJC	González Ayala, Julio César	González Ayala	Julio César	GJC	NA
+GJG	Graham, James G.	Graham	James G.	GJG	NA
+GJM	Greenman, Jesse More	Greenman	Jesse More	GJM	NA
+GJP	Goudot, Justin P.	Goudot	Justin P.	GJP	NA
+GL	Gurgel, Luiz	Gurgel	Luiz	GL	NA
+GLA	Gomes, L. A.	Gomes	L. A.	GLA	NA
+GLJ	Gillespie, Lynn Judith	Gillespie	Lynn Judith	GLJ	NA
+GM	Gómez López, Martin	Gómez López	Martin	GM	NA
+GMF	Geay, Martin Francois	Geay	Martin Francois	GMF	NA
+GMH	Grayum, Michael Howard	Grayum	Michael Howard	GMH	NA
+GMP	McPherson, Gordon	McPherson	Gordon D.	GMP	NA
+GMP	McPherson, Gordon D.	McPherson	Gordon D.	GMP	NA
+GNC	Garwood, Nancy C.	Garwood	Nancy C.	GNC	NA
+GOJP	Goudot, Jules Prosper	Goudot	Jules Prosper	GOJP	NA
+GOO	Guerrero, Oscar Orlando	Guerrero	Oscar Orlando	GOO	NA
+GP	Galán, Pablp	Galán	Pablp	GP	NA
+GPA	Grijalva Pineda, Alfredo	Grijalva Pineda	Alfredo	GPA	NA
+GPC	Gadelha Neto, P. C.	Gadelha Neto	P. C.	GPC	NA
+GPH	Gentle, Percy H.	Gentle	Percy H.	GPH	NA
+GPJ	Greenway, Peter (Percy) James	Greenway	Peter (Percy) James	GPJ	NA
+GR	Reeves, Gail	Reeves	Gail	GR	NA
+GRAA	Graziani, Antoine	Graziani	Antoine	GRAA	NA
+GRE	Gereau, Roy Emile	Gereau	Roy Emile	GRE	NA
+GRG	García, Ricardo Guarionex	García	Ricardo Guarionex	GRG	NA
+GRK	Godfrey, Robert Kenneth	Godfrey	Robert Kenneth	GRK	NA
+GRV	Gervais	Gervais	Gervais	GRV	NA
+GS	Gairola, Sumeet	Gairola	Sumeet	GS	NA
+GTR	Guittou, Riri	Guittou	Riri	GTR	NA
+GUAC	Guadamuz, Catalino	Guadamuz	Catalino	GUAC	NA
+GUIJ	Guillaumet, Jean-Louis	Guillaumet	Jean-Louis	GUIJ	NA
+GUZM	Guzmán-Teare, Myra	Guzmán-Teare	Myra	GUZM	NA
+GVG	Gamboa Romero, Villy Gerardo	Gamboa Romero	Villy Gerardo	GVG	NA
+GVR	Guillén Villarroel, René	Guillén Villarroel	René	GVR	NA
+GWL	Galiano, Washington L.	Galiano	Washington L.	GWL	NA
+GWT	Gillis, William Thomas	Gillis	William Thomas	GWT	NA
+GZA	Goodwin, Zoë Africa	Goodwin	Zoë Africa	GZA	NA
+H	Cuming, Hugh	Cuming	Hugh	H	NA
+HA	Andrianirina, Herson	Andrianirina	Herson	HA	NA
+HAI	Honfi, A. I.	Honfi	A. I.	HAI	NA
+HAJ	Henderson, Andrew James	Henderson	Andrew James	HAJ	NA
+HAM	Homolle, Anne-Marie	Homolle	Anne-Marie	HAM	NA
+HAS	Hitchcock, Albert Spear	Hitchcock	Albert Spear	HAS	NA
+HB	Hansen, Bertel	Hansen	Bertel	HB	NA
+HBE	Hammel, Barry Edward	Hammel	Barry Edward	HBE	NA
+HBF	Hansen, Bruce Frederick	Hansen	Bruce Frederick	HBF	NA
+HBJ	Harris, Brian James	Harris	Brian James	HBJ	NA
+HBK	Holst, Bruce Kendall	Holst	Bruce Kendall	HBK	NA
+HCM	Hladik, C. M.	Hladik	C. M.	HCM	NA
+HDJ	Harris, David J.	Harris	David J.	HDJ	NA
+HDL	Hazlett, Donald Lavern	Hazlett	Donald Lavern	HDL	NA
+HE	Hassler, Émile	Hassler	Émile	HE	NA
+HEMA	Hemp, Andreas	Hemp	Andreas	HEMA	NA
+HENA	Henry, Augustine	Henry	Augustine	HENA	NA
+HEP	Heringer, Ezechias Paulo	Heringer	Ezechias Paulo	HEP	NA
+HERB	HERB, *	Herbier du Jardin botanique de Tananarive	Herbier du Jardin botanique de Tananarive	HERB	NA
+HERB	HERB, Herb.Jard.Bot.Tan	Herbier du Jardin botanique de Tananarive	Herbier du Jardin botanique de Tananarive	HERB	NA
+HERB	Herb.Jard.Bot.Tan.	Herbier du Jardin botanique de Tananarive	Herbier du Jardin botanique de Tananarive	HERB	NA
+HERB	Herbier du Jardin botanique de Tananarive	Herbier du Jardin botanique de Tananarive	Herbier du Jardin botanique de Tananarive	HERB	NA
+HF	Hoehne, Frederico Carlos	Hoehne	Frederico Carlos	HF	NA
+HFC	How, Foon-Chew	How	Foon-Chew	HFC	NA
+HFN	HORTO FLORESTAL, *	HORTO FLORESTAL	NA	HFN	NA
+HG	Grevé, H.	Grevé	H.	HG	NA
+HGA	Herrera Chacón, Gerardo Antonio del Carmen	Herrera Chacón	Gerardo Antonio del Carmen	HGA	NA
+HGB	Hinton, George Boole	Hinton	George Boole	HGB	NA
+HGS	Hartshorn, Gary Spencer	Hartshorn	Gary Spencer	HGS	NA
+HH	Herrera, Heraclio	Herrera	Heraclio	HH	NA
+HHA	Hespenheide, Henry August,  III	Hespenheide	Henry August	HHA	NA
+HHE	Hornby, Henry Epton	Hornby	Henry Epton	HHE	NA
+HHH	Haines, Henry Haselfoot	Haines	Henry Haselfoot	HHH	NA
+HHW	Hodge, Walter Hendricks	Hodge	Walter Hendricks	HHW	NA
+HI	Huamantupa Chuquimaco, Isau	Huamantupa Chuquimaco	Isau	HI	NA
+HJH	Humbert, Jean-Henri	Humbert	Jean-Henri	HJH	NA
+HJM	Hildebrandt, Johannes Maria	Hildebrandt	Johannes Maria	HJM	NA
+HJS	Huston, Jon S.	Huston	Jon S.	HJS	NA
+HL	Humblot, Léon	Humblot	Léon	HL	NA
+HLD	Barreto, Henrique Lamahyer de Mello	Barreto	Henrique Lamahyer de Mello	HLD	NA
+HLR	Holdridge, Leslie Rensselaer	Holdridge	Leslie Rensselaer	HLR	NA
+HM	Hernández Magaña, Rafael	Hernández Magaña	Rafael	HM	NA
+HMAR	Razanajatovo, Mialy Harindra	Razanajatovo	Mialy Harindra	HMAR	NA
+HMJ	Huft, Michael John	Huft	Michael John	HMJ	NA
+HMM	Hanes, Margaret M.	Hanes	Margaret M.	HMM	NA
+HN	Hallé, Nicolas	Hallé	Nicolas	HN	NA
+HNR	Andriamiarinoro, Honoré	Andriamiarinoro	Honoré	HNR	NA
+HO	Haba, O	Haba	O	HO	NA
+HOFB	Hoffman, B.	Hoffman	B.	HOFB	NA
+HOFF	HOFFMAN, *	HOFFMAN	NA	HOFF	NA
+HOL	Haught, Oscar Lee	Haught	Oscar Lee	HOL	NA
+HP	Hoffmann, Petra	Hoffmann	Petra	HP	NA
+HPB	Perrier de la Bâthie, Joseph Marie Henry Alfred	Perrier de la Bâthie	Joseph Marie Henry Alfred	HPB	NA
+HPR	House, Paul Raymond	House	Paul Raymond	HPR	NA
+HR	Ranarivelo, Heritiana	Ranarivelo	Heritiana	HR	changed from RHS
+HRF	Hohenacker, Rudolph Friedrich	Hohenacker	Rudolph Friedrich	HRF	NA
+HRM	Hanitrarivo, R. Mitia	Hanitrarivo	R. Mitia	HRM	NA
+HRS	Ravaomanalina, Bako Harisoa	Ravaomanalina	Bako Harisoa	HRS	NA
+HRS	Ravaomanalina, Harisoa	Ravaomanalina	Bako Harisoa	HRS	NA
+HS	Sauquet, Hervé	Sauquet	Hervé	HS	NA
+HSC	Hery (?), Soanary Claude	Hery (?)	Soanary Claude	HSC	NA
+HSR	Hill, Steven Richard	Hill	Steven Richard	HSR	NA
+HTB	Hart, Terese Butler	Hart	Terese Butler	HTB	NA
+HTT	Thi Tran, Hoa	Thi Tran	Hoa	HTT	NA
+HTT	Thi, Hoa	Thi Tran	Hoa	HTT	NA
+HTW	Henkel, Terry W.	Henkel	Terry W.	HTW	NA
+HUAN	HUANG, *	HUANG	NA	HUAN	NA
+HUBO	Huber, Otto	Huber	Otto	HUBO	NA
+HURF	Hurtado, Fernando	Hurtado	Fernando	HURF	NA
+HW	Hahn, William (Bill) James	Hahn	William (Bill) James	HW	NA
+HWB	Haber, William (Bill) Allen	Haber	William (Bill) Allen	HWB	NA
+HWE	Harmon, William Edward	Harmon	William Edward	HWE	NA
+HWH	Harris, William H.	Harris	William H.	HWH	NA
+HWS	Hoover, Walter Scott	Hoover	Walter Scott	HWS	NA
+I	Gushilman, Iska	Gushilman	Iska	I	NA
+IA	Ibáñez García, Alicia	Ibáñez García	Alicia	IA	NA
+IB	Iambana, Bernard	Iambana	Bernard	IB	NA
+ID	Ikabanga, Davy	Ikabanga	Davy	ID	NA
+IDAA	Idárraga-Piedrahita, Álvaro	Idárraga-Piedrahita	Álvaro	IDAA	NA
+IG	Ibarra Manríquez, Guillermo	Ibarra Manríquez	Guillermo	IG	NA
+IHS	Irwin, Howard Samuel	Irwin	Howard Samuel	IHS	NA
+IL	Luino, Iacopo	Luino	Iacopo	IL	NA
+IS	Iremonger, Susan	Iremonger	Susan	IS	NA
+ISCM	Herbier, Institut Scientifique, Madagascar	Institut Scientifique Madagascar	Institut Scientifique Madagascar	ISCM	NA
+ISCM	HERBIER, INSTITUT SCIENTIFIQUE, MADAGASCAR	Institut Scientifique Madagascar	Institut Scientifique Madagascar	ISCM	NA
+ISCM	Ist.Sci.Mad.	Institut Scientifique Madagascar	Institut Scientifique Madagascar	ISCM	NA
+ISCM	Institut Scientifique Madagascar	Institut Scientifique Madagascar	Institut Scientifique Madagascar	ISCM	NA
+ITAB	Itaipú Binacional	Itaipú Binacional	NA	ITAB	NA
+J	Raharilala, Jeannine	Raharilala	Jeannine	J	NA
+JA	Aridy, Jao	Aridy	Jao	JA	NA
+JAR	Ratter, James Alexander	Ratter	James Alexander	JAR	NA
+JARA	Jardim, Antony	Jardim	Antony	JARA	NA
+JB	Jestrow, Brett	Jestrow	Brett	JB	NA
+JBL	Léopold, Jean Berthieu	Léopold	Jean Berthieu	JBL	NA
+JBT	Jardin Botanique Tananarive	Jardin Botanique Tananarive	Jardin Botanique Tananarive	JBT	NA
+JC	Cloisel, J.	Cloisel	J.	JC	NA
+JCD	Johnson, Clarence Dan	Johnson	Clarence Dan	JCD	NA
+JCL	Jones, Casey L.	Jones	Casey L.	JCL	NA
+JD	Jansen, David	Jansen	David	JD	NA
+JDH	Janzen, Daniel Hunt	Janzen	Daniel Hunt	JDH	NA
+JE	Montes, José E.	Montes	José E.	JE	NA
+JFR	Razafitsalama, Jérémie Lalao	Razafitsalama	Lalao Jeremi	JFR	changed from RLJ
+JFR	Razafitsalama, Lalao Jeremi	Razafitsalama	Lalao Jeremi	JFR	changed from RLJ
+JG	Jönsson, Gösta	Jönsson	Gösta	JG	NA
+JGG	Juárez García, Gonzalo	Juárez García	Gonzalo	JGG	NA
+JH	Jacquemin, H.	Jacquemin	H.	JH	NA
+JIM	Johnston, Ivan Murray	Johnston	Ivan Murray	JIM	NA
+JJ	Dibata, J. J.	Dibata	J. J.	JJ	NA
+JJG	Jardim, J.	Jardim	Jomar Gomes	JJG	NA
+JJG	Jardim, Jomar Gomes	Jardim	Jomar Gomes	JJG	NA
+JJM	Morawetz, Jeffery	Morawetz	Jeffery	JJM	NA
+JJQ	Jiménez Madrigal, José Quírico del Rosario	Jiménez Madrigal	José Quírico del Rosario	JJQ	NA
+JJW	Tombonirina, Jean Jacques Wira	Tombonirina	Jean Jacques Wira	JJW	NA
+JJW	Tombonirina, Wira Jean Jacques	Tombonirina	Jean Jacques Wira	JJW	NA
+JL	Mora, Jean-Luc	Mora	Jean-Luc	JL	NA
+JM	Miller, James (Jim) Spencer	Miller	James (Jim) Spencer	JM	NA
+JM	Miller, Jim	Miller	James (Jim) Spencer	JM	NA
+JMA	Braga, João Marcelo Alvarenga	Braga	João Marcelo Alvarenga	JMA	NA
+JMJ	Jansen-Jacobs, Marion Josephine	Jansen-Jacobs	Marion Josephine	JMJ	NA
+JN	Jaramillo, Nestor	Jaramillo	Nestor	JN	NA
+JNI	Raharimampionona, Jeannie	Raharimampionona	Jeannie	JNI	NA
+JNL	Labat, Jean-Noël	Labat	Jean-Noël	JNL	NA
+JOUV	JOUVIN, *	JOUVIN	NA	JOUV	NA
+JP	Peltier, Jacqueline	Peltier	Jacqueline	JP	NA
+JPP	Jörgensen, Peter (Pedro)	Jörgensen	Peter (Pedro)	JPP	NA
+JR	Randrianasolo, Joma	Randrianasolo	Joma	JR	changed from RJ
+JRL	Jones, Ronald Lee	Jones	Ronald Lee	JRL	NA
+JS	Sutherland, John	Sutherland	John	JS	NA
+JTA	Josso Tianarifidy, Angelos Stanislas	Josso	Angelos Tianarifidy Stanislas	JTA	NA
+JTA	Josso, Angelos Tianarifidy Stanislas	Josso	Angelos Tianarifidy Stanislas	JTA	NA
+K	Kappler, August	Kappler	August	K	NA
+KA	Kotozafy, Alphonse	Kotozafy	Alphonse	KA	NA
+KAC	Krapovickas, Antonio Christopher	Krapovickas	Antonio Christopher	KAC	NA
+KAD	Karatra, Aimé Dochard	Karatra	Aimé Dochard	KAD	NA
+KAD	Karatra, Aimée Dochard	Karatra	Aimé Dochard	KAD	NA
+KBA	Krukoff, Boris Alexander	Krukoff	Boris Alexander	KBA	NA
+KBB	Klitgaard, Bente Bang	Klitgaard	Bente Bang	KBB	NA
+KC	Kernan, Christopher	Kernan	Christopher	KC	NA
+KCF	Krauss, Christian Ferdinand Friedrich von	Krauss	Christian Ferdinand Friedrich von	KCF	NA
+KCJ	Kayombo, Canisius J.	Kayombo	Canisius J.	KCJ	NA
+KCK	Kotschy, Carl (Karl) Georg Theodor	Kotschy	Carl (Karl) Georg Theodor	KCK	NA
+KCT	Kidua, Charles T.	Kidua	Charles T.	KCT	NA
+KG	Klug, Guillermo	Klug	Guillermo	KG	NA
+KH	Kennedy, Helen	Kennedy	Helen	KH	NA
+KHAR	Khan, Ronaq	Khan	Ronaq	KHAR	NA
+KHR	Kriebel Haehner, Ricardo	Kriebel Haehner	Ricardo	KHR	NA
+KJ	Kirkbride, Jr., Joseph Harold	Kirkbride	Jr.	KJ	NA
+KJG	Kuhlmann, João Geraldo	Kuhlmann	João Geraldo	KJG	NA
+KJL	Klein, Jan Lukas	Klein	Jan Lukas	KJL	NA
+KK	Koïvogui, Kolou	Koïvogui	Kolou	KK	NA
+KKC	Kuntze, Carl (Karl) Ernst (Eduard) Otto	Kuntze	Carl (Karl) Ernst (Eduard) Otto	KKC	NA
+KL	Larsen, Kai	Larsen	Kai	KL	NA
+KM	Kuhlmann, Moysés	Kuhlmann	Moysés	KM	NA
+KML	Kawasaki, Maria Lucia	Kawasaki	Maria Lucia	KML	NA
+KN	KOCZICKI, *	KOCZICKI	NA	KN	NA
+KNAC	Knab-Vispo, Claudia	Knab-Vispo	Claudia	KNAC	NA
+KOA	Kibure, O. A.	Kibure	O. A.	KOA	NA
+KP	Kuchar, Peter	Kuchar	Peter	KP	NA
+KR	Kayap, Rubio	Kayap	Rubio	KR	NA
+KRD	Kral, Robert D.	Kral	Robert D.	KRD	NA
+KSD	Knapp, Sandra Diane	Knapp	Sandra Diane	KSD	NA
+KT	Klaine, Theophile Joseph	Klaine	Theophile Joseph	KT	NA
+KTJ	Killeen, Timothy J.	Killeen	Timothy J.	KTJ	NA
+KUHL	KUHLMANN, *	KUHLMANN	NA	KUHL	NA
+KUHN	Kuhn, *	Kuhn	NA	KUHN	NA
+KUMR	Kummrow, R.	Kummrow	R.	KUMR	NA
+KW	Kings, W.	Kings	W.	KW	NA
+KWA	Kaudern, Walter Alexander	Kaudern	Walter Alexander	KWA	NA
+KWJ	Kindeketa, William J.	Kindeketa	William J.	KWJ	NA
+KYS	Kuniyoshi, Y. Saito	Kuniyoshi	Y. Saito	KYS	NA
+L	Aristeguieta, Leandro	Aristeguieta	Leandro	L	NA
+LA	Allorge, Lucile	Allorge	Lucile	LA	NA
+LAGA	Laguna, Angela	Laguna	Angela	LAGA	NA
+LAH	Liogier, Alain Henri	Liogier	Alain Henri	LAH	NA
+LAIVAO	Laivao, Michel Omer	Laivao	Michel Omer	LAIVAO	NA
+LAJ	Leeuwenberg, Anthonius Josephus Maria	Leeuwenberg	Anthonius Josephus Maria	LAJ	NA
+LAM	Lewis, Marko Alexander	Lewis	Marko Alexander	LAM	NA
+LB	Luschnath, Bernhard	Luschnath	Bernhard	LB	NA
+LCA	López Cruz, Angelita	López Cruz	Angelita	LCA	NA
+LCL	Lundell, Cyrus Longworth	Lundell	Cyrus Longworth	LCL	NA
+LDI	Lezama, Diana I.	Lezama	Diana I.	LDI	NA
+LDL	Lentz, David L.	Lentz	David L.	LDL	NA
+LE	Lleras, Eduardo	Lleras	Eduardo	LE	NA
+LEA	Lépiz Villalobos, Eduardo Antonio	Lépiz Villalobos	Eduardo Antonio	LEA	NA
+LEC	Leonard, *	Leonard	Emery Clarence	LEC	NA
+LEC	Leonard, Emery Clarence	Leonard	Emery Clarence	LEC	NA
+LEJJ	Lejoly, Jean	Lejoly	Jean	LEJJ	NA
+LEL	Little, Elbert Luther	Little	Elbert Luther	LEL	NA
+LEM	Lira C., Erika M.	Lira C.	Erika M.	LEM	NA
+LERJ	Leroy, Jean-François	Leroy	Jean-François	LERJ	NA
+LEWJ	Lewalle, José	Lewalle	José	LEWJ	NA
+LF	Lantoarisoa, Faranirina	Lantoarisoa	Faranirina	LF	NA
+LG	Gautier, Laurent	Gautier	Laurent Vincent	LG	NA
+LG	Gautier, Laurent Vincent	Gautier	Laurent Vincent	LG	NA
+LGM	Le Testu, Georges Marie Patrice Charles	Le Testu	Georges Marie Patrice Charles	LGM	NA
+LGN	Leliyo, Godson N.	Leliyo	Godson N.	LGN	NA
+LGP	Lewis, Gwilym Peter	Lewis	Gwilym Peter	LGP	NA
+LGS	Laizer, Gabriel Simon	Laizer	Gabriel Simon	LGS	NA
+LH	Li, Heng	Li	Heng	LH	NA
+LHA	León, Henry A.	León	Henry A.	LHA	NA
+LHC	Lima, *	Lima	NA	LHC	NA
+LHC	Lima, Haroldo Cavalcante de	Lima	Haroldo Cavalcante de	LHC	NA
+LHJ	Lam, Herman Johannes	Lam	Herman Johannes	LHJ	NA
+LIF	la Croix, Isobyl Florence	la Croix	Isobyl Florence	LIF	NA
+LII	Linneo Foronda, Ivan I.	Linneo Foronda	Ivan I.	LII	NA
+LIRL	Liesner, Ronald Lee	Liesner	Ronald Lee	LIRL	NA
+LISS	Lisowski, Stanisław	Lisowski	Stanisław	LISS	NA
+LJ	Cumana Campos, Luis José	Cumana Campos	Luis José	LJ	NA
+LJC	Lovett, Jonathan Crainidge	Lovett	Jonathan Crainidge	LJC	NA
+LJD	Leandri, Jacques Désiré	Leandri	Jacques Désiré	LJD	NA
+LJH	Lace, John Henry	Lace	John Henry	LJH	NA
+LJL	Linares, José Ledis	Linares	José Ledis	LJL	NA
+LL	Lugas, L.	Lugas	L.	LL	NA
+LLG	Lohmann, Lúcia Garcez	Lohmann	Lúcia Garcez	LLG	NA
+LLR	Landrum, Leslie Roger	Landrum	Leslie Roger	LLR	NA
+LM	Louvel, Modeste	Louvel	Modeste (François Clément)	LM	NA
+LM	Louvel, Modeste (François Clément)	Louvel	Modeste (François Clément)	LM	NA
+LMA	Luckow, Melissa Ann	Luckow	Melissa Ann	LMA	NA
+LN	Nikolov, Lachezar	Nikolov	Lachezar	LN	NA
+LO	Lachenaud, Olivier	Lachenaud	Olivier	LO	NA
+LOHA	Lot Helguera, Antonio	Lot Helguera	Antonio	LOHA	NA
+LOP	Lopez, Axel	Lopez	Axel	LOP	NA
+LOPE	Lopes, *	Lopes	NA	LOPE	NA
+LPA	Luke, Patricia A.	Luke	Patricia A.	LPA	NA
+LPB	Leopold, Jean Berthieu	Leopold	Jean Berthieu	LPB	NA
+LPK	Lôc, Phan Kê	Lôc	Phan Kê	LPK	NA
+LR	Laha, Rolland	Laha	Rolland	LR	NA
+LRA	Ranaivoarisoa, L.	Ranaivoarisoa	L.	LRA	NA
+LRK	Letsara, Rockiman	Letsara	Rokiman	LRK	NA
+LRK	Letsara, Rokiman	Letsara	Rokiman	LRK	NA
+LRL	Lazor, Robert L.	Lazor	Robert L.	LRL	NA
+LRW	Lent, Roy William	Lent	Roy William	LRW	NA
+LRZ	Ludovic, Reza	Ludovic	Reza	LRZ	NA
+LS	Sussman, Linda	Sussman	Linda	LS	NA
+LSH	Lugo Sánchez, Hólguer	Lugo Sánchez	Hólguer	LSH	NA
+LU	Lachner, Ute	Lachner	Ute	LU	NA
+LV	Vary, Laura	Vary	Laura	LV	NA
+LWH	Lewis, Walter Hepworth	Lewis	Walter Hepworth	LWH	NA
+LWR	Luke, William Richard Quentin	Luke	William Richard Quentin	LWR	NA
+M	Araquistain, Mauricio	Araquistain	Mauricio	M	NA
+MA	Macedo, Amaro	Macedo	Amaro	MA	NA
+MAAG	Maass, Gustavo	Maass	Gustavo	MAAG	NA
+MAE	Ratolojanahary, Maherisoa	Ratolojanahary	Maherisoa	MAE	NA
+MAGB	Maguire, Bassett	Maguire	Bassett	MAGB	NA
+MAHR	Mahroji, Roji	Mahroji	Roji	MAHR	NA
+MAIA	MAIA, *	MAIA	NA	MAIA	NA
+MAJ	Mlangwa, John Amani	Mlangwa	John Amani	MAJ	NA
+MAK	Monro, Alexandre Kenneth	Monro	Alexandre Kenneth	MAK	NA
+MAL	Moya Huanca, Araceli Laura	Moya Huanca	Araceli Laura	MAL	NA
+MAM	Mwangoka, Moses A.	Mwangoka	Moses A.	MAM	NA
+MAR	Rabarimanarivo, Marina	Rabarimanarivo	Marina	MAR	NA
+MARC	Markstrom, Cecilia	Markstrom	Cecilia	MARC	NA
+MARG	Martinelli, Gustavo	Martinelli	Gustavo	MARG	NA
+MARJ	Márquez, Juan	Márquez	Juan	MARJ	NA
+MASC	Mas, Cyrille	Mas	Cyrille	MASC	NA
+MASG	Massawe, Genevieve	Massawe	Genevieve	MASG	NA
+MATE	MATECHI, *	MATECHI	NA	MATE	NA
+MAWF	Mawi, F.	Mawi	F.	MAWF	NA
+MAYJ	Mayombo, Joseph	Mayombo	Joseph	MAYJ	NA
+MB	Briggs, Marie	Briggs	Marie	MB	NA
+MBE	Mhoro, Boniface E.	Mhoro	Boniface E.	MBE	NA
+MBN	Missouri Botanical Garden, *	Missouri Botanical Garden	NA	MBN	NA
+MBR	M'Boungou, R.	M'Boungou	R.	MBR	NA
+MC	Callmander, Martin	Callmander	Martin Wilhelm	MC	NA
+MC	Callmander, Martin Wilhelm	Callmander	Martin Wilhelm	MC	NA
+MCB	Maldonado Goyzueta, Carla Brenda	Maldonado Goyzueta	Carla Brenda	MCB	NA
+MCG	Martínez Calderón, Guadalupe	Martínez Calderón	Guadalupe	MCG	NA
+MCJ	Meller, Charles James	Meller	Charles James	MCJ	NA
+MCJE	Morales Can, Julio Enrique	Morales Can	Julio Enrique	MCJE	NA
+MCK	Martius, Carl (Karl) Friedrich Philipp von	Martius	Carl (Karl) Friedrich Philipp von	MCK	NA
+MCR	Marroquin Castro, R.	Marroquin Castro	R.	MCR	NA
+MCVR	McVaugh, Rogers	McVaugh	Rogers	MCVR	NA
+MDJ	Middleton, David John	Middleton	David John	MDJ	NA
+MDM	Meyers, David M.	Meyers	David M.	MDM	NA
+ME	Madrid N., Estela	Madrid N.	Estela	ME	NA
+MEDM	Medina, Miguel	Medina	Miguel	MEDM	NA
+MEI	Mboya, Emanuel I.	Mboya	Emanuel I.	MEI	NA
+MEJ	Menjívar Cruz, Jenny Elizabeth	Menjívar Cruz	Jenny Elizabeth	MEJ	NA
+MEJA	Mejía, A.	Mejía	A.	MEJA	NA
+MEMM	Mejía, Milcíades Manuel	Mejía	Milcíades Manuel	MEMM	NA
+MENE	Meneces, Elias	Meneces	Elias	MENE	NA
+MER	Rahelivololona, Marie Elisette	Rahelivololona	Marie Elisette	MER	NA
+MESK	Messner, Kurt	Messner	Kurt	MESK	NA
+METP	Metele, Peter	Metele	Peter	METP	NA
+MEYG	Meyer, G.	Meyer	G.	MEYG	NA
+MF	Mamani M., Fabiana	Mamani M.	Fabiana	MF	NA
+MFC	Magogo, Frank Charles	Magogo	Frank Charles	MFC	NA
+MFM	Mbago, Frank M.	Mbago	Frank M.	MFM	NA
+MG	Mathieu, Guido	Mathieu	Guido	MG	NA
+MGA	Méndez Girón, Alonso	Méndez Girón	Alonso	MGA	NA
+MGN	Morillo, Gilberto N.	Morillo	Gilberto N.	MGN	NA
+MGT	Mwiga, G. T.	Mwiga	G. T.	MGT	NA
+MGV	Mbilinyi, G. V.	Mbilinyi	G. V.	MGV	NA
+MH	Mnendendo, Hamidu	Mnendendo	Hamidu	MH	NA
+MHL	McMillen, H. L.	McMillen	H. L.	MHL	NA
+MNH	MANJAKAHERY	Manjakahery	Herisoa Nantena	MNH	NA
+MNH	MANJAKAHERY, *	Manjakahery	Herisoa Nantena	MNH	NA
+MNH	Manjakahery, Herisoa N.	Manjakahery	Herisoa Nantena	MNH	NA
+MNH	Manjakahery, Herisoa Nantena	Manjakahery	Herisoa Nantena	MNH	NA
+MIC	Miandrimanana, Cyprien	Miandrimanana	Cyprien	MIC	NA
+MJ	Belgrano, Manuel Joaquín	Belgrano	Manuel Joaquín	MJ	NA
+MJA	Meave, Jorge Arturo	Meave	Jorge Arturo	MJA	NA
+MJC	Murillo Aldana, José Carmelo	Murillo Aldana	José Carmelo	MJC	NA
+MJE	Meireles, José Eduardo	Meireles	José Eduardo	MJE	NA
+MJF	Maxwell, James F.	Maxwell	James F.	MJF	NA
+MJK	Morton, John Kenneth	Morton	John Kenneth	MJK	NA
+MJM	MacDougal, John Mochrie	MacDougal	John Mochrie	MJM	NA
+MRJ	Monja, José Rakotomahafaly	Monja	José Rakotomahafaly	MRJ	NA
+MK	Keraudren, Monique	Keraudren	Monique	MK	NA
+MKE	Medley, Kimberley E.	Medley	Kimberley E.	MKE	NA
+MKL	Martínez Sequeira, Kattia Lorena	Martínez Sequeira	Kattia Lorena	MKL	NA
+MLA	Mroginski, L. A.	Mroginski	L. A.	MLA	NA
+MLB	Mwasumbi, Leonard Beluke	Mwasumbi	Leonard Beluke	MLB	NA
+MLF	Menéndez L., F.	Menéndez L.	F.	MLF	NA
+MM	Moeller, Michael	Moeller	Michael	MM	NA
+MMA	Magaña A., M. A.	Magaña A.	M. A.	MMA	NA
+MMC	Merello, Mary Christine	Merello	Mary Christine	MMC	NA
+MME	Múlgura, María Ema	Múlgura	María Ema	MME	NA
+MMJ	Macía, Manuel J.	Macía	Manuel J.	MMJ	NA
+MMM	Martínez Meléndez, Manuel	Martínez Meléndez	Manuel	MMM	NA
+MMR	Madiomanana, Mintina Roberta Cathy	Madiomanana	Mintina Roberta Cathy	MMR	NA
+MN	Chase, Mary  (née Merrill) Agnes	Chase	Mary  (née Merrill) Agnes	MN	NA
+MNA	Mwangulango, Nathan A.	Mwangulango	Nathan A.	MNA	NA
+MNJ	Melo, Néstor J.	Melo	Néstor J.	MNJ	NA
+MNV	Manjato, Nadiah Vololomboahangy	Manjato	Nadiah Vololomboahangy	MNV	NA
+MO	Marulanda, Orlando	Marulanda	Orlando	MO	NA
+MOCA	Mocquerys, Albert	Mocquerys	Albert	MOCA	NA
+MOCB	Mostacedo C., Bonifacio	Mostacedo C.	Bonifacio	MOCB	NA
+MOG	Marín Ojeda, Griselda	Marín Ojeda	Griselda	MOG	NA
+MOLN	Mollel, Neduvoto	Mollel	Neduvoto	MOLN	NA
+MOMA	Monteagudo Mendoza, Abel	Monteagudo Mendoza	Abel	MOMA	NA
+MOMJ	Mouandza Mbembo, Jean-Claude	Mouandza Mbembo	Jean-Claude	MOMJ	NA
+MON	Morrone, Osvaldo N.	Morrone	Osvaldo N.	MON	NA
+MOPP	Moreno, Pedro Pablo	Moreno	Pedro Pablo	MOPP	NA
+MOUA	Moungazi, Augustin	Moungazi	Augustin	MOUA	NA
+MP	Peltier, Maurice	Peltier	Maurice	MP	NA
+MPI	Moreno Casasola, Patricia I.	Moreno Casasola	Patricia I.	MPI	NA
+MPL	Moraes, Pedro Luís Rodrigues de	Moraes	Pedro Luís Rodrigues de	MPL	NA
+MPP	Maas, Paulus (Paul) Johannes Maria	Maas	Paulus (Paul) Johannes Maria	MPP	NA
+MQD	MacQueen, Duncan J.	MacQueen	Duncan J.	MQD	NA
+MQJ	Morales Quirós, Juan Francisco	Morales Quirós	Juan Francisco	MQJ	NA
+MR	Martial	Martial	Martial	MR	NA
+MRA	Marshall, Andrew R.	Marshall	Andrew R.	MRA	NA
+MRC	Martínez Ramírez, Cipriano	Martínez Ramírez	Cipriano	MRC	NA
+MJR	Martínez, José Rómulo	Martínez	José Rómulo	MJR	NA
+MRJA	Molina Rosito, José Antonio	Molina Rosito	José Antonio	MRJA	NA
+MRZ	Razafindrakotosoa, Miora	Razafindrakotosoa	Miora	MRZ	NA
+MS	Scharmann, Mathias	Scharmann	Mathias	MS	NA
+MSA	Mori, Scott Alan	Mori	Scott Alan	MSA	NA
+MSE	Martínez Salas, Esteban Manuel	Martínez Salas	Esteban Manuel	MSE	NA
+MSJ	Monterrosa Salomón, Jorge Alberto	Monterrosa Salomón	Jorge Alberto	MSJ	NA
+MSL	Masinkery, Laihandroy	Masinkery	Laihandroy	MSL	NA
+MT	Thulin, Mats Ingmar	Thulin	Mats Ingmar	MT	NA
+MTB	Miranda Gonzáles, Tatiana Bladenka	Miranda Gonzáles	Tatiana Bladenka	MTB	NA
+MTD	McDowell, Timothy Don	McDowell	Timothy Don	MTD	NA
+MTS	McDaniel, Sidney Thomas	McDaniel	Sidney Thomas	MTS	NA
+MTUR	MTURI, *	MTURI	NA	MTUR	NA
+MU	Ursch, M	Ursch	M	MU	NA
+MV	Maruñak, Victor	Maruñak	Victor	MV	NA
+MVD	Mansano, Vidal de Freitas	Mansano	Vidal de Freitas	MVD	NA
+MVM	Martínez, Victor Manuel	Martínez	Victor Manuel	MVM	NA
+MW	Meijer, Willem	Meijer	Willem	MW	NA
+MWR	Maxon, William Ralph	Maxon	William Ralph	MWR	NA
+MYE	Mexia, Ynés Enriquetta Julietta	Mexia	Ynés Enriquetta Julietta	MYE	NA
+N	ARMAND, *	ARMAND	NA	N	NA
+NA	Noblick, Larry	Noblick	Larry	NA	NA
+NACW	Nachamba, W.	Nachamba	W.	NACW	NA
+NAT	Ramanantenasoa, Nantenaina	Ramanantenasoa	Nantenaina	NAT	NA
+NB	Nieto Ariza, Beatriz	Nieto Ariza	Beatriz	NB	NA
+NBT	Nimba Botanical Team	Nimba Botanical Team	NA	NBT	NA
+NCH	Nelson, Cyril Hardy	Nelson	Cyril Hardy	NCH	NA
+ND	Dumetz, Nicolas	Dumetz	Nicolas	ND	NA
+NDA	Neill, David Alan	Neill	David Alan	NDA	NA
+NDH	Nicolson, Dan Henry	Nicolson	Dan Henry	NDH	NA
+NE	Njau, E.	Njau	E.	NE	NA
+NEB	Nelson, E. Bruce	Nelson	E. Bruce	NEB	NA
+NEC	Ngagnia, Eddy Clerc	Ngagnia	Eddy Clerc	NEC	NA
+NFI	Nek, F. Ivan van	Nek	F. Ivan van	NFI	NA
+NGUD	Nguema, Diosdado	Nguema	Diosdado	NGUD	NA
+NH	Helme, Nick	Helme	Nick	NH	NA
+NJO	Ndege, John Otieno	Ndege	John Otieno	NJO	NA
+NLA	Novelo Retana, Luis Alejandro	Novelo Retana	Luis Alejandro	NLA	NA
+NLP	Nusbaumer, Louis Paul Gustave Alvin	Nusbaumer	Louis Paul Gustave Alvin	NLP	NA
+NM	Messmer, N.	Messmer	Nathalie	NM	NA
+NM	Messmer, Nathalie	Messmer	Nathalie	NM	NA
+NMF	Nicoll, Marion F.	Nicoll	Marion F.	NMF	NA
+NMH	Nee, Michael H.	Nee	Michael H.	NMH	NA
+NMR	Rajaonarivelo, Njaranirina Mickael	Rajaonarivelo	Njaranirina Mickael	NMR	NA
+NN	NOBREGA, *	NOBREGA	NA	NN	NA
+NOC	Nascimento, O. C. do	Nascimento	O. C. do	NOC	NA
+NORR	NORRIS, *	NORRIS	NA	NORR	NA
+NP	Núñez Vargas, Percy	Núñez Vargas	Percy	NP	NA
+NR	Noyes, Richard [Rick] David	Noyes	Richard [Rick] David	NR	NA
+NRD	Ramahefamanana, Narindra Mbolasoa	Ramahefamanana	Narindra Mbolasoa	NRD	NA
+NRN	Niangadouma, Raoul N.	Niangadouma	Raoul N.	NRN	NA
+NSN	Núñez S., Santiago	Núñez S.	Santiago	NSN	NA
+NSR	Rasoanaivo, N.S.	Rasoanaivo	Niry	NSR	NA
+NSR	Rasoanaivo, Niry	Rasoanaivo	Niry	NSR	NA
+NTH	Nguyên, Tiên Hiêp	Nguyên	Tiên Hiêp	NTH	NA
+NV	Vasey, N.	Vasey	N.	NV	NA
+NW	Wilding, Nicholas	Wilding	Nicholas	NW	NA
+NYAM	Nyange, M.	Nyange	M.	NYAM	NA
+NZM	Nombanjanahary, Zoherinjina Minosoa	Nombanjanahary	Zoherinjina Minosoa	NZM	NA
+O	Handro, Oswaldo	Handro	Oswaldo	O	NA
+OA	Andrianantoanina, Olivier	Andrianantoanina	Olivier	OA	NA
+OAS	Oersted, Anders Sandøe	Oersted	Anders Sandøe	OAS	NA
+OB	Øllgaard, Benjamin	Øllgaard	Benjamin	OB	NA
+OCCP	Occhioni, Pedro	Occhioni	Pedro	OCCP	NA
+OCR	Orcutt, Charles Russell	Orcutt	Charles Russell	OCR	NA
+OD	OVERDORFF, *	Overdorff	D.	OD	NA
+OD	Overdorff, D.	Overdorff	D.	OD	NA
+OF	Ortiz, Felícito	Ortiz	Felícito	OF	NA
+OGE	Onjalalaina, Guy E.	Onjalalaina	Guy E.	OGE	NA
+OJI	Otero Jañez, José Idilio	Otero Jañez	José Idilio	OJI	NA
+OKAR	RAKOTONIAINA, *	RAKOTONIAINA	NA	OKAR	NA
+OKTA	OKTAN	OKTAN	NA	OKTA	NA
+OM	Maurin, Olivier	Maurin	Olivier	OM	NA
+OMT	Ordonez, M. T.	Ordonez	M. T.	OMT	NA
+ON	Ortega, *	Ortega	NA	ON	NA
+OP	Poncy, Odile	Poncy	Odile	OP	NA
+OPA	Opler, Paul Alexander	Opler	Paul Alexander	OPA	NA
+OR	Oliveira, Rosa	Oliveira	Rosa	OR	NA
+ORA	Oldeman, Roelof Arend Albert	Oldeman	Roelof Arend Albert	ORA	NA
+ORT	Ortíz, Rolando Tún	Ortíz	Rolando Tún	ORT	NA
+P	Basurto, Pablo	Basurto	Pablo	P	NA
+PA	Pervillé, Auguste	Pervillé	Auguste	PA	NA
+PAA	Pulle, August Adriaan	Pulle	August Adriaan	PAA	NA
+PAC	Persaud, A. C.	Persaud	A. C.	PAC	NA
+PAG	Peter, Gustav Albert	Peter	Gustav Albert	PAG	NA
+PAL	Peixoto, Ariane Luna	Peixoto	Ariane Luna	PAL	NA
+PAS	Poma Chura, Abraham Salomon	Poma Chura	Abraham Salomon	PAS	NA
+PB	Peguero, Brígido	Peguero	Brígido	PB	NA
+PBA	Pereira, B. A. S.	Pereira	B. A. S.	PBA	NA
+PBE	Pettersson, Börge Erik	Pettersson	Börge Erik	PBE	NA
+PBP	Phillipson, Peter B.	Phillipson	Peter B.	PBP	NA
+PC	Campenon, Pierre	Campenon	Pierre	PC	NA
+PCG	Pringle, Cyrus Guernsey	Pringle	Cyrus Guernsey	PCG	NA
+PCK	Purpus, Carl (Karl) Albert	Purpus	Carl (Karl) Albert	PCK	NA
+PCL	Pollard, Charles Louis	Pollard	Charles Louis	PCL	NA
+PD	Price, D.	Price	D.	PD	NA
+PDA	Pires da Silveira, A. L.	Pires da Silveira	A. L.	PDA	NA
+PDB	Pickel, D. Bento	Pickel	D. Bento	PDB	NA
+PDE	Puleston, Dennis E.	Puleston	Dennis E.	PDE	NA
+PE	Palmer, Edward	Palmer	Edward	PE	NA
+PERA	Perry, Alan	Perry	Alan	PERA	NA
+PERE	Pereira, *	Pereira	NA	PERE	NA
+PERJ	Perea, Juan	Perea	Juan	PERJ	NA
+PERM	Pérez, M.	Pérez	M.	PERM	NA
+PERR	Pérez, R.	Pérez	R.	PERR	NA
+PG	Paz y Miño C., Guillermo	Paz y Miño C.	Guillermo	PG	NA
+PGA	Parada-Gutierrez, Germaine Alexander	Parada-Gutierrez	Germaine Alexander	PGA	NA
+PGI	Prance, Ghillean (Iain) Tolmie	Prance	Ghillean (Iain) Tolmie	PGI	NA
+PGM	Plunkett, Gregory Michael	Plunkett	Gregory Michael	PGM	NA
+PGR	Proctor, *	Proctor	NA	PGR	NA
+PGR	Proctor, George Richardson	Proctor	George Richardson	PGR	NA
+PHE	Pittier, Henri (Enrique, Henry) François	Pittier	Henri (Enrique	PHE	NA
+PI	Parmentier, Ingrid	Parmentier	Ingrid	PI	NA
+PICC	Pichon, C.	Pichon	C.	PICC	NA
+PINA	PINATE, *	PINATE	NA	PINA	NA
+PJ	Rakotomalaza, Pierre Jules	Rakotomalaza	Pierre Jules "Coca"	PJ	NA
+PJ	Rakotomalaza, Pierre Jules "Coca"	Rakotomalaza	Pierre Jules "Coca"	PJ	NA
+PJB	Pohl, Johann Baptist Emanuel	Pohl	Johann Baptist Emanuel	PJB	NA
+PJF	Pruski, John Francis	Pruski	John Francis	PJF	NA
+PJJ	Pipoly, John James,  III	Pipoly	John James	PJJ	NA
+PJM	Poole, Jackie M.	Poole	Jackie M.	PJM	NA
+PJR	Pirani, José Rubens	Pirani	José Rubens	PJR	NA
+PK	Khant, Po	Khant	Po	PK	NA
+PL	Pérez de Molas, Lidia	Pérez de Molas	Lidia	PL	NA
+PLJ	Poveda Álvarez, Luis Jorge	Poveda Álvarez	Luis Jorge	PLJ	NA
+PM	Morat, Philippe	Morat	Philippe	PM	NA
+PME	Pérez, Mervin E.	Pérez	Mervin E.	PME	NA
+PMR	Pace, Marcelo Rodrigo	Pace	Marcelo Rodrigo	PMR	NA
+PN	Paredes, *	Paredes	NA	PN	NA
+PNC	Pitman, Nigel C. A.	Pitman	Nigel C. A.	PNC	NA
+PNY	Paniagua Zambrana, Narel Yaroslava	Paniagua Zambrana	Narel Yaroslava	PNY	NA
+PO	Pascal, O.	Pascal	O.	PO	NA
+POL	Phillips, Oliver L.	Phillips	Oliver L.	POL	NA
+POUS	Poulain, Simon	Poulain	Simon	POUS	NA
+PP	Poilecot, Pierre	Poilecot	Pierre	PP	NA
+PPL	Lowry, Pete	Lowry	Porter Prescott II	PPL	NA
+PPL	Lowry, Porter Prescott	Lowry	Porter Prescott II	PPL	NA
+PPL	Lowry, Porter Prescott II	Lowry	Porter Prescott II	PPL	NA
+PPL	Lowry, Porter Prescott,  II	Lowry	Porter Prescott II	PPL	NA
+PPM	Peterson, Paul M.	Peterson	Paul M.	PPM	NA
+PR	Ranirison, Patrick	Ranirison	Patrick	PR	NA
+PRIA	Prieto, Adriana	Prieto	Adriana	PRIA	NA
+PRM	Polhill, Roger Marcus	Polhill	Roger Marcus	PRM	NA
+PROJ	Procter, John	Procter	John	PROJ	NA
+PS	Pap, S.	Pap	S.	PS	NA
+PTC	Plowman, Timothy Charles	Plowman	Timothy Charles	PTC	NA
+PTM	Pedersen, Troels Myndel	Pedersen	Troels Myndel	PTM	NA
+PUY	Du Puy, David J.	Du Puy	David Jean	PUY	NA
+PUY	Du Puy, David Jean	Du Puy	David Jean	PUY	NA
+PWA	Palacios Cuenca, Walter Armando	Palacios Cuenca	Walter Armando	PWA	NA
+QFA	Quesada Quesada, Freddy Antonio	Quesada Quesada	Freddy Antonio	QFA	NA
+QFJ	Quesada Quesada, Francisco Javier	Quesada Quesada	Francisco Javier	QFJ	NA
+QHJ	Quero Rico, Hermilo Jorge Ramón	Quero Rico	Hermilo Jorge Ramón	QHJ	NA
+QJB	Quezada Bonilla, José Benito	Quezada Bonilla	José Benito	QJB	NA
+QJM	Quisbert Quispe, Javier Martín	Quisbert Quispe	Javier Martín	QJM	NA
+QLM	Quiñones, Luz Mila	Quiñones	Luz Mila	QLM	NA
+QRC	Quevedo Sopepí, Roberto Carlos	Quevedo Sopepí	Roberto Carlos	QRC	NA
+R	RABEVOHITRA	Rabevohitra	Raymond	R	NA
+R	RABEVOHITRA, *	Rabevohitra	Raymond	R	NA
+R	Rabevohitra, Raymond	Rabevohitra	Raymond	R	NA
+RA	Randrianasolo, Armand	Randrianasolo	Armand	RA	"RA" in MBG database, but conflict with "AR"=Annick Razafintsalama
+RAB	Rabearivony, Dimbilala Aina	Rabearivony	Dimbilala Aina Nomenjanahary	RAB	NA
+RAB	Rabearivony, Dimbilala Aina Nomenjanahary	Rabearivony	Dimbilala Aina Nomenjanahary	RAB	NA
+RAD	Rabehevitra, David	Rabehevitra	David	RAD	NA
+RAF	Rakotoarisoa, Fenonirina	Rakotoarisoa	Fenonirina	RAF	NA
+RAG	Rakotonirina, Arsène Giovanni	Rakotonirina	Arsène Giovanni	RAG	NA
+RAHJ	Rahantamalala, Josette	Rahantamalala	Josette	RAHJ	NA
+RAJ	Randriatahina, James	Randriatahina	James	RAJ	NA
+RAL	Ravelomalala, Lucia	Ravelomalala	Lucia Stefanie	RAL	NA
+RAL	Ravelomalala, Lucia S.	Ravelomalala	Lucia Stefanie	RAL	NA
+RAL	Ravelomalala, Lucia Stefanie	Ravelomalala	Lucia Stefanie	RAL	NA
+RAM	Razafimalala, Andrée Anne Marie	Razafimalala	Andrée Anne Marie	RAM	NA
+RAMB	Rambo, Balduino	Rambo	Balduino	RAMB	NA
+RAMH	Ramamonjisoa, H.	Ramamonjisoa	H.	RAMH	NA
+RAML	Ramon, Laurence	Ramon	Laurence	RAML	NA
+RAN	Rosa, Nelson A.	Rosa	Nelson A.	RAN	NA
+RANA	RANAIVOJAONA, *	RANAIVOJAONA	NA	RANA	NA
+RANF	Randriatafika, Faly	Randriatafika	Faly	RANF	NA
+RANT	Randriamboavonjy, Tianjanahary	Randriamboavonjy	Tianjanahary	RANT	NA
+RAR	Rakotozafy, Armand	Rakotozafy	Armand	RAR	NA
+RAS	Robertson (Chambers), Sylvia Ann	Robertson (Chambers)	Sylvia Ann	RAS	NA
+RATG	Ratovonirina, Gaetan	Ratovonirina	Gaetan	RATG	NA
+RAV	Ravaoherinavalona, Rota	Ravaoherinavalona	Rota	RAV	NA
+RB	Ramamonjiarisoa, Bakolimalala	Ramamonjiarisoa	Bakolimalala	RB	NA
+RBB	Randriamampionona, Bébéronn	Randriamampionona	Bébéronn	RBB	NA
+RBC	Razafindrazaka, Barthelemi	Razafindrazaka	Barthelemi	RBC	NA
+RBE	Bernard, Roger	Bernard	Roger	RBE	NA
+RBM	Ralaijaona, Benjamina	Ralaijaona	Benjamina	RBM	NA
+RBO	Rakotonindriana, Bruno	Rakotonindriana	Bruno	RBO	NA
+RBR	Ramandimbisoa, Brigitte	Ramandimbisoa	Brigitte	RBR	NA
+RBV	Rabelo, Benedito V.	Rabelo	Benedito V.	RBV	NA
+RC	Richard, (Jean Michel) Claude	Richard	Jean Michel Claude	RC	NA
+RC	Richard, Jean Michel Claude	Richard	Jean Michel Claude	RC	NA
+RCA	Reynel Rodríguez, Carlos Augusto	Reynel Rodríguez	Carlos Augusto	RCA	NA
+RCC	Raunkiaer, Christen Christiansen	Raunkiaer	Christen Christiansen	RCC	NA
+RCE	Ridsdale, Colin Ernest	Ridsdale	Colin Ernest	RCE	NA
+RCH	Randimbiarison, C. H.	Randimbiarison	C. H.	RCH	NA
+RCJ	Revilla Cardenas, Juan	Revilla Cardenas	Juan	RCJ	NA
+RCN	Rado Claudio, Nandrasana	Rado Claudio	Nandrasana	RCN	NA
+RCP	Ramírez C., P.	Ramírez C.	P.	RCP	NA
+RCR	Ramírez Catauga, Ramón	Ramírez Catauga	Ramón	RCR	NA
+RCS	Randrianarivelo, Clairemont	Randrianarivelo	Clairemont	RCS	NA
+RCT	Rizzini, Carlos Toledo	Rizzini	Carlos Toledo	RCT	NA
+RD	Ravelonarivo, Désiré	Ravelonarivo	Désiré	RD	NA
+RDD	Rodríguez Delcid, Dagoberto	Rodríguez Delcid	Dagoberto	RDD	NA
+RDG	Randriamahazomanana, Daniel George	Randriamahazomanana	Daniel George	RDG	NA
+RDN	Ravelomanantsoa, D.	Ravelomanantsoa	D.	RDN	NA
+RDN	Ravelomanantsoa, Daniel	Ravelomanantsoa	Daniel	RDN	NA
+RE	Rentería Arriaga, Enrique	Rentería Arriaga	Enrique	RE	NA
+RED	Ramisy, Edmond	Ramisy	Edmond	RED	NA
+REH	Razanatsoa, Hélène	Razanatsoa	Hélène	REH	NA
+RER	Raharijaona, Era Riana	Raharijaona	Era Riana	RER	NA
+REYA	Reyes-García, Alberto	Reyes-García	Alberto	REYA	NA
+RF	Rasoavimbahoaka, Fanjanavalona	Rasoavimbahoaka	Fanjanavalona	RF	NA
+RFA	Ratovoson, Fidisoa	Ratovoson	Fidisoa "Fidy"	RFA	NA
+RFA	Ratovoson, Fidisoa "Fidy"	Ratovoson	Fidisoa "Fidy"	RFA	NA
+RFF	Rasoavimbahoaka, Fanjanavalona "Fanja"	Rasoavimbahoaka	Fanjanavalona "Fanja"	RFF	NA
+RFJ	Roldán, Francisco Javier	Roldán	Francisco Javier	RFJ	NA
+RFM	Randriatsivery, Floria Monique	Randriatsivery	Monique Fleuria	RFM	NA
+RFM	Randriatsivery, Monique Fleuria	Randriatsivery	Monique Fleuria	RFM	NA
+RFN	Ramanitrinizaka, Fanilo Malala	Ramanitrinizaka	Fanilo	RFN	NA
+RFN	Ramanitrinizaka, Fanilo	Ramanitrinizaka	Fanilo	RFN	NA
+RFY	Razafindrakoto, Fanjambola Yolande	Razafindrakoto	Fanjambola Yolande	RFY	NA
+RFY	Razafindrakoto, Yolanda Fanjambola	Razafindrakoto	Yolanda Fanjambola	RFY	NA
+RG	Geesink, Robert	Geesink	Robert	RG	NA
+RGA	Rodríguez González, Alexánder Francisco	Rodríguez González	Alexánder Francisco	RGA	NA
+RGM	RAHAJASOA, *	Rahajasoa	Grâce Monique	RGM	NA
+RGM	Rahajasoa, Grace Monique	Rahajasoa	Grâce Monique	RGM	NA
+RGM	Rahajasoa, Grâce Monique	Rahajasoa	Grâce Monique	RGM	NA
+RGR	Rojas Gonzáles, Rocío del Pilar	Rojas Gonzáles	Rocío del Pilar	RGR	NA
+RHZ	Razafimandimby, H.	Razafimandimby	H.	RHZ	NA
+RHA	Rasolohery, Andriambolantsoa	Rasolohery	Andriambolantsoa	RHA	NA
+RHF	Razafimelison, Herivola Fenitriniela	Razafimelison	Herivola Fenitriniela	RHF	NA
+RHH	Rusby, Henry Hurd	Rusby	Henry Hurd	RHH	NA
+RHJ	Rasoazanany, Haingo Marie Judith	Rasoazanany	Haingo Marie Judith	RHJ	NA
+RHM	Ramanambohitra, Herinambinina Navalona	Ramanambohitra	Herinambinina Navalona	RHM	NA
+RHM	Ramanambohitra, Navalona Herinambinina	Ramanambohitra	Herinambinina Navalona	RHM	NA
+RHN	Ravololonanahary, Hantanirina	Ravololonanahary	Hantanirina	RHN	NA
+RHS	Ratsaralaza, Herisitraka	Ratsaralaza	Herisitraka	RHS	NA
+RHT	Rasatatsihoarana, Thierry	Rasatatsihoarana	Thierry H.F.	RHT	NA
+RHT	Rasatatsihoarana, Thierry H.F.	Rasatatsihoarana	Thierry H.F.	RHT	NA
+RHV	Razafindraibe, Hanta	Razafindraibe	Hanta	RHV	NA
+RIEL	Riedel, Ludwig	Riedel	Ludwig	RIEL	NA
+RIR	Randrianaivo, Richard	Randrianaivo	Richard	RIR	NA
+RIVR	Rivero, Raúl	Rivero	Raúl	RIVR	NA
+RJ	Roilahy, Justin	Roilahy	Justin	RJ	NA
+RJA	Ramahenina, Joharintsoa Aina	Ramahenina	Joharintsoa Aina	RJA	NA
+RJB	Razafindrabe, Jean-Baptiste	Razafindrabe	Jean-Baptiste	RJB	NA
+RJH	Ramahefarison, Jacquis Harimbolasoa	Ramahefarison	Jacquis Harimbolasoa	RJH	NA
+RJL	Randriamanarivo, Juliette	Randriamanarivo	Juliette	RJL	NA
+RJO	RABENANTOANDRO, *	Rabenantoandro	Johny	RJO	NA
+RJO	Rabenantoandro, Johny	Rabenantoandro	Johny	RJO	NA
+RJQ	Razanatsoa, Jacqueline	Razanatsoa	Jacqueline	RJQ	NA
+RJS	Rajaonary, Stanislas	Rajaonary	Stanislas	RJS	NA
+RJU	Rabe, Justin	Rabe	Justin	RJU	NA
+RJV	Roberson, Jean Victor	Roberson	Jean Victor	RJV	NA
+RK	Redden, Karen M.	Redden	Karen M.	RK	NA
+RKM	Rabekoloina, Manohisoa	Rabekoloina	Manohisoa	RKM	NA
+RKN	Rakotoarivelo, Nivo H.	Rakotoarivelo	Nivo Hariniaina	RKN	NA
+RKN	Rakotoarivelo, Nivo Hariniaina	Rakotoarivelo	Nivo Hariniaina	RKN	NA
+RKR	Robertson, Kenneth R.	Robertson	Kenneth R.	RKR	NA
+RL	Rakotomalala, Liva	Rakotomalala	Liva	RL	NA
+RLA	Rudas Lleras, Agustin	Rudas Lleras	Agustin	RLA	NA
+RLC	Raholivelo, Liliane Christine	Raholivelo	Liliane Christine	RLC	NA
+RLG	Rakotondranony, L. G.	Rakotondranony	L. G.	RLG	NA
+RLI	Ralimanana, Hélène	Ralimanana	Hélène	RLI	NA
+RLL	Rakotondrafara, Andriamalala	Rakotondrafara	Andriamalala	RLL	NA
+RLM	Randrianjanaka, Lucien Marson	Randrianjanaka	Lucien Marson	RLM	NA
+RLP	Rasoamanana, Lalaina P.	Rasoamanana	Lalaina Patricia	RLP	NA
+RLP	Rasoamanana, Lalaina Patricia	Rasoamanana	Lalaina Patricia	RLP	NA
+RM	Harley, Raymond Mervyn	Harley	Raymond Mervyn	RM	NA
+RMA	Renderos, Miguel A.	Renderos	Miguel A.	RMA	NA
+RMD	Reyes Enríquez, María de los Ángeles	Reyes Enríquez	María de los Ángeles	RMD	NA
+RMF	Ramanakoto, Miora Falimiarana	Ramanakoto	Miora Falimiarana	RMF	NA
+RMF	Ramanakoto, Miora M.	Ramanakoto	Miora Falimiarana	RMF	same as Miora Falimiarana?
+RMH	Rasoafaranaivo, Margianne H.	Rasoafaranaivo	Margianne Hariline	RMH	NA
+RMH	Rasoafaranaivo, Margianne Hariline	Rasoafaranaivo	Margianne Hariline	RMH	NA
+RMJ	Reitsma, J. M.	Reitsma	J. M.	RMJ	NA
+RML	Rabarivola, Linah M.	Rabarivola	Linah M.	RML	NA
+RMN	Razafindraibe, Mendrika Nambinintsoa	Razafindraibe	Mendrika Nambinintsoa	RMN	NA
+RMN	Razafindraibe, Nambinintsoa Mendrika	Razafindraibe	Nambinintsoa Mendrika	RMN	NA
+RMO	Randrianjanahary, Miramasoandro Onitiana	Randrianjanahary	Miramasoandro Onitiana	RMO	NA
+RMS	Rasoanindriana, Harisandy Mahenintsoa	Rasoanindriana	Mahenintsoa Harisandy	RMS	NA
+RMS	Rasoanindriana, Mahenintsoa Harisandy	Rasoanindriana	Mahenintsoa Harisandy	RMS	NA
+RN	RESERVE NATURELLE, *	Réserves Naturelles Madagascar	Réserves Naturelles Madagascar	RN	NA
+RN	Reserves Naturelles [collection series]	Réserves Naturelles Madagascar	Réserves Naturelles Madagascar	RN	NA
+RN	Réserves Naturelles Madagascar	Réserves Naturelles Madagascar	Réserves Naturelles Madagascar	RN	NA
+RN	RESERVES NATURELLES, *	Réserves Naturelles Madagascar	Réserves Naturelles Madagascar	RN	NA
+RNA	Razafimamonjy, Nivo ALisoa	Razafimamonjy	Nivo Alisoa	RNA	NA
+RNA	Razafimamonjy, Nivo Alisoa	Razafimamonjy	Nivo Alisoa	RNA	NA
+RNF	Rakotonasolo, Franck	Rakotonasolo	Franck	RNF	NA
+RNH	Rakotonirina, Nivohenintsoa	Rakotonirina	Nivohenintsoa	RNH	NA
+RNJ	Rafanomezantsoa, Norlin Jean Odoris	Rafanomezantsoa	Norlin Jean Odoris	RNJ	NA
+RNP	Ritter, Nur P.	Ritter	Nur P.	RNP	NA
+RNR	Rabesandratana, Rachel N.	Rabesandratana	Rachel N.	RNR	NA
+RNT	Ranaivoson, N. T.	Ranaivoson	N. T.	RNT	NA
+RO	Omlor, Ralf	Omlor	Ralf	RO	NA
+ROC	Randriambololomamonjy, Ornella C.	Randriambololomamonjy	Ornella Christine	ROC	NA
+ROC	Randriambololomamonjy, Ornella Christine	Randriambololomamonjy	Ornella Christine	ROC	NA
+ROCH	Rocha, *	Rocha	NA	ROCH	NA
+ROCR	Romero Castañeda, Rafael	Romero Castañeda	Rafael	ROCR	NA
+RODA	RODAL, *	RODAL	NA	RODA	NA
+RODR	RODRÍGUEZ, *	RODRÍGUEZ	NA	RODR	NA
+ROGA	Romero-González, Gustavo Adolfo	Romero-González	Gustavo Adolfo	ROGA	NA
+ROH	Razafindratsima, Onja H.	Razafindratsima	Onja H.	ROH	NA
+ROJM	Rosales, José Manuel	Rosales	José Manuel	ROJM	NA
+ROJT	Rojas, Teodoro	Rojas	Teodoro	ROJT	NA
+ROL	Rakotondrajaona, Roland	Rakotondrajaona	Roland	ROL	NA
+ROM	Rabarijaona, Narindra Romer	Rabarijaona	Narindra Romer	ROM	NA
+ROM	Rabarijaona, Romer	Rabarijaona	Narindra Romer	ROM	NA
+RON	Rafanomezantsoa, Odoris Norlin	Rafanomezantsoa	Odoris Norlin	RON	NA
+ROR	Ranaivojaona, Rolland	Ranaivojaona	Rolland	ROR	NA
+ROS	Ribas, Osmar dos Santos	Ribas	Osmar dos Santos	ROS	NA
+ROSJ	Rosales, Judith	Rosales	Judith	ROSJ	NA
+ROZ	Randimbison, Maherizo	Randimbison	Maherizo	ROZ	NA
+RP	Rakotonirina, Paul	Rakotonirina	Paul	RP	NA
+RPJ	Randria, Paul Joseph	Randria	Paul Joseph	RPJ	NA
+RPK	Rwaburindore, Protase Kasenene	Rwaburindore	Protase Kasenene	RPK	NA
+RPR	Reitz, Pe. Raulino	Reitz	Pe. Raulino	RPR	NA
+RR	Rakoto, Raphael	Rakoto	Raphael	RR	NA
+RRA	Rajoharison, R.	Rajoharison	Rivo	RRA	NA
+RRA	Rajoharison, Rivo	Rajoharison	Rivo	RRA	NA
+RRD	Robles González, Rafael de Jesús Ramón	Robles González	Rafael de Jesús Ramón	RRD	NA
+RRE	Randriamarosoa, Rémi	Randriamarosoa	Rémi	RRE	NA
+RRG	Ramison, Roger Georgensen	Ramison	Roger Georgensen	RRG	NA
+RRH	Ramananjanahary, Rondro	Ramananjanahary	Rondro Hanitrinitiana	RRH	NA
+RRH	Ramananjanahary, Rondro Hanitrinitiana	Ramananjanahary	Rondro Hanitrinitiana	RRH	NA
+RRI	Rajemisa, Richard	Rajemisa	Richard	RRI	NA
+RRM	Rueda, Ricardo M.	Rueda	Ricardo M.	RRM	NA
+RRN	Ramanantsialonina, Ravo Nantenaina	Ramanantsialonina	Ravo Nantenaina	RRN	NA
+RS	Rapanarivo, Solo	Rapanarivo	Solo Hery J.V.	RS	NA
+RS	Rapanarivo, Solo H.	Rapanarivo	Solo Hery J.V.	RS	NA
+RS	Rapanarivo, Solo Hery J.V.	Rapanarivo	Solo Hery J.V.	RS	NA
+RSA	Renvoize, Stephen Andrew	Renvoize	Stephen Andrew	RSA	NA
+RSC	Rosário, Carlos Silva	Rosário	Carlos Silva	RSC	NA
+RSD	Ramandimbimanana, S. D.	Ramandimbimanana	S. D.	RSD	NA
+RSE	Rakotoarisoa, Eric Solofo	Rakotoarisoa	Solofo Eric	RSE	NA
+RSE	Rakotoarisoa, Solofo Eric	Rakotoarisoa	Solofo Eric	RSE	NA
+RT	Ranarivelo, Tianjanahary	Ranarivelo	Tianjanahary	RT	NA
+RTF	Raveloson, Tolojanahary Felantsoa	Raveloson	Tolojanahary Felantsoa	RTF	NA
+RTH	Rakouth, Hasina Nomentsoa	Rakouth	Hasina Nomentsoa	RTH	NA
+RTN	Randriamiharisoa, Tolojanahary Nirina M.	Randriamiharisoa	Tolojanahary Nirina Maria	RTN	NA
+RTN	Randriamiharisoa, Tolojanahary Nirina Maria	Randriamiharisoa	Tolojanahary Nirina Maria	RTN	NA
+RTP	Ramamoorthy, Thennilapuram Parasuraman	Ramamoorthy	Thennilapuram Parasuraman	RTP	NA
+RTV	Rivoharison, Tahiry Victoria	Rivoharison	Tahiry Victoria	RTV	NA
+RUBH	Rubio, Hiram	Rubio	Hiram	RUBH	NA
+RV	Raharimalala, V.	Raharimalala	V.	RV	NA
+RVF	Ravelonahina, Harimisa	Ravelonahina	Harimisa	RVF	NA
+RVH	Ramírez Villalobos, Víctor Hugo	Ramírez Villalobos	Víctor Hugo	RVH	NA
+RVL	Rajaovelona, Landy	Rajaovelona	Landy	RVL	NA
+RVM	Rasolofoniaina, Vonimirana Mbolatiana	Rasolofoniaina	Vonimirana Mbolatiana	RVM	NA
+RVN	Ravololomanana, Noromalala	Ravololomanana	Noromalala	RVN	NA
+RVO	Andrianasolo, Rivoniony	Andrianasolo	Rivoniony	RVO	NA
+RVT	Razafindrahaja, Vololotahina	Razafindrahaja	Vololotahina	RVT	NA
+RWA	Rodrigues, William Antônio	Rodrigues	William Antônio	RWA	NA
+RYM	Rimachi Y., Manuel	Rimachi Y.	Manuel	RYM	NA
+RZ	Rulangaranga, Z. K.	Rulangaranga	Z. K.	RZ	NA
+RZA	Razanatsima, Aina	Razanatsima	Aina	RZA	NA
+RZC	Rakotonirina, Casmir	Rakotonirina	Casmir Zoly	RZC	NA
+RZC	Rakotonirina, Casmir Zoly	Rakotonirina	Casmir Zoly	RZC	NA
+RZD	Razafindramora, Dernah	Razafindramora	Dernah	RZD	NA
+RZEJ	Rzedowski, Jerzy	Rzedowski	Jerzy	RZEJ	NA
+RZK	Razakamalala, Richard	Razakamalala	Richardson	RZK	NA
+RZK	Razakamalala, Richardson	Razakamalala	Richardson	RZK	NA
+S	Castillo, Aníbal	Castillo	Aníbal	S	NA
+SA	Sallu, Albert Ntemi	Sallu	Albert Ntemi	SA	NA
+SAC	Sanders, Andrew C.	Sanders	Andrew C.	SAC	NA
+SACM	Sachs Museum	Sachs Museum	NA	SACM	NA
+SAF	Andrianarivelo, Sandratra Aina Fanantenana	Andrianarivelo	Sandratra Aina Fanantenana	SAF	NA
+SAJ	Silva, J. A.	Silva	J. A.	SAJ	NA
+SALJ	Salick, Jan	Salick	Jan	SALJ	NA
+SALP	Salzmann, Philipp	Salzmann	Philipp	SALP	NA
+SAN	Sandratriniaina, Andrianasolo Ninah	Sandratriniaina	Andrianasolo Ninah	SAN	NA
+SAN	Sandratriniaina, Ninah	Sandratriniaina	Andrianasolo Ninah	SAN	NA
+SANM	Sánchez, M.	Sánchez	M.	SANM	NA
+SAS	Silva, A. S.	Silva	A. S.	SAS	NA
+SB	Buerki, Sven	Buerki	Sven	SB	NA
+SBD	Schrire, Brian David	Schrire	Brian David	SBD	NA
+SBE	Exp., Sino-British	Sino-British Expedition	Sino-British Expedition	SBE	NA
+SBF	Federman, Sarah Beck	Federman	Sarah Beck	SBF	NA
+SC	Crameri, Simon	Crameri	Simon Flavio	SC	NA
+SC	Crameri, Simon Flavio	Crameri	Simon Flavio	SC	NA
+SCA	Schinini Cacace, Aurelio	Schinini Cacace	Aurelio	SCA	NA
+SCE	Solano Camacho, Eloy	Solano Camacho	Eloy	SCE	NA
+SCH	S.C., Hiremath,	Hiremath	S. C.	SCH	NA
+SCJ	Saldanha, Cecil John	Saldanha	Cecil John	SCJ	NA
+SCW	Steward, William C.	Steward	William C.	SCW	NA
+SD	Soza, Danilo	Soza	Danilo	SD	NA
+SDA	Sánchez S., Darío A.	Sánchez S.	Darío A.	SDA	NA
+SDB	SUCRE, *	Sucre	Benjamin Dimitri	SDB	NA
+SDB	Sucre, Benjamin Dimitri	Sucre	Benjamin Dimitri	SDB	NA
+SDD	Spellman, David (Dave) Leonard	Spellman	David (Dave) Leonard	SDD	NA
+SDE	Starry, D. E.	Starry	D. E.	SDE	NA
+SDF	Solano Peralta, Daniel Francisco	Solano Peralta	Daniel Francisco	SDF	NA
+SDN	Smith, David Nelson	Smith	David Nelson	SDN	NA
+SDS	Seigler, David Standley	Seigler	David Standley	SDS	NA
+SDW	Stevenson, Dennis William	Stevenson	Dennis William	SDW	NA
+SE	Sanoja, Elio	Sanoja	Elio	SE	NA
+SEA	Sandoval, Eliberto A.	Sandoval	Eliberto A.	SEA	NA
+SED	Stone, Donald Eugene	Stone	Donald Eugene	SED	NA
+SEIR	Seidel, Renate	Seidel	Renate	SEIR	NA
+SEL	Sette Silva, Edeleusa L.	Sette Silva	Edeleusa L.	SEL	NA
+SELF	Sellow, Friedrich	Sellow	Friedrich	SELF	NA
+SERA	Sermeño, A.	Sermeño	A.	SERA	NA
+SEWB	Sewall, Brent	Sewall	Brent	SEWB	NA
+SF	Service forestier [collection series]	Service Forestier Madagascar	Service Forestier Madagascar	SF	NA
+SF	Service Forestier de Madagascar	Service Forestier Madagascar	Service Forestier Madagascar	SF	NA
+SF	Service Forestier de Madagascar (Capuron)	Service Forestier Madagascar (Capuron)	Service Forestier Madagascar (Capuron)	SF	NA
+SF	Service Forestier Madagascar	Service Forestier Madagascar	Service Forestier Madagascar	SF	NA
+SF	Service Forestier Madagascar (Capuron)	Service Forestier Madagascar (Capuron)	Service Forestier Madagascar (Capuron)	SF	NA
+SF	Service Forestier Madagascar (Kiener)	Service Forestier Madagascar (Kiener)	Service Forestier Madagascar (Kiener)	SF	NA
+SF	SERVICE FORESTIER, *	Service Forestier Madagascar	Service Forestier Madagascar	SF	NA
+SF	Service Forestier, Kiener	Service Forestier Madagascar (Kiener)	Service Forestier Madagascar (Kiener)	SF	NA
+SFA	Skutch, Alexander Frank	Skutch	Alexander Frank	SFA	NA
+SFC	Seymour, Frank Conkling	Seymour	Frank Conkling	SFC	NA
+SFH	Sargent, Francis Hahn	Sargent	Francis Hahn	SFH	NA
+SFR	Andrianarivelo, Soafara	Andrianarivelo	Soafara Niaina	SFR	NA
+SFR	Andrianarivelo, Soafara Niaina	Andrianarivelo	Soafara Niaina	SFR	NA
+SFW	Sieber, Franz(e) Wilhelm	Sieber	Franz(e) Wilhelm	SFW	NA
+SG	Razafimandimbison, Sylvain Georges	Razafimandimbison	Sylvain Georges	SG	NA
+SGA	Sullivan, Gene A.	Sullivan	Gene A.	SGA	NA
+SGD	Santos, G. dos	Santos	G. dos	SGD	NA
+SGF	Scott Elliot, George Francis	Scott Elliot	George Francis	SGF	NA
+SGJ	Steinbach G., José	Steinbach G.	José	SGJ	NA
+SGL	Sobel, Gail L.	Sobel	Gail L.	SGL	NA
+SGM	Sangu, G. M.	Sangu	G. M.	SGM	NA
+SGP	Schultz, G. P.	Schultz	G. P.	SGP	NA
+SH	Hassold, Sonja	Hassold	Sonja	SH	HS
+SHE	Schlieben, Hans-Joachim Eberhard	Schlieben	Hans-Joachim Eberhard	SHE	NA
+SHH	Schmidt, Heidi Helga	Schmidt	Heidi Helga	SHH	NA
+SIEA	Sieder, Anton	Sieder	Anton	SIEA	NA
+SILV	Silva, *	Silva	NA	SILV	NA
+SIMB	Simmen, B.	Simmen	B.	SIMB	NA
+SIMP	Simá, Paulino	Simá	Paulino	SIMP	NA
+SJ	Solo, Justin	Solo	Justin	SJ	NA
+SJA	Shafer, John Adolph	Shafer	John Adolph	SJA	NA
+SJC	Sandino, Juan Carlos	Sandino	Juan Carlos	SJC	NA
+SJD	Snowden, Joseph Davenport	Snowden	Joseph Davenport	SJD	NA
+SJG	Saunders, Janice G.	Saunders	Janice G.	SJG	NA
+SJM	Silva, J. M.	Silva	J. M.	SJM	NA
+SJR	Stone, John Richard	Stone	John Richard	SJR	NA
+SJS	Strijk, J. S.	Strijk	J. S.	SJS	NA
+SL	Sánchez Acebo, Lupita	Sánchez Acebo	Lupita	SL	NA
+SLB	Smith, Lyman Bradford	Smith	Lyman Bradford	SLB	NA
+SLC	Stutz de Ortega, Lilian C.	Stutz de Ortega	Lilian C.	SLC	NA
+SM	Malcomber, Simon	Malcomber	Simon T.	SM	NA
+SM	Malcomber, Simon T.	Malcomber	Simon T.	SM	NA
+SMA	Sinaca Colín, Miguel Angel	Sinaca Colín	Miguel Angel	SMA	NA
+SMAC	Smith, Albert Charles	Smith	Albert Charles	SMAC	NA
+SME	Suclli Montañés, Efraín	Suclli Montañés	Efraín	SME	NA
+SMF	Silva, Manoela F. F. da	Silva	Manoela F. F. da	SMF	NA
+SMHH	Smith, Herbert Huntingdon	Smith	Herbert Huntingdon	SMHH	NA
+SMJ	Solís Magallanes, J. Arturo	Solís Magallanes	J. Arturo	SMJ	NA
+SMN	Sainge, Moses Nsanyi	Sainge	Moses Nsanyi	SMN	NA
+SN	SAJY, *	SAJY	NA	SN	NA
+SNGF	Silo National des Graines Forestières	Silo National des Graines Forestières	Silo National des Graines Forestières	SNGF	NA
+SNGF	SNGF	Silo National des Graines Forestières	Silo National des Graines Forestières	SNGF	NA
+SNJ	Soto Núñez, José Carmen	Soto Núñez	José Carmen	SNJ	NA
+SNS	Stevenson, Neil S.	Stevenson	Neil S.	SNS	NA
+SNT	Silva, Nilo T.	Silva	Nilo T.	SNT	NA
+SOAN	SOANARY, *	SOANARY	NA	SOAN	NA
+SOBR	SOBRINHO, *	SOBRINHO	NA	SOBR	NA
+SOD	Silveira Mello, Octavio da	Silveira Mello	Octavio da	SOD	NA
+SOE	Shattuck, Otis E.	Shattuck	Otis E.	SOE	NA
+SOLJ	Solomon, James	Solomon	James	SOLJ	NA
+SONB	Sonké, Bonaventure	Sonké	Bonaventure	SONB	NA
+SOTA	Soto, Ademar	Soto	Ademar	SOTA	NA
+SP	Saboureau, P.	Saboureau	P.	SP	NA
+SPC	Standley, Paul Carpenter	Standley	Paul Carpenter	SPC	NA
+SPE	Sintenis, Paul Ernst Emil	Sintenis	Paul Ernst Emil	SPE	NA
+SPG	SHCP, general project collector	SHCP	general project collector	SPG	NA
+SPM	Saldias Paz, Mario	Saldias Paz	Mario	SPM	NA
+SPR	Stevenson Diaz, Pablo Roberto	Stevenson Diaz	Pablo Roberto	SPR	NA
+SPRR	Spruce, Richard	Spruce	Richard	SPRR	NA
+SPT	Sano, Paulo Takeo	Sano	Paulo Takeo	SPT	NA
+SPW	Sweeney, Patrick W.	Sweeney	Patrick W.	SPW	NA
+SR	Schnell, Raymond Albert Alfred	Schnell	Raymond Albert Alfred	SR	NA
+SRA	Syde, Anthony Rémi	Syde	Rémi Anthony	SRA	NA
+SRA	Syde, Rémi Anthony	Syde	Rémi Anthony	SRA	NA
+SRF	Stier, Frances Rhoda	Stier	Frances Rhoda	SRF	NA
+SRJ	Schmalzel, Robert J.	Schmalzel	Robert J.	SRJ	NA
+SRN	Soria Rey, Nélida	Soria Rey	Nélida	SRN	NA
+SRP	Sauleda, Ruben Primitivo	Sauleda	Ruben Primitivo	SRP	NA
+SRR	Santos, R. Reis dos	Santos	R. Reis dos	SRR	NA
+SS	Soah, Shabani	Soah	Shabani	SS	NA
+SSC	Sant'Ana, Sérgio Cardoso de	Sant'Ana	Sérgio Cardoso de	SSC	NA
+SSM	Sousa Sánchez, Mario	Sousa Sánchez	Mario	SSM	NA
+SSR	Randrianasolo, Sennen Solofo	Randrianasolo	Sennen Solofo	SSR	NA
+ST	RAKOTONANDRASANA	Rakotonandrasana	Stéphan	ST	NA
+ST	RAKOTONANDRASANA, *	Rakotonandrasana	Stéphan	ST	NA
+ST	Rakotonandrasana, Stephan	Rakotonandrasana	Stéphan	ST	NA
+ST	Rakotonandrasana, Stéphan	Rakotonandrasana	Stéphan	ST	NA
+STB	Totozafy Be, S.	Totozafy Be	S.	STB	NA
+STEB	Stergios, Basil	Stergios	Basil	STEB	NA
+STIE	Stijfhoorn, Eirik	Stijfhoorn	Eirik	STIE	NA
+STJA	Steyermark, Julian Alfred	Steyermark	Julian Alfred	STJA	NA
+SV	Verlynde, Simon	Verlynde	Simon	SV	NA
+SVC	Souza, Vinicius Castro	Souza	Vinicius Castro	SVC	NA
+SVJ	Schunke Vigo, José	Schunke Vigo	José	SVJ	NA
+SW	Wohlhauser, Sébastien	Wohlhauser	Sébastien	SW	NA
+SWA	Schipp, William Augustus	Schipp	William Augustus	SWA	NA
+SWC	Shannon, William Cummings	Shannon	William Cummings	SWC	NA
+SWD	Stevens, Warren Douglas	Stevens	Warren Douglas	SWD	NA
+SWP	Schimper, Wilhelm Philipp	Schimper	Wilhelm Philipp	SWP	NA
+SWR	Stimson, William R.	Stimson	William R.	SWR	NA
+T	Deroin, Thierry	Deroin	Thierry	T	NA
+TA	Trevaskis, Alexander	Trevaskis	Alexander	TA	NA
+TAB	Randrianarivony, Tabita	Randrianarivony	Tabita	TAB	NA
+TAJ	Tahinarivony, A. J.	Tahinarivony	Andonahary Jacquis	TAJ	NA
+TAJ	Tahinarivony, Andonahary Jacquis	Tahinarivony	Andonahary Jacquis	TAJ	NA
+TAK	Townesmith, Andrew Keith	Townesmith	Andrew Keith	TAK	NA
+TAS	Ton, Alush Shilom	Ton	Alush Shilom	TAS	NA
+TB	Trujillo Figueroa, Baltasar	Trujillo Figueroa	Baltasar	TB	NA
+TCM	Taylor, Charlotte M.	Taylor	Charlotte M.	TCM	NA
+TDD	Tahirinirainy, Dinasoa Donné	Tahirinirainy	Dinasoa Donné	TDD	NA
+TDW	Thomas, Duncan W.	Thomas	Duncan W.	TDW	NA
+TEL	Tyson, Edwin L.	Tyson	Edwin L.	TEL	NA
+TELE	TELES, *	TELES	NA	TELE	NA
+TEXN	Texier, Nicolas	Texier	Nicolas	TEXN	NA
+TF	Tamayo, Francisco	Tamayo	Francisco	TF	NA
+TG	Tessmann, Günther	Tessmann	Günther	TG	NA
+TH	Haevermans, Thomas	Haevermans	Thomas	TH	NA
+THOM	Thomas, *	Thomas	NA	THOM	NA
+TINH	Tinguy, Hugues	Tinguy	Hugues	TINH	NA
+TJ	Tosh, James	Tosh	James	TJ	NA
+TJF	Tonduz, Jean François Adolphe (Adolfo)	Tonduz	Jean François Adolphe (Adolfo)	TJF	NA
+TJL	Tapia Muñoz, José Luis	Tapia Muñoz	José Luis	TJL	NA
+TJW	Terborgh, John Whittle	Terborgh	John Whittle	TJW	NA
+TL	Toussaint, L.	Toussaint	L.	TL	NA
+TLA	Thouars, Louis-Marie Aubert du Petit-	Thouars	Louis-Marie Aubert du Petit-	TLA	NA
+TLO	Teixeira, Luíz O. Adão	Teixeira	Luíz O. Adão	TLO	NA
+TM	Toledo G., Marisol	Toledo G.	Marisol	TM	NA
+TMC	Tschá, M. C.	Tschá	M. C.	TMC	NA
+TME	Timaná, Martín E.	Timaná	Martín E.	TME	NA
+TMZ	Tahina, Nomenjanahary Zo	Tahina	Nomenjanahary Zo	TMZ	NA
+TN	TANNER, *	TANNER	NA	TN	NA
+TO	Téllez Valdés, Oswaldo	Téllez Valdés	Oswaldo	TO	NA
+TOK	Ralainaorina, Toky Niaina	Ralainaorina	Toky Niaina	TOK	NA
+TOLE	Toledo, *	Toledo	NA	TOLE	NA
+TP	Tenorio L., Pedro	Tenorio L.	Pedro	TP	NA
+TR	Torres Colín, Rafael	Torres Colín	Rafael	TR	NA
+TR0L	Tróchez, Lizzette	Tróchez	Lizzette	TR0L	NA
+TRAG	Transects, Guinée	Transects	Guinée	TRAG	NA
+TRAM	Transect, MBG	Transect	MBG	TRAM	NA
+TS	Stevart, Tariq	Stévart	Tariq	TS	NA
+TS	Stévart, Tariq	Stévart	Tariq	TS	NA
+TSM	Trigui, Sonia M.	Trigui	Sonia M.	TSM	NA
+TSS	Tsarasoa, Sitrakiniaina Sandy	Tsarasoa	Sitrakiniaina Sandy	TSS	NA
+TSUS	Tsugaru, Shunsuke	Tsugaru	Shunsuke	TSUS	NA
+TVW	Torrez Flores, Vania Wendy	Torrez Flores	Vania Wendy	TVW	NA
+TWW	Thomas, William Wayt	Thomas	William Wayt	TWW	NA
+U	Guillén, Jaime	Guillén	Jaime	U	NA
+UE	Ursch, Eugène	Ursch	Eugène	UE	NA
+ULE	Urrego Giraldo, Ligia Estela	Urrego Giraldo	Ligia Estela	ULE	NA
+UNKN	Collector Unknown, *	Unknown	Unknown	UNKN	NA
+UNKN	Unknown	Unknown	Unknown	UNKN	NA
+US	Swenson, Ulf	Swenson	Ulf	US	NA
+V	VICTORIO, *	VICTORIO	NA	V	NA
+VA	Vicentini, Alberto	Vicentini	Alberto	VA	NA
+VAH	von Wedel, Alwyn Hasso (Harry)	von Wedel	Alwyn Hasso (Harry)	VAH	NA
+VDB	Burgt, Xander van der	Burgt	Xander van der	VDB	NA
+VE	Vargas N., Ernesto	Vargas N.	Ernesto	VE	NA
+VEG	Varela Cordero, Eduard Gerardo	Varela Cordero	Eduard Gerardo	VEG	NA
+VF	Ventura A., Francisco	Ventura A.	Francisco	VF	NA
+VG	Vieira, G.	Vieira	G.	VG	NA
+VHH	van der Werff, Hendrik (Henk) Hessel	van der Werff	Hendrik (Henk) Hessel	VHH	NA
+VHR	Villegas Huanca, Richard	Villegas Huanca	Richard	VHR	NA
+VI	Velázquez, Ileana	Velázquez	Ileana	VI	NA
+VIG	Vargas Caballero, Israel G.	Vargas Caballero	Israel G.	VIG	NA
+VIGR	Viguier, René	Viguier	René	VIGR	NA
+VILA	Villamil, A.	Villamil	A.	VILA	NA
+VJ	Vesco, J.	Vesco	J.	VJ	NA
+VJF	Villiers, Jean François	Villiers	Jean François	VJF	NA
+VJG	Vélez Arango, Juan Gonzalo	Vélez Arango	Juan Gonzalo	VJG	NA
+VJH	Vargas López, José Homero	Vargas López	José Homero	VJH	NA
+VK	Velasco Gutiérrez, Kenia	Velasco Gutiérrez	Kenia	VK	NA
+VL	Valenzuela Gamarra, Luis	Valenzuela Gamarra	Luis	VL	NA
+VLD	Vargas Salazar, Luis Diego	Vargas Salazar	Luis Diego	VLD	NA
+VM	Vatanparast, Mohammad	Vatanparast	Mohammad	VM	NA
+VMR	Villacorta M., Raul	Villacorta M.	Raul	VMR	NA
+VN	VAZ, *	VAZ	NA	VN	NA
+VOR	Vargas Ramírez, Orlando Ricardo de los Ángeles	Vargas Ramírez	Orlando Ricardo de los Ángeles	VOR	NA
+VPC	Vincelli, Paul C.	Vincelli	Paul C.	VPC	NA
+VR	Vásquez Martínez, Rodolfo	Vásquez Martínez	Rodolfo	VR	NA
+VRL	Vargas Ramírez, Lourdes	Vargas Ramírez	Lourdes	VRL	NA
+VRO	Vanni, Ricardo Oscar	Vanni	Ricardo Oscar	VRO	NA
+VTR	van Andel, Tinde R.	van Andel	Tinde R.	VTR	NA
+VVE	Ventura V., E.	Ventura V.	E.	VVE	NA
+W	Hamilton, William	Hamilton	William	W	NA
+WALB	Wallnöfer, Bruno	Wallnöfer	Bruno	WALB	NA
+WB	Bojer, Wenceslas (Wenzel)	Bojer	Wenceslas (Wenzel)	WB	NA
+WC	Whitefoord, Caroline	Whitefoord	Caroline	WC	NA
+WCC	Wright, Charles (Carlos)	Wright	Charles (Carlos)	WCC	NA
+WCL	Wilson, Charles L.	Wilson	Charles L.	WCL	NA
+WEG	Waterlot, E. Georges	Waterlot	E. Georges	WEG	NA
+WEN	Wen	Wen	NA	WEN	NA
+WF	Woytkowski, Felix	Woytkowski	Felix	WF	NA
+WGL	Webster, Grady Linder	Webster	Grady Linder	WGL	NA
+WGM	Walters, Gretchen Marie	Walters	Gretchen Marie	WGM	NA
+WILC	Wilks, Chris	Wilks	Chris	WILC	NA
+WJ	Wagemans, J.	Wagemans	J.	WJ	NA
+WJJ	Wieringa, Jan Johannes	Wieringa	Jan Johannes	WJJ	NA
+WJR	Wiley, J. R.	Wiley	J. R.	WJR	NA
+WLJ	White, Lee J. T.	White	Lee J. T.	WLJ	NA
+WLO	Williams, Louis Otho (Otto)	Williams	Louis Otho (Otto)	WLO	NA
+WR	Rauh, Werner	Rauh	Werner	WR	NA
+WRA	Wasum, Ronaldo Adelfo	Wasum	Ronaldo Adelfo	WRA	NA
+WRD	Worthington, Richard Dane	Worthington	Richard Dane	WRD	NA
+WRG	Wieland, Ronald G.	Wieland	Ronald G.	WRG	NA
+WRH	Woodworth, Robert Hugo	Woodworth	Robert Hugo	WRH	NA
+WRJ	Wood, John Richard Ironside	Wood	John Richard Ironside	WRJ	NA
+WRL	Wilbur, Robert Lynch	Wilbur	Robert Lynch	WRL	NA
+WRO	Williams, Robert Orchard	Williams	Robert Orchard	WRO	NA
+WRP	Wunderlin, Richard P.	Wunderlin	Richard P.	WRP	NA
+WSK	Wu, Su Kung	Wu	Su Kung	WSK	NA
+WTT	Wendt, Thomas (Tom) Leighton	Wendt	Thomas (Tom) Leighton	WTT	NA
+WUJJ	Wurdack, John Julius	Wurdack	John Julius	WUJJ	NA
+WW	Wilbert, Werner	Wilbert	Werner	WW	NA
+WYM	Wang, Yang-Ming	Wang	Yang-Ming	WYM	NA
+WYM	Wang, Ying-ming	Wang	Ying-ming	WYM	NA
+YKR	Young, Kenneth R.	Young	Kenneth R.	YKR	NA
+YM	Yánez, Manuel	Yánez	Manuel	YM	NA
+YTG	Yuncker, Truman George	Yuncker	Truman George	YTG	NA
+Z	Zent, Stanford	Zent	Stanford	Z	NA
+ZAR	Zarucchi, James Lee	Zarucchi	James Lee	ZAR	NA
+ZEM	Zardini, Elsa Matilde	Zardini	Elsa Matilde	ZEM	NA
+ZFO	Zuloaga, Fernando Omar	Zuloaga	Fernando Omar	ZFO	NA
+ZHZOO	Zoo, Zurich	Zoo	Zurich	ZHZOO	NA
+ZJ	Zuleta, Jorge	Zuleta	Jorge	ZJ	NA
+ZL	Zelaya, Lorena	Zelaya	Lorena	ZL	NA
+ZML	Zjhra, Michelle	Zjhra	Michelle L.	ZML	NA
+ZML	Zjhra, Michelle L.	Zjhra	Michelle L.	ZML	NA
+ZN	ZICKEL, *	ZICKEL	NA	ZN	NA
+ZNA	Zamora Villalobos, Nelson Antonio	Zamora Villalobos	Nelson Antonio	ZNA	NA
+ZNB	Zimba, Noah B.	Zimba	Noah B.	ZNB	NA
+ZR	Rogers, Zachary Scott	Rogers	Zachary Scott	ZR	NA
+ZRA	Zúñiga Villegas, Rodolfo Antonio	Zúñiga Villegas	Rodolfo Antonio	ZRA	NA
+ZS	Zamudio Ruíz, Sergio	Zamudio Ruíz	Sergio	ZS	NA
+ZTA	Zanoni, Thomas A.	Zanoni	Thomas A.	ZTA	NA
+ZV	Zak, Vlastimil	Zak	Vlastimil	ZV	NA
+NA	Anonymous	Anonymous	NA	NA	NA
