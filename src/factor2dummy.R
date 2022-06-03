@@ -1,4 +1,4 @@
-factor2dummy <- function(df, factorname, keep.levels = levels(factor(df[,factorname])), na.method = "zero") {
+.factor2dummy <- function(df, factorname, keep.levels = levels(factor(df[,factorname])), na.method = "zero") {
   
   dfac <- data.frame(factor(df[,factorname]))
   names(dfac) <- factorname
@@ -24,4 +24,18 @@ factor2dummy <- function(df, factorname, keep.levels = levels(factor(df[,factorn
   names(df2)[pos:(pos + length(keep.levels) - 1)] <- paste0(factorname, "_", keep.levels)
   rownames(df2) <- rownames(df)
   return(df2)
+}
+
+factor2dummy <- function(df, factors = names(df)[!sapply(df, class) %in% c("numeric","integer")],
+                         freq.min = 0.075) {
+  stopifnot(is.data.frame(df), freq.min >= 0, freq.min <= 1,
+            all(factors) %in% names(df))
+  dd <- df
+  for (fac in factors) {
+    keep <- names(which(table(factor(df[,fac]))/nrow(df) >= freq.min))
+    dd <- .factor2dummy(df = dd, factorname = fac,
+                        keep.levels = keep,
+                        na.method = "zero")
+  }
+  return(dd)
 }
