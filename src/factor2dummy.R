@@ -29,7 +29,7 @@
 factor2dummy <- function(df, factors = names(df)[!sapply(df, class) %in% c("numeric","integer")],
                          freq.min = 0.075) {
   stopifnot(is.data.frame(df), freq.min >= 0, freq.min <= 1,
-            all(factors) %in% names(df))
+            all(factors %in% names(df)))
   dd <- df
   for (fac in factors) {
     keep <- names(which(table(factor(df[,fac]))/nrow(df) >= freq.min))
