@@ -1,1 +1,4 @@
-
+latitude,longitude,verbatimElevation,locality,collector,institutionCode,eventDate,occurrenceDetails,occurrenceRemarks,coordinateuncertaintyinmeters
+-13.69,47.99,101,District dAmbanja Commune de Bemanevika,Karatra 155,Karatra Aime Dochard 155,29/7/2019,http://www.tropicos.org/Specimen/101178074,Extant: 1,GPS
+-13.68,47.98,107,District dAmbanja Commune de Bemanevika Ouest,Karatra 160,Karatra Aime Dochard 160,29/7/2019,http://www.tropicos.org/Specimen/101178079,Extant: 1,GPS
+-13.75,48.09,305,Ampasindava foret de Bongomihiravavy,Tahinarivony 643,Tahinarivony Tahinarivony Jacquis 643,11/5/2012,http://www.tropicos.org/Specimen/100979989,Extant: 1,GPS
