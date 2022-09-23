@@ -1,24 +1,24 @@
-latitude,longitude,occurrenceRemarks,eventDate,collector,institutionCode,locality,occurrenceDetails,coordinateuncertaintyinmeters,coordinateuncertaintyinmeters.1,Taxon
--13.67,47.98,Extant: 1,29/7/2019,Karatra 155,Karatra Aime Dochard 155,District dAmbanja. Commune de Bemanevika Ouest,http://www.tropicos.org/Specimen/101178074,GPS,GPS,bosseri
--13.75,48.09,Extant: 1,11/5/2012,Tahinarivony 643,Tahinarivony Tahinarivony Jacquis 643,Ampasindava,http://www.tropicos.org/Specimen/100979989,GPS,GPS,bosseri
--14.32,48.2,Extant: 0,29/10/1950,Service Forestier Madagascar 38R152,Service Forestier Madagascar 38R152,Ambodisaina. Canton et Gouvernement de Maromandia,http://www.tropicos.org/Specimen/101164321,post facto low,post facto low,bosseri
--14.15,48.09,Extant: 1,4/4/2017,Hassold 711,Hassold Sonja 711,Au bord de la route RN 6 de Ambanja a Antsohihy,http://www.tropicos.org/Specimen/100973041,GPS,GPS,bosseri
--13.13,49.69,Extant: 1,15/12/2019,Andriamiarisoa 2461,Andriamiarisoa Lala Roger 2461,District de Vohemar Commune de Daraina,http://www.tropicos.org/Specimen/101178697,GPS,GPS,oronjiae
--12.26,49.37,Extant: 1,16/7/2019,Andriamiadana 4,Andriamiadana Stephano 4,District dAntsiranana II Commune de Ramena,http://www.tropicos.org/Specimen/101179249,GPS,GPS,oronjiae
--12.96,49.7,Extant: 1,5/11/2005,Ratovoson 1066,Ratovoson Fidisoa Fidy 1066,Vohemar,http://www.tropicos.org/Specimen/2848023,GPS,GPS,oronjiae
--12.24,49.36,Extant: 0,1/4/1994,Du Puy M771,Du Puy David Jean M771,N Madgascar Antsiaranana Province NE of Antsiranana Diego Suarez forest of Orangea,http://www.tropicos.org/Specimen/3465447,unknown,unknown,oronjiae
--13.16,49.69,Extant: 1,17/2/2019,Karatra 52,Karatra Aime Dochard 52,District de Vohemar Commune de Daraina LokyManambato AP,http://www.tropicos.org/Specimen/101143061,GPS,GPS,oronjiae
--12.26,49.36,Extant: 1,29/4/2022,Karatra 557,Karatra Aime Dochard 557,District dAntsiranana II Commune de Ramena,http://www.tropicos.org/Specimen/101365409,GPS,GPS,oronjiae
--12.63,49.4,Extant: 0,18/3/1954,Service Forestier Madagascar 9426,Service Forestier Madagascar 9426,Sahafary DiegoSuarez,http://www.tropicos.org/Specimen/3465446,unknown,unknown,oronjiae
--12.25,49.36,Extant: 1,8/1/2009,Christian 93,Christian Claude 93,Antsiranana II Ramena Orangea,http://www.tropicos.org/Specimen/100210776,GPS,GPS,oronjiae
--13.18,49.55,Extant: 0,2/5/2004,Ranirison 769,Ranirison Patrick 769,Daraina foret dAntsahabe,http://www.tropicos.org/Specimen/100646852,unknown,unknown,oronjiae
--12.25,49.36,Extant: 0,24/4/1966,Service Forestier Madagascar Capuron 24684,Service Forestier Madagascar Capuron 24684,Ouest Nord Partie sud de la foret dOrangea,http://www.tropicos.org/Specimen/101127897,post facto high,post facto high,oronjiae
--12.32,49.34,Extant: 1,8/5/2007,BardotVaucoulon 1773,BardotVaucoulon Martine 1773,Montagne des Fran√ßais,http://www.tropicos.org/Specimen/101129525,map,map,oronjiae
--12.59,49.45,Extant: 1,13/4/2014,Rakotoarisoa 3426,Rakotoarisoa Solofo Eric 3426,NA,http://www.tropicos.org/Specimen/101134950,GPS,GPS,oronjiae
--12.56,49.43,Extant: 0,1/5/1966,Service Forestier Madagascar 24695,Service Forestier Madagascar 24695,Foret de Sahafary,http://www.tropicos.org/Specimen/101134967,post facto low,post facto low,oronjiae
--12.74,49.23,Extant: 0,NA/8/1964,Service Forestier Madagascar 21792,Service Forestier Madagascar 21792,Anivorano Nord District de DiegoSuarez,http://www.tropicos.org/Specimen/101164920,post facto low,post facto low,oronjiae
--12.27,49.36,Extant: 1,21/5/2019,Randriamahazomanana 64,Randriamahazomanana Daniel George 64,Distict Diego II Commune Ramena,http://www.tropicos.org/Specimen/101151734,GPS,GPS,oronjiae
--12.27,49.38,Extant: 1,13/12/2019,Ramanitrinizaka 154,Ramanitrinizaka Fanilo 154,District Antsiranana II Commune Ramena,http://www.tropicos.org/Specimen/101178355,GPS,GPS,oronjiae
--12.69,49.53,Extant: 1,9/3/2022,Randrianaivo 4016,Randrianaivo Richard 4016,District de Diego II Commune dAnkarongana,http://www.tropicos.org/Specimen/101357327,GPS,GPS,oronjiae
--12.26,49.36,Extant: 1,2/4/2017,Hassold 690,Hassold Sonja 690,Diego-Suarez,http://www.tropicos.org/Specimen/100972252,GPS,GPS,oronjiae
--12.26,49.36,Extant: 1,2/4/2017,Hassold 691,Hassold Sonja 691,Diego-Suarez,http://www.tropicos.org/Specimen/100974800,GPS,GPS,oronjiae
+latitude,longitude,occurrenceRemarks,verbatimElevation,eventDate,collector,institutionCode,locality,occurrenceDetails,coordinateuncertaintyinmeters,coordinateuncertaintyinmeters.1,Taxon
+-13.67,47.98,Extant: 1,116,29/7/2019,Karatra 155,Karatra Aime Dochard 155,District dAmbanja. Commune de Bemanevika Ouest,http://www.tropicos.org/Specimen/101178074,GPS,GPS,bosseri
+-13.75,48.09,Extant: 1,305,11/5/2012,Tahinarivony 643,Tahinarivony Tahinarivony Jacquis 643,Ampasindava,http://www.tropicos.org/Specimen/100979989,GPS,GPS,bosseri
+-14.32,48.2,Extant: 0,NA,29/10/1950,Service Forestier Madagascar 38R152,Service Forestier Madagascar 38R152,Ambodisaina. Canton et Gouvernement de Maromandia,http://www.tropicos.org/Specimen/101164321,post facto low,post facto low,bosseri
+-14.15,48.09,Extant: 1,150.3,4/4/2017,Hassold 711,Hassold Sonja 711,Au bord de la route RN 6 de Ambanja a Antsohihy,http://www.tropicos.org/Specimen/100973041,GPS,GPS,bosseri
+-13.13,49.69,Extant: 1,135,15/12/2019,Andriamiarisoa 2461,Andriamiarisoa Lala Roger 2461,District de Vohemar Commune de Daraina,http://www.tropicos.org/Specimen/101178697,GPS,GPS,oronjiae
+-12.26,49.37,Extant: 1,54,16/7/2019,Andriamiadana 4,Andriamiadana Stephano 4,District dAntsiranana II Commune de Ramena,http://www.tropicos.org/Specimen/101179249,GPS,GPS,oronjiae
+-12.96,49.7,Extant: 1,175,5/11/2005,Ratovoson 1066,Ratovoson Fidisoa Fidy 1066,Vohemar,http://www.tropicos.org/Specimen/2848023,GPS,GPS,oronjiae
+-12.24,49.36,Extant: 0,50,1/4/1994,Du Puy M771,Du Puy David Jean M771,N Madgascar Antsiaranana Province NE of Antsiranana Diego Suarez forest of Orangea,http://www.tropicos.org/Specimen/3465447,unknown,unknown,oronjiae
+-13.16,49.69,Extant: 1,121,17/2/2019,Karatra 52,Karatra Aime Dochard 52,District de Vohemar Commune de Daraina LokyManambato AP,http://www.tropicos.org/Specimen/101143061,GPS,GPS,oronjiae
+-12.26,49.36,Extant: 1,61,29/4/2022,Karatra 557,Karatra Aime Dochard 557,District dAntsiranana II Commune de Ramena,http://www.tropicos.org/Specimen/101365409,GPS,GPS,oronjiae
+-12.63,49.4,Extant: 0,NA,18/3/1954,Service Forestier Madagascar 9426,Service Forestier Madagascar 9426,Sahafary DiegoSuarez,http://www.tropicos.org/Specimen/3465446,unknown,unknown,oronjiae
+-12.25,49.36,Extant: 1,78,8/1/2009,Christian 93,Christian Claude 93,Antsiranana II Ramena Orangea,http://www.tropicos.org/Specimen/100210776,GPS,GPS,oronjiae
+-13.18,49.55,Extant: 0,600,2/5/2004,Ranirison 769,Ranirison Patrick 769,Daraina foret dAntsahabe,http://www.tropicos.org/Specimen/100646852,unknown,unknown,oronjiae
+-12.25,49.36,Extant: 0,NA,24/4/1966,Service Forestier Madagascar Capuron 24684,Service Forestier Madagascar Capuron 24684,Ouest Nord Partie sud de la foret dOrangea,http://www.tropicos.org/Specimen/101127897,post facto high,post facto high,oronjiae
+-12.32,49.34,Extant: 1,NA,8/5/2007,BardotVaucoulon 1773,BardotVaucoulon Martine 1773,Montagne des Fran√ßais,http://www.tropicos.org/Specimen/101129525,map,map,oronjiae
+-12.59,49.45,Extant: 1,257,13/4/2014,Rakotoarisoa 3426,Rakotoarisoa Solofo Eric 3426,NA,http://www.tropicos.org/Specimen/101134950,GPS,GPS,oronjiae
+-12.56,49.43,Extant: 0,NA,1/5/1966,Service Forestier Madagascar 24695,Service Forestier Madagascar 24695,Foret de Sahafary,http://www.tropicos.org/Specimen/101134967,post facto low,post facto low,oronjiae
+-12.74,49.23,Extant: 0,NA,NA/8/1964,Service Forestier Madagascar 21792,Service Forestier Madagascar 21792,Anivorano Nord District de DiegoSuarez,http://www.tropicos.org/Specimen/101164920,post facto low,post facto low,oronjiae
+-12.27,49.36,Extant: 1,47,21/5/2019,Randriamahazomanana 64,Randriamahazomanana Daniel George 64,Distict Diego II Commune Ramena,http://www.tropicos.org/Specimen/101151734,GPS,GPS,oronjiae
+-12.27,49.38,Extant: 1,43,13/12/2019,Ramanitrinizaka 154,Ramanitrinizaka Fanilo 154,District Antsiranana II Commune Ramena,http://www.tropicos.org/Specimen/101178355,GPS,GPS,oronjiae
+-12.69,49.53,Extant: 1,24,9/3/2022,Randrianaivo 4016,Randrianaivo Richard 4016,District de Diego II Commune dAnkarongana,http://www.tropicos.org/Specimen/101357327,GPS,GPS,oronjiae
+-12.26,49.36,Extant: 1,64,2/4/2017,Hassold 690,Hassold Sonja 690,Diego-Suarez,http://www.tropicos.org/Specimen/100972252,GPS,GPS,oronjiae
+-12.26,49.36,Extant: 1,66,2/4/2017,Hassold 691,Hassold Sonja 691,Diego-Suarez,http://www.tropicos.org/Specimen/100974800,GPS,GPS,oronjiae
